@@ -1,0 +1,95 @@
+body {
+  overflow-y: auto;
+}
+
+div#signup div.form div.section button.check_name {
+  width: 190px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+td#center_col div#middle_content div.quick_search div.search_input {
+  padding-top: 20px;
+}
+
+td#center_col div#middle_content div.quick_search input#search_value {
+  width: 230px;
+  margin-left: 10px;
+  height: 20px;
+  vertical-align: 6px;
+}
+
+td#center_col div#middle_content div.quick_search button#search {
+  vertical-align: 3px;
+}
+
+td#left_col ul.left_nav li {
+  margin-left: 0;
+}
+
+td#center_col div#content_div div.timeline_header div.filter_button button.short_toggle,
+td#center_col div#content_div div.timeline_header div.filter_button button.short_toggle_sel
+{
+  padding-right: 16px;
+  padding-left: 4px;
+}
+
+div#timeline_filters div#message_filters a {
+  text-decoration: none;
+}
+
+div#message_form div#message_text_container div#text_type textarea#message_text {
+  height: 52px;
+  overflow: auto;
+}
+
+div#message_list div.messagecontainer div.message div.message_body div.links {
+  /*background-color: #ffa;*/
+}
+
+div#message_list div.messagecontainer div.message div.message_body div.links ul li {
+  padding-bottom: 4px;
+}
+
+div.replies div.replyform div.replyformcontainer div.reply_text_type textarea,
+div.shares div.shareform div.shareformcontainer div.share_text_type textarea
+{
+  background-color: white;
+  width: 375px;
+  height: 46px;
+  overflow: auto;
+}
+
+textarea.full {
+  background-color: white;
+	overflow: auto;
+}
+
+div#group_form div.photo_form {
+  /*overflow: visible;*/
+  height: 300px;
+}
+
+div#group_form .authorize {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+div#group_form .authorize label {
+	font-weight:normal;
+	width: auto;
+	margin-left: 5px;
+	padding-top: 3px;
+}
+
+div#alert_content table.alert_form td.alert_form_label span.note {
+  /*margin-left: 0;*/
+}
+
+div#alert_content table.alert_form td.alert_form_label input {
+  width: 183px;
+}
+
+button#reset_password {
+  width: 200px;
+}

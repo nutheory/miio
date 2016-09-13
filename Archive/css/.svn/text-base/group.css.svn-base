@@ -1,0 +1,49 @@
+td#left_col img.group_header {
+  display: block;
+}
+
+td#center_col div.not_admin {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  color: #666;
+}
+
+td#center_col div#group_manageadmins_header,
+td#center_col div#group_transferownership_header
+{
+  margin-top: 20px;
+}
+
+td#center_col div#group_manageadmins_header span,
+td#center_col div#group_transferownership_header span
+{
+  background-color: #e0ebfd;
+}
+
+div#groups_content {
+  clear: both;
+}
+
+div#groups_content div.transferpending {
+  margin-top: 20px;
+}
+
+div#groups_content input.website {
+  width: 400px;
+}
+
+div#group_profile_form div.aboutnote {
+  font-size: 14px;
+  margin-left: 180px;
+  margin-top: 5px;
+}
+
+div#content_div div.actionlinks a.highlightlink {
+  background-color: #e5edfa;
+}
+
+div#group_profile_form div.form_section div.privacy input {
+  margin-right: 10px;
+  margin-top: 7px;
+}

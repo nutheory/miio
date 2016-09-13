@@ -1,0 +1,391 @@
+div#settings_content {
+
+}
+
+
+div#twitter, div#facebook, div#rss{
+	width:100%;
+	font-size:14px;
+	margin-top:10px;
+}
+
+div#twitter ul{
+	list-style:none;
+}
+
+div#twitter #header img, 
+div#rss #header img{
+	float:left;	
+}
+
+div#rss #header div{
+	float:left;
+	width:360px;
+	margin-left:20px;
+	margin-right:20px;
+	height:60px;
+	position:relative;
+}
+
+div#rss #header div p{
+	position:absolute;
+	bottom:0px;
+}
+
+div#rss div#header,
+div#twitter div#header{
+	margin-bottom:30px;
+	margin-top:20px;	
+	overflow:auto;
+}
+
+div#twitter #content{
+	clear:both;
+}
+
+div#twitter #content div.signin{
+	margin-top:40px;
+}
+
+div#twitter #content div#signedin{
+	float:left;
+	margin:12px 10px 0px 0px;
+}
+
+div#twitter #content img.avatar{
+	width:36px;
+	height:36px;
+	float:left;
+}
+
+div#twitter #content div.name{
+	margin:12px 0px 0px 10px;
+	float:left;	
+}
+
+div#twitter #content li.opt label{
+	float:left;
+	width:320px;
+}
+
+div#twitter #content li.opt div.twitter_result_y{
+	float:left;
+	font-size:11px;
+	font-weight:bold;
+	height:20px;
+	background:url("../images/tick.png") no-repeat;
+	padding-left:20px;
+	padding-top:2px;
+	margin-left:20px;
+}
+
+div#twitter #content li.opt div.twitter_result_n{
+	float:left;
+	font-size:11px;
+	font-weight:bold;
+	height:20px;
+	background:url("../images/x_check.png") no-repeat;
+	padding-left:22px;
+	padding-top:2px;
+	margin-left:20px;
+}
+
+div#twitter #content ul{
+	margin-top:10px;
+	padding-left:0;
+}
+
+div#twitter #content li{
+	clear:both;
+}
+
+div#twitter #content li.title{
+	padding:4px 10px;
+	background-color: #ffa;
+	overflow:auto;
+	clear:both;
+}
+
+div#twitter #content li#editp{
+	font-size:12px;
+	padding-top:10px;
+	padding-bottom:20px;	
+}
+
+div#twitter #content li.opt{
+	clear:both;
+	overflow:auto;
+	margin-top:20px;
+}
+
+div#twitter #content li.opt span{
+	font-weight:bold;
+}
+
+div#twitter #content li#error{
+	color:#990000;
+	margin-bottom:20px;
+}
+
+div#twitter #content div.label{
+	float:left;
+	width:300px;
+}
+
+div#twitter #content div.radios{
+	float:left;
+	width:100px;
+}
+
+div#twitter #content div.radios input{
+	margin-left:10px;
+	margin-right:4px;
+}
+
+div#rss #content p{
+	width:100%;
+	clear:both;
+	margin-top:30px;
+	overflow:auto;
+}
+
+div#rss #content span.test{
+	float:right;
+	padding-bottom:4px;
+}
+
+div#rss #content img{
+	width:16px;
+	height:16px;
+	border:0;
+	margin-right:10px;
+}
+
+div#rss #content .url div{
+	float:left;
+	margin-top:4px;
+}
+
+div#rss #content .url div.link{
+	float:left;
+	padding-bottom:2px;
+	margin-top:4px;
+}
+
+div#rss #header div#titleText{
+	margin-top:20px;
+}
+
+div#rss #content span{
+	color: #2200CC;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+div#rss p.small{
+	font-size:12px;
+}
+
+div#abfooter, div#editfooter, div#footer, div#tefooter, div#tvfooter, div#tsfooter{
+	width:100%;
+	clear:both;
+	text-align:center;
+	padding-top:20px;
+}
+
+div#footer, div#twitter #tvfooter{
+	padding-bottom:6px;
+}
+
+div#footer span, div#tvfooter span{
+	color: #2200CC;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+div#feedlist ul{
+	list-style:none;
+	margin:20px 0 20px 0 ;
+	padding:0;
+}
+
+div#feedlist li{
+	margin:0px 0 10px 0;
+}
+
+div#feedlist ul li div.title{
+	font-weight:bold;
+
+}
+
+div#feedlist ul li div.title span{
+	font-size:12px;
+	color:#666;
+	font-weight:normal;
+}
+
+div#feedlist ul li div.url{
+	font-size:14px;
+	margin:4px 0px;
+	font-weight:normal;
+	font-style:italic;
+	color:#09c;
+}
+
+div#feedlist ul li div.links span{
+	font-size:12px;
+	color: #2200CC;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+.short_button{margin:10px;}
+
+div#notifications p {
+  font-size: 14px;
+}
+
+div#notifications p.notice {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+div#notifications table tr .optcol {
+  width: 100px;
+  text-align: center;
+  font-size: 14px;
+  padding: 0;
+}
+
+div#notifications table tr th.restore {
+  text-align: left;
+  
+}
+
+div#notifications table tr th.restore button {
+margin:0;
+}
+  
+
+div#notifications table tr.selectrow td a {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+div#notifications table tr.section_head td {
+  padding: 15px 0 6px 0;
+  border-bottom: solid 1px #999;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div#notifications table tr.check_row td {
+  font-size: 14px;
+}
+
+div#notifications table tr.check_row td.optcol {
+  vertical-align: middle;
+}
+
+div#edit_new div.form_section h3.album_head {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+div.form_section a.see_albums {
+  float: right;
+  font-size: 12px;
+  margin-right: 2px;
+}
+
+div.album {
+  padding: 10px 0;
+  border-bottom: solid #999 1px;
+}
+
+div.album_highlight {
+  background-color: #ffffee;
+}
+
+div.album div.showlink {
+  float: right;
+}
+
+div.album div.showlink a {
+  font-size: 12px;
+}
+
+div.album p {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+div.album div.action_bar {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 12px;
+} 
+
+div.album div.action_bar a {
+  margin-right: 15px;
+  font-size: 12px;
+}
+
+div.album div.action_bar a.delete {
+  float: right;
+  margin-right: 0;
+}
+
+div.album div.action_bar a.cancel,
+div#edit_new a.cancel {
+  float: right;
+  font-size: 12px;
+  margin-right: 2px;
+}
+
+div.album ul.album_inputs {
+  
+}
+
+table.album_photos {
+  width: auto !important;
+}
+
+table.album_photos tr td {
+  width: 210px;
+  padding-bottom: 10px;
+  text-align: center;
+  vertical-align: top;
+  border: solid white 1px;
+}
+
+table.album_photos tr td div {
+  width: 200px;
+}
+
+table.album_photos tr td div.title {
+  font-size: 12px;
+  margin-bottom: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+table.album_photos tr td div.photo {
+  height: 200px;
+  background-color: #f3f3f3;
+  line-height: 200px;
+  font-size: 150px;
+  color: #e9e9e9;
+}
+
+table.album_photos tr td div a {
+  font-size: 12px;
+}
+
+table.album_photos tr td.col0 div { margin-left: 0; margin-right: 10px; /*text-align: left;*/ }
+table.album_photos tr td.col1 div { margin-left: 5px; margin-right: 5px; /*text-align: center;*/ }
+table.album_photos tr td.col2 div { margin-left: 10px; margin-right: 0; /*text-align: right;*/ }
+

@@ -1,0 +1,167 @@
+div#alert_content {
+
+}
+
+div#alert_content table {
+  font-size: 14px;
+  color:#666;
+  margin-top: 0;
+}
+
+/******************************************************************************/
+
+div#alert_content div.alert_desc {
+  margin-bottom: 10px;
+}
+
+div#alert_content div.alert_desc p{
+  font-size:14px;
+  margin-bottom:20px;
+}
+
+div#alert_content div.alert_form_header {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+div#alert_content table.alert_form {
+  margin-top: 5px;
+  font-size: 12px;
+  border: solid #cccccc 1px;
+}
+
+div#alert_content table.alert_form td {
+  padding: 3px 5px;
+  border-right: solid #cccccc 1px;
+}
+
+div#alert_content table.alert_form td table {
+  margin-top: 5px;
+  font-size: 11px;
+}
+
+div#alert_content table.alert_form td table td {
+  padding: 0;
+  border: none;
+}
+
+div#alert_content table.alert_form td table input {
+  vertical-align: -2px;
+}
+
+div#alert_content table.alert_form td table .all {
+  font-weight: bold;
+}
+
+div#alert_content table.alert_form td table .disabled {
+  color: #666;
+}
+
+div#alert_content table.alert_form td label.head {
+  font-weight: bold;
+}
+
+div#alert_content table.alert_form td.alert_form_label span.note {
+  font-style: italic;
+  font-size: 10px;
+  margin-left: 5px;
+}
+
+div#alert_content table.alert_form td.alert_form_label input {
+  display: block;
+  font-size: 12px;
+  border: solid black 1px;
+  width: 185px;
+  margin-top: 5px;
+}
+
+div#alert_content table.alert_form td.alert_form_submit {
+  width: 80px;
+  vertical-align: bottom;
+}
+
+div#alert_content table#alert span.note {
+  font-size: 12px;
+  font-style: italic;
+}
+
+div#alert_content table#alert div.sms_note {
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+div#alert_content div.alert_list_header {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+div#alert_content table.alerts {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+div#alert_content table.alerts th {
+  text-align: left;
+  border: solid #cccccc 1px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+div#alert_content table.alerts tr.alert_item td {
+  font-size: 12px;
+  border: solid #cccccc 1px;
+  padding: 5px;
+}
+
+div#alert_content table.alerts td.alert_method {
+  width: 80px;
+}
+
+div#alert_content table.alerts td.alert_options {
+  text-align: center;
+  width: 130px;
+}
+
+div#alert_content table.alerts td.alert_text {
+  width: 132px;
+}
+
+div#alert_content table.alerts tr.alert_editform td {
+  font-size: 12px;
+  padding: 5px;
+  border: solid #cccccc 1px;
+  background-color: #ffa;
+}
+
+div#alert_content table.alerts tr.alert_editform td.alert_keyword {
+  border-right: none;
+}
+
+div#alert_content table.alerts tr.alert_editform td.alert_keyword span {
+  font-weight: bold;
+}
+
+div#alert_content table.alerts tr.alert_editform td table tr td {
+  border: none;
+  font-size: 10px;
+  padding: 0;
+}
+
+div#alert_content table.alerts tr.alert_editform td.alert_notifyby {
+  width: 80px;
+}
+
+div#alert_content table.alerts tr.alert_editform td.alert_content_type input,
+div#alert_content table.alerts tr.alert_editform td.alert_notifyby input {
+  vertical-align: -2px;
+}
+
+div#alert_content table.alerts tr.alert_editform td.alert_submitedit {
+  text-align: center;
+  vertical-align: bottom;
+}
+
+div#alert_content table.alerts tr.paused {
+  background-color: #ffdddd;
+}

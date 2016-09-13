@@ -1,0 +1,181 @@
+
+div#group_album_form {
+  margin-top: 15px;
+}
+
+div#group_album_form div#openedit_new {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 5px;
+}
+
+div#edit_new {
+  color:#666;
+  margin: 0;
+  padding: 0;
+	font-size:14px;
+}
+
+div#edit_new div.form_section {
+  
+}
+
+div#edit_new div.form_section h3.album_head {
+  color: #999;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+div.form_section a.see_albums {
+  float: right;
+  font-size: 12px;
+  margin-right: 2px;
+}
+
+div#edit_new div.form_section div.counter,
+div.edit div.form_section div.counter {
+  margin: 0;
+  padding: 0;
+}
+
+div#edit_new div.form_section div.counter div,
+div.edit div.form_section div.counter div {
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+div#edit_new div.form_section div.counter label,
+div.edit div.form_section div.counter label {
+  padding-top: 0;
+}
+
+div#edit_new div.form_section div.counter textarea,
+div.edit div.form_section div.counter textarea {
+  width: 450px !important;
+}
+
+div.album {
+  padding: 10px 0;
+  border-bottom: solid #999 1px;
+}
+
+div.album_highlight {
+  background-color: #ffffee;
+}
+
+div.album div.showlink {
+  float: right;
+}
+
+div.album div.showlink a {
+  font-size: 12px;
+}
+
+div.album p {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+div.album div.action_bar {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 12px;
+} 
+
+div.album div.action_bar a {
+  margin-right: 15px;
+  font-size: 12px;
+}
+
+div.album div.action_bar a.delete {
+  float: right;
+  margin-right: 0;
+}
+
+div.album div.action_bar a.cancel,
+div#edit_new a.cancel {
+  float: right;
+  font-size: 12px;
+  margin-right: 2px;
+}
+
+div.album ul.album_inputs {
+  
+}
+
+table.album_photos {
+  width: auto !important;
+}
+
+table.album_photos tr td {
+  width: 210px;
+  padding-bottom: 10px;
+  text-align: center;
+  vertical-align: top;
+  border: solid white 1px;
+}
+
+table.album_photos tr td div {
+  width: 200px;
+}
+
+table.album_photos tr td div.title {
+  font-size: 12px;
+  margin-bottom: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+table.album_photos tr td div.photo {
+  height: 200px;
+  background-color: #f3f3f3;
+  line-height: 200px;
+  font-size: 150px;
+  color: #e9e9e9;
+}
+
+table.album_photos tr td div a {
+  font-size: 12px;
+}
+
+table.album_photos tr td.col0 div { margin-left: 0; margin-right: 10px; /*text-align: left;*/ }
+table.album_photos tr td.col1 div { margin-left: 5px; margin-right: 5px; /*text-align: center;*/ }
+table.album_photos tr td.col2 div { margin-left: 10px; margin-right: 0; /*text-align: right;*/ }
+
+div.form_response{
+	width:600px;
+	margin:40px auto;
+	color:#666;
+	border:1px solid #666;
+	background-color: #ffa;
+}
+
+div.form_response_short {
+	margin:40px auto;
+	color:#666;
+	border:1px solid #666;
+	background-color: #ffa;
+}
+
+div.form_response h3,
+div.form_response_short h3
+{
+	margin:10px 20px;	
+}
+
+div.form_response p,
+div.form_response_short {
+	margin:10px 20px;
+	font-size:12px;
+}
+
+div.form_response div.link_center,
+div.form_response_short div.link_center
+{
+	font-size:12px;
+	width:100%;
+	margin:10px 0;
+	text-align:center;
+}

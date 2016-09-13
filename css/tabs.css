@@ -1,0 +1,123 @@
+table tr td#left_col { width: 224px; }
+table tr td#right_col { }
+
+div#middle_content {
+  
+}
+
+div#middle_content div.message_filters {
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+
+div#middle_content div.message_filters a,
+div#middle_content div.message_filters span
+{
+  margin-right: 5px;
+}
+  
+div#tab_container {
+  border: solid #ccc 5px;
+  background:#fff;
+  padding: 20px;
+  padding-top: 10px;
+  width: 484px;
+}
+
+div#tab_container div#pause_counter,
+div#tab_container div#update_counter
+{
+  margin-top: 0;
+}
+
+div#tab_container div.header {
+  margin-bottom: 20px;
+}
+
+div#tab_container div.header h3 {
+  font-size: 32px;
+  color: #666;
+  margin-right: 20px;
+  font-weight:normal;
+} 
+
+div#tab_container div.header h3 img{
+  vertical-align: -5px;
+  margin-right: 5px;
+}
+
+div#tab_container div.tabs {
+  border-bottom: solid #cccccc 1px;
+  height: 31px;
+  padding-left: 10px;
+}
+
+div#tab_container div.tabs a {
+  float: left;
+  border: solid #cccccc 1px;
+  font-size: 13px;
+  font-weight: bold;
+  background-color: #eeeeee;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 8px;
+}
+
+div#tab_container div.tabs a.active {
+  background-color: white;
+  border-bottom: solid white 1px;
+  cursor: default;
+}
+
+div#tab_container div.tabs a.active:hover {
+  text-decoration: none;
+}
+
+div#tab_container div#tab_messages div#messagelist {
+  margin-top: 10px;
+}
+
+div#tab_container div#tab_messages div#messagelist div.messagecontainer {
+  /*width: 454px;*/
+}
+
+/******************************************************************************/
+
+div#category_list {
+  margin-top: 20px;
+}
+
+div#category_list h2 {
+  font-size: 32px;
+  font-weight: normal;
+  color: #666;
+}
+
+div#category_list h2 img {
+  vertical-align: -5px;
+  margin-right: 5px;
+}
+
+div#category_list h2 span.groupnote {
+  font-size: 18px;
+  font-weight: normal;
+  margin-left: 20px;
+  color: #666666
+}
+
+div#category_list table.categories {
+  font-size: 14px;
+}
+
+div#category_list table.categories td {
+  padding: 4px 0;
+}
+
+div#category_list table.categories td a {
+  color: #333333;
+  font-weight: normal;
+}
+
+div#tab_container h3.tab_header {
+  margin-bottom: 20px;
+}

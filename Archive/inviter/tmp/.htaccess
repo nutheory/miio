@@ -1,0 +1,4 @@
+#Disable access to all files
+Options -Indexes
+order allow,deny
+deny from all

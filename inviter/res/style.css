@@ -1,0 +1,220 @@
+
+/* colors ******************************/
+
+#oz_footer, #oz_footer a, #oz_footer a:hover, #oz_footer a:visited {color:#CCCCCC; }
+#oz_error {background-color:#fdd;border:1px solid #900;color:#900; margin:2px;}
+.oz_header {background-image: url(images/alpha.png); background-position:0px -300px;}
+.oz_icons_container {}
+.oz_separator {clear:both;border-top: dotted 1px #999;padding-top: 5px;padding-bottom: 0px;}
+.oz_row_even, .oz_row_odd{background-color:#fff;border-bottom:1px dotted #999;}
+.oz_row_even:hover, .oz_row_odd:hover{background-color:#e5edfa;}
+.oz_row_odd_selected {background-color:#FFFFAA; color:#000000}
+.oz_row_even_selected {background-color:#FFFFAA; color:#000000}
+.oz_contacts_table_header {background-image: url(images/alpha.png); background-position:0px -200px;}
+
+
+/* formatting ******************************/
+
+.oz_header {padding: 5px;margin-top: 0px;margin-bottom: 0px;font-weight:bold;height:1.25em;vertical-align:middle;}
+.oz_header_label {float:left;clear:left}
+.oz_header_startagain {float:right;clear:right}
+
+#oz_footer {margin-top: 20px;margin-bottom: 2px;font-size: 10px;text-align:center;}
+#oz_error {	font-weight: bold; padding: 5px;}
+
+.oz_contacts_list {padding:0 20px;clear:both;}
+.oz_contacts_table_header {border-top: solid 1px #999999;border-bottom: solid 1px #999999; font-weight: bold; }
+.oz_contacts_table {overflow: auto; background-color:#fff; border: solid 1px #999999; margin-top:6px; margin-bottom: 10px; width:100%;}
+.oz_contacts_table table tr td {padding-top:5px; padding-bottom: 5px; padding-left: 3px; }
+.oz_contacts_table table tr td a, .oz_contacts_table table tr td a:hover, .oz_contacts_table table tr td a:visited {}
+.oz_row_cb {cursor:pointer;}
+/*
+.oz_row_odd_selected {background-image: url(images/alpha.png); background-position:0px -400px;}
+.oz_row_even_selected {background-image: url(images/alpha.png); background-position:0px -400px;}
+*/
+
+.oz_name {float:left;}
+.oz_email { font-family: Helvetica, Arial, sans-serif;padding-left: 10px; float:right;text-align:right;padding-right:10px;}
+
+#ozpanel_service_dropdown{overflow:auto;}
+#oz_service_dropdown optgroup {text-indent:4px; font-weight:bold; font-style:normal; margin-bottom:10px; border-top: dotted 1px #666666;}
+#oz_service_dropdown option {/*background-color:#FFFFFF;color:#000000;*/padding-left:1em;margin-left:0px;padding-top:1px;padding-bottom:1px;}
+
+.oz_contact_image div {width: 25px;	height: 25px; overflow: hidden; padding-left: 0px; padding-right: 5px;}
+.oz_contact_image img {height: 25px; margin: 0 auto; z-index: 0;}
+
+.oz_email_valid {}
+.oz_email_invalid {color:#000000; background-color:#FFE6E7;}
+
+.oz_field_label {font-weight:bold; font-size:12px; padding-top:10px;float:left; width:100px;}
+.oz_field_label_dd {font-weight:bold; font-size:12px; padding-top:6px;float:left; width:100px;}
+.oz_field_button {/*border: solid 1px #000000; background-color:#F0F0F0; padding: 5px;*/}
+.sspace_top{margin-top:10px;}
+.dd{float:left}
+.oz_field_input {font-size:18px;width:260px;}
+.note{font-style:italic; font-size:12px;}
+.sep{margin-bottom:8px; clear:both;overflow:auto;}
+.right_note{padding-left:100px;margin-top:-4px;font-style:italic; font-size:12px;}
+.button_bar{margin-top:10px;padding-top:6px;margin-bottom:20px;overflow:auto; border-top:1px dotted #666;}
+.button_bar button{float:right;}
+label.select_all{ font-weight:bold; font-size:12px; padding:4px;}
+/*
+.oz_field_select {border: solid 1px #A0A0A0;}
+
+
+*:focus.oz_field_input,select:focus.oz_field_select {outline: solid 2px #F00000;}
+*/
+p.instruct{font-size:12px; margin:10px 0px;}
+
+.space_bottom{margin-bottom:20px;}
+
+.oz_icons_container {padding-left: 20px;padding-right: 20px; clear:both; overflow:auto; position:relative;/*position relative for IE bug*/}
+.oz_selector_actions { margin-top: 15px; margin-bottom: 15px; padding-right:20px; font-size:14px; text-align:right}
+.oz_selector_actions a {text-decoration:none;}
+.oz_selector_actions a:hover {text-decoration:underline;}
+
+.oz_logo {width: 80px;height:40px;line-height: 40px;padding:0px; margin: 5px;font-size: 10px; font-family: Helvetica, Arial, sans-serif;float:left;position:relative; /* hide overflow:hidden from IE5/Mac */ /* \*/ overflow: hidden; /* */ cursor:pointer;text-align:center;} 
+.oz_logo span {width:80px; height:40px; background-repeat:no-repeat; display:block; position:absolute; top:0px; left:0px; z-index:1; /*for Opera 5 and 6*/ }
+
+/* abi */
+.oz_logo_ span {background-image: url(images/abi.png); background-position:0px -0px;}
+.oz_logo_gmail span {background-image: url(images/abi.png); background-position:0px -40px;}
+.oz_logo_wa_gmail span {background-image: url(images/abi.png); background-position:0px -40px;}
+.oz_logo_yahoo span {background-image: url(images/abi.png); background-position:0px -80px;}
+.oz_logo_hotmail span {background-image: url(images/abi.png); background-position:0px -120px;}
+.oz_logo_wa_hotmail span {background-image: url(images/abi.png); background-position:0px -120px;}
+.oz_logo_aol span {background-image: url(images/abi.png); background-position:0px -160px;}
+.oz_logo_lycos span {background-image: url(images/abi.png); background-position:0px -200px;}
+.oz_logo_medotcom span {background-image: url(images/abi.png); background-position:0px -240px;}
+.oz_logo_maildotcom span {background-image: url(images/abi.png); background-position:0px -280px;}
+.oz_logo_wa_googleapps span {background-image: url(images/abi.png); background-position:0px -320px;}
+.oz_logo_gmx span {background-image: url(images/abi.png); background-position:0px -360px;}
+.oz_logo_rediff span {background-image: url(images/abi.png); background-position:0px -400px;}
+.oz_logo_indiatimes span {background-image: url(images/abi.png); background-position:0px -440px;}
+.oz_logo_fastmail span {background-image: url(images/abi.png); background-position:0px -480px;}
+.oz_logo_webde span {background-image: url(images/abi.png); background-position:0px -520px;}
+.oz_logo_icq span {background-image: url(images/abi.png); background-position:0px -560px;}
+.oz_logo_mynet span {background-image: url(images/abi.png); background-position:0px -600px;}
+.oz_logo_databg span {background-image: url(images/abi.png); background-position:0px -640px;}
+.oz_logo_igcombr span {background-image: url(images/abi.png); background-position:0px -680px;}
+
+/* abi2 */
+.oz_logo_mailru span {background-image: url(images/abi2.png); background-position:0px -0px;}
+.oz_logo_rambler span {background-image: url(images/abi2.png); background-position:0px -40px;}
+.oz_logo_yandex span {background-image: url(images/abi2.png); background-position:0px -80px;}
+.oz_logo_freenet span {background-image: url(images/abi2.png); background-position:0px -120px;}
+.oz_logo_libero span {background-image: url(images/abi2.png); background-position:0px -160px;}
+.oz_logo_onet span {background-image: url(images/abi2.png); background-position:0px -200px;}
+.oz_logo_interia span {background-image: url(images/abi2.png); background-position:0px -240px;}
+.oz_logo_wppl span {background-image: url(images/abi2.png); background-position:0px -280px;}
+.oz_logo_sapo span {background-image: url(images/abi2.png); background-position:0px -320px;}
+.oz_logo_o2 span {background-image: url(images/abi2.png); background-position:0px -360px;}
+.oz_logo_tonlinede span {background-image: url(images/abi2.png); background-position:0px -400px;}
+
+/* abi3 */
+.oz_logo_daumnet span {background-image: url(images/abi3.png); background-position:0px -0px;}
+.oz_logo_naver span {background-image: url(images/abi3.png); background-position:0px -40px;}
+.oz_logo_emailit span {background-image: url(images/abi3.png); background-position:0px -80px;}
+.oz_logo_orangees span {background-image: url(images/abi3.png); background-position:0px -120px;}
+.oz_logo_terra span {background-image: url(images/abi3.png); background-position:0px -160px;}
+.oz_logo_aliceit span {background-image: url(images/abi3.png); background-position:0px -200px;}
+.oz_logo_virgilioit span {background-image: url(images/abi3.png); background-position:0px -240px;}
+
+/* is+is2 */
+.oz_logo_is_facebook span {background-image: url(images/is_common.png); background-position:0px 0px;}
+.oz_logo_is_myspace span {background-image: url(images/is_common.png); background-position:0px -40px;}
+.oz_logo_is_friendster span {background-image: url(images/is_common.png); background-position:0px -80px;}
+.oz_logo_is_hi5 span {background-image: url(images/is_common.png); background-position:0px -120px;}
+.oz_logo_is_orkut span {background-image: url(images/is_common.png); background-position:0px -160px;}
+.oz_logo_orkut span {background-image: url(images/is_common.png); background-position:0px -160px;}
+.oz_logo_is_xing span {background-image: url(images/is_common.png); background-position:0px -200px;}
+.oz_logo_is_blackplanet span {background-image: url(images/is_common.png); background-position:0px -240px;}
+.oz_logo_is_bebo span {background-image: url(images/is_common.png); background-position:0px -280px;}
+.oz_logo_linkedin span {background-image: url(images/is_common.png); background-position:0px -320px;}
+.oz_logo_plaxo span {background-image: url(images/is_common.png); background-position:0px -360px;}
+.oz_logo_is_meinvz span {background-image: url(images/is_common.png); background-position:0px -400px;}
+.oz_logo_is_hyves span {background-image: url(images/is_common.png); background-position:0px -440px;}
+.oz_logo_is_twitter span {background-image: url(images/is_common.png); background-position:0px -480px;}
+.oz_logo_file_olcsv span {background-image: url(images/abi_file.png); background-position:0px 0px;}
+.oz_logo_file_oecsv span {background-image: url(images/abi_file.png); background-position:0px -40px;}
+.oz_logo_file_tbldif span {background-image: url(images/abi_file.png); background-position:0px -80px;}
+.oz_logo_file_wmcsv span {background-image: url(images/abi_file.png); background-position:0px -120px;}
+.oz_logo_file_vcf span {background-image: url(images/abi_file.png); background-position:0px -160px;}
+
+
+.oz_bookmark_link {height:20px;}
+.oz_bookmark_link span {vertical-align:middle;padding-left:20px;background-repeat:no-repeat;font-weight:bold;}
+.oz_bookmark_link a {text-decoration:none;}
+.oz_bookmark_digg span {background-image: url(images/bookmark_icons.png); background-position:0px -0px;}
+.oz_bookmark_reddit span {background-image: url(images/bookmark_icons.png); background-position:0px -16px;}
+.oz_bookmark_facebook span {background-image: url(images/bookmark_icons.png); background-position:0px -32px;}
+.oz_bookmark_myspace span {background-image: url(images/bookmark_icons.png); background-position:0px -48px;}
+.oz_bookmark_twitter span {background-image: url(images/bookmark_icons.png); background-position:0px -64px;}
+.oz_bookmark_stumbleupon span {background-image: url(images/bookmark_icons.png); background-position:0px -80px;}
+.oz_bookmark_delicious span {background-image: url(images/bookmark_icons.png); background-position:0px -96px;}
+
+
+.oz_options_table {margin-top: 0px;margin-bottom: 20px;}
+
+
+#ozpanel_login,#ozpanel_upload,#ozpanel_manual,#ozpanel_bookmark,#ozpanel_submitcontacts,#ozpanel_finished,#ozpanel_captcha,#ozpanel_bookmark,#ozpanel_nocontacts,#ozpanel_members {
+	clear: both;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+
+#ozpanel_finished_buttons{
+	margin:20px;
+}
+
+#ozpanel_login_windowslive, #ozpanel_login_gmail, #ozpanel_login_googleapps, #ozpanel_facebook {
+	clear: both;
+	padding-top: 10px;
+	/* padding-bottom: 10px;*/
+}
+
+/*
+#ozpanel_facebook {
+	height: 100px;
+}
+*/
+
+#ozi_fb_logged_in {
+	height: 530px;	/* For Facebook Connect friends list. Enough for approx 4 rows of friends. */
+/*	border: solid 1px #FF00FF;*/
+}
+
+#ozi_fb_greeting {
+	text-align: center;
+}
+
+#oz_counter_max_selected{font-weight: bold; padding: 0px;margin: 0px;color:#FFFFFF; background-color:#C00000;}
+
+
+#ozpanel_please_wait {width: 100%;padding-top: 50px;padding-bottom: 100px;text-align:center;background: url(images/loader.gif) no-repeat center center;display: none;}
+
+#ozpanel_actions {}
+
+.oz_copy_text {width:100%;  font-family: Helvetica, Arial, sans-serif; }
+
+.start_again_app{float:left; font-size:12px; font-weight:normal;padding-top:6px; }
+
+div.notice {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+div#ozpanel_finished_buttons {
+  width: 500px;
+  margin: 0 auto;
+}
+
+div#ozpanel_finished_buttons button.invite_more {
+  /*border: solid red 5px;*/
+}
+
+div#ozpanel_finished_buttons button.next_step {
+  float: right;
+}

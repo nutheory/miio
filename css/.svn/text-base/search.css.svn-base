@@ -1,0 +1,124 @@
+table tr td#left_col { width: 224px; }
+table tr td#right_col { }
+
+div.quick_search {
+  font-size: 16px;
+  color: #666;
+}
+
+div.quick_search div.search_input {
+  margin: 10px 0 20px 0;
+}
+
+div.quick_search div.head {
+  font-size: 28px;
+  text-align: center;
+}
+
+div.quick_search div.search_select {
+  border: solid #999999 1px;
+  float: left;
+  padding: 2px 3px 0 3px;
+  width: 133px;
+  color: #666666;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 2px;
+  background: url('../images/down_carat.png') right no-repeat;
+  cursor: pointer;
+  position: relative;
+}
+
+div.quick_search div.search_select div#search_selectlist {
+  position: absolute;
+  left: -1px;
+  top: 22px;
+  z-index: 100;
+  border: solid #999999 1px;
+  width: 139px;
+  background-color: white;
+}
+
+div.quick_search div.search_select div#search_selectlist hr {
+  margin: 0;
+}
+
+div.quick_search div.search_select div#search_selectlist a {
+  display: block;
+  padding: 1px 3px;
+  font-weight: normal;
+}
+
+div.quick_search div.search_select div#search_selectlist a.location {
+  padding-bottom: 2px;
+}
+
+div.quick_search div.search_select div#search_selectlist a.group {
+  padding-left: 20px;
+  background: url('../images/groups_small.png') left 2px no-repeat;
+}
+
+div.quick_search div.search_select div#search_selectlist a.member {
+  padding-left: 20px;
+  background: url('../images/members_small.png') left 2px no-repeat;
+}
+
+div.quick_search div.search_select div#search_selectlist a:hover {
+  text-decoration: none;
+  background-color: #ffffaa;
+}
+
+div.quick_search input {
+  border: solid #999999 1px;
+  color: #666666;
+  font-size: 16px;
+  margin-left: 5px;
+  width: 250px;
+}
+
+div.quick_search button.search {
+  font-size: 16px;
+  border: solid #369 1px;
+  margin-left: 10px;
+}
+
+div.quick_search div.advanced {
+  text-align: right;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+div#search_container {
+  border: solid #ccc 5px;
+  background:#fff;
+  padding: 20px;
+  padding-top: 10px;
+  width: 484px;
+}
+
+div#search_container div.header h3 {
+  margin-bottom: 20px;
+  font-size: 32px;
+  color: #666;
+  font-weight:normal;
+}
+
+div#search_container div.header h3 img{
+  vertical-align: -5px;
+  margin-right: 5px;
+}
+
+div#search_container div.header p {
+  font-size: 18px;
+  color: #666;
+ 
+} 
+
+div#search_container div.pausediv {
+  height: 26px;
+}
+
+div#search_container div.pausediv div#pause_counter {
+  margin: 0;
+}

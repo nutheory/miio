@@ -1,0 +1,52 @@
+div#profile_content table#report_form {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+div#profile_content table#report_form tr td.text {
+  padding-bottom: 15px;
+}
+
+div#profile_content table#report_form tr td.opt {
+  padding-left: 20px;
+}
+
+div#profile_content table#report_form tr td.opt input {
+  vertical-align: -2px;
+  margin-right: 10px;
+}
+
+div#profile_content table#report_form tr td.note {
+  font-size: 12px;
+  font-style: italic;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+div#profile_content table#report_form tr th#report_count {
+  text-align: right;
+  font-weight: normal;
+}
+
+div#profile_content table#report_form tr td.reporttext div.input {
+  width: 100%;
+  border: solid black 1px;
+  margin-top: 5px;
+}
+
+div#profile_content table#report_form tr td.reporttext div.input textarea {
+  width: 100%;
+  border: none;
+}
+
+div#profile_content table#report_form tr td.submit {
+  padding-top: 15px;
+  text-align: right;
+}
+
+div#profile_content div#report_response {
+  font-size: 14px;
+  /*font-style: italic;
+  font-weight: bold;
+  color: #009900; /*color: #aa0000;*/
+}

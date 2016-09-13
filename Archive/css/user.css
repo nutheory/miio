@@ -1,0 +1,87 @@
+
+td#left_col ul.left_nav li div#user_twitter:hover,
+td#left_col ul.left_nav li div#user_rss:hover
+{
+  text-decoration: none;
+}
+
+td#left_col ul.left_nav li div#user_twitter:hover span,
+td#left_col ul.left_nav li div#user_rss:hover span
+{
+  text-decoration: underline;
+}
+
+div#user_content {
+  clear: both;
+}
+
+div#user_content label.message_header {
+  font-weight: bold;
+}
+
+div#user_content span.filter_links{
+  color: #666666;
+  font-weight: bold;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+div#user_content span.filter_links:hover{
+  text-decoration:underline;
+}
+
+td#left_col div.menu_box ul.left_nav li.filter_head div {
+  font-size: 14px;
+}
+
+td#left_col div.menu_box ul.left_nav li.filter_head ul div {
+  font-size: 12px;
+}
+
+td#left_col ul.left_nav li.divider {
+  
+}
+
+td#left_col ul.left_nav li.divider hr {
+  margin: 5px 10px;
+  background-color: #999;
+  height: 2px;
+}
+
+td#left_col ul.left_nav div#user_received { background: url('../images/received_bg.gif') left no-repeat; padding-left: 20px; }
+td#left_col ul.left_nav div#user_rreceived { background: url('../images/rreceived_bg.gif') left no-repeat; padding-left: 20px; }
+td#left_col ul.left_nav div#user_sent { background: url('../images/sent_bg.gif') left no-repeat; padding-left: 20px; }
+td#left_col ul.left_nav div#user_rsent { background: url('../images/rsent_bg.gif') left no-repeat; padding-left: 20px; }
+td#left_col ul.left_nav div#user_thread { background: url('../images/thread_bg.gif') left no-repeat; padding-left: 20px; }
+td#left_col ul.left_nav div#user_notifications { background: url('../images/requests_bg.gif') left no-repeat; padding-left: 20px; }
+
+td#left_col ul.left_nav li div div.new_count {
+  float: right;
+  font-size: 11px;
+  padding: 0;
+  width: 55px;
+  height: 16px;
+  line-height: 16px;
+  margin-top: 3px;
+  text-align: center;
+}
+
+td#left_col ul.left_nav li div div#received_count {
+  background: url('../images/received_new.png') no-repeat;
+  color: white;
+}
+
+td#left_col ul.left_nav li div div#rreceived_count {
+  background: url('../images/rreceived_new.png') no-repeat;
+  color: #333;
+}
+
+td#left_col ul.left_nav li div div#thread_count {
+  background: url('../images/thread_new.png') no-repeat;
+  color: white;
+}
+
+td#left_col ul.left_nav li div div#notifications_count {
+  background: url('../images/notifications_new.png') no-repeat;
+  color: white;
+}

@@ -1,0 +1,13 @@
+
+/* colors ******************************/
+
+.oz_header {background-image: none;color:#000000;background-color:#ECECEC}
+.oz_icons_container {background-image: none;}
+.oz_row_odd {background-image: none;background-color:#FDFDFD;color:#000000}
+.oz_row_even {background-image: none;background-color:#F4F4F4;color:#000000}
+.oz_row_odd_selected {background-image: none;background-color:#FFFFCC; color:#000000}
+.oz_row_even_selected {background-image: none;background-color:#FFFFCC; color:#000000}
+.oz_contacts_table_header {background-image: none;background-color:#CCCCCC;color:#000000; }
+
+.oz_header a, .oz_header a:hover, .oz_header a:visited {color:#0000FF;}
+.oz_contacts_table table tr td a, .oz_contacts_table table tr td a:hover, .oz_contacts_table table tr td a:visited {color:#0000FF;}

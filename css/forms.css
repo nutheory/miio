@@ -1,0 +1,878 @@
+div#settings_profile,
+div#username,
+div#password,
+div#password_reset,
+div#email_address_change,
+div#mobile,
+div#notifications,
+div#refresh_mode,
+div#profile_photo,
+div#cancel_account,
+div#group_form,
+div#email_form,
+div#contact_form,
+div#sms_form,
+div#twitter,
+div#rss,
+div.edit,
+div#group_profile_form,
+div#group_changename_form,
+div#disband_group {
+  color:#666;
+  margin:20px auto;
+  overflow:hidden;
+  clear:both;
+  font-size:14px;
+}
+
+div#photo_upload_form {
+  color:#666;
+  margin:20px auto;
+  clear: both;
+  height: 200px;
+}
+
+
+div#settings_profile p.header,
+div#photo_upload_form p.header,
+div#profile_photo p.header{
+  margin-bottom:10px;
+  font-size:14px;
+}
+
+div#notifications p.header{margin-bottom:20px;}
+
+
+div#settings_profile label,
+div#username label,
+div#password label,
+div#password_reset label,
+div#email_address_change label,
+div#edit_new label,
+div.album div.edit label,
+div#mobile label,
+div#refresh_mode label,
+div#group_form label,
+div#contact_form label,
+div#sms_form label,
+div.edit label,
+div#group_profile_form label,
+div#group_changename_form label{
+  float:left;
+  width:180px;
+  padding-top:6px;
+  color: #666;
+  font-size:14px;
+  font-weight:bold;
+}
+
+div#photo_upload_form label{
+  float:left;
+  width:180px;
+}
+
+div#photo_upload_form label.up,
+div#rss label.up{
+  width:100%;
+  font-weight:bold;
+  font-size:14px;
+  padding-top:8px;
+  float:none;
+  display:block;
+  padding-top:10px;
+}
+
+div#group_form label.ch,
+div#group_profile_form label.ch,
+div#settings_profile label.ch,
+div#mobile label.ch{
+  float:left;
+  font-weight:normal;
+  padding-top:4px;
+  font-size:12px;
+}
+
+div#settings_profile textarea.full,
+div#group_form textarea.full,
+div#email_form textarea.full,
+div#group_profile_form textarea.full{
+  width:630px;
+  height:60px;
+  padding:0;
+  margin:0;
+}
+
+div#settings_profile div.about_count,
+div#group_form div.about_count,
+div#group_profile_form div.about_count
+{
+  float: right;
+  margin-bottom: 3px;
+}
+
+div#settings_profile div.tag_count,
+div#group_form div.tag_count,
+div#group_profile_form div.tag_count
+{
+  float: right;
+  margin: 0;
+  margin-top: 16px;
+}
+
+div#settings_profile div.form_section div.about_text,
+div#group_form div.form_section div.about_text,
+div#group_profile_form div.form_section div.about_text
+{
+  clear: none;
+  margin-bottom: 3px;
+  margin-right: 30px;
+}
+
+div#settings_profile label.ab,
+div#group_form label.ab,
+div#group_profile_form label.ab{
+  float: none;
+  padding-top:0px;
+  display: block;
+  margin-bottom: 10px;
+  width: auto;
+}
+
+
+div#settings_profile input.website,
+div#group_form input.website,
+div#group_profile_form input.website {
+  width: 400px;
+}
+
+
+div#settings_profile label.hor{
+  float:left;
+  width:80px;
+  padding-top:1px;
+  font-size:12px;
+  font-weight:normal;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+div#settings_profile input.hor{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+div#settings_profile label.hor_last,
+div#group_profile_form label.hor_last{
+  float:left;
+  width:80px;
+  padding-top:1px;
+  font-size:12px;
+  font-weight:normal;
+  margin-top:10px;
+}
+
+div#settings_profile input.hor_last,
+div#group_profile_form input.hor_last{
+  margin-top:10px;
+}
+
+div#settings_profile label.sel,
+div#group_form label.sel,
+div#contact_form label.sel,
+div#group_profile_form label.sel{
+  padding-top:4px;
+}
+
+div#edit_new textarea,
+div.album div.edit div.form_section textarea{
+  width:400px;
+  height:60px;
+}
+
+div#group_form div.option_subdued,
+div#group_profile_form div.option_subdued,
+div#settings_profile div.option_subdued,
+div#mobile div.option_subdued{
+  margin-left:180px;
+  font-size:12px;
+  margin-top:2px;
+}
+
+div#settings_profile label span,
+div#group_form label span,
+div#group_profile_form label span{
+  font-size:12px;
+  padding-top:0px;
+  font-weight:normal;
+}
+
+div#settings_profile input,
+div#username input,
+div#password input,
+div#password_reset input,
+div#email_address_change input,
+div#edit_new input,
+div.album div.edit div.form_section input,
+div#mobile input,
+div#refresh_mode input,
+div#group_form input,
+div#contact_form input,
+div#sms_form input,
+div#group_profile_form input,
+div#group_changename_form input{
+  float:left;
+  font-size:18px;
+}
+
+div#rss input.full{
+  width:630px;
+  font-size:18px;
+}
+
+div#mobile input.long,
+div#sms_form input.long{
+  width:278px;
+}
+
+div.form_section {
+  padding-top:10px;
+  padding-bottom:10px;
+  border-bottom:1px solid #999;
+  overflow:auto;
+  clear:both;
+}
+
+div.form_section_invite {
+  padding-top:10px;
+  overflow:auto;
+  clear:both;
+}
+
+div#settings_profile div.form_section div,
+div#password div.form_section div,
+div#password_reset div.form_section div,
+div#edit_new div.form_section div,
+div.album div.edit div.form_section div,
+div#group_form div.form_section div,
+div#contact_form div.form_section div,
+div#group_profile_form div.form_section div,
+div#mobile div.form_section div,
+div#sms_form div.form_section div,
+div#mobile div.view_section div.clear,
+div.form_section_invite div{
+  overflow:auto;
+  margin-bottom:6px;
+  clear:both;
+}
+
+div#settings_profile div.form_section ul{
+  list-style:none;
+  margin-left: 180px;
+  padding: 0;
+}
+
+div#settings_profile div.form_section ul li{
+  margin-bottom: 5px;
+  float:left;
+  /*overflow:auto;*/
+}
+
+div#edit_new div.form_section ul,
+div.album div.edit div.form_section ul{
+  list-style:none;
+  overflow:auto;
+  float:left;
+  width:600px;
+  margin-top:0;
+  margin-bottom:2px;
+  padding:0;
+  padding-top:8px;
+}
+
+div#edit_new div.form_section ul li div.number,
+div.album div.edit div.form_section ul li div.number{
+  float:left;
+  width:40px;
+  padding-top:6px;
+}
+
+div#edit_new div.form_section ul li div.item,
+div.album div.edit div.form_section ul li div.item{
+  float:left;
+  clear:none;
+  width:500px;
+
+}
+
+
+
+div#settings_profile div.form_section ul li label{
+  width:120px;
+}
+
+div#settings_profile div.attention label.rw,
+div#group_profile_form div.attention label.rw{
+  float:left;
+  width:160px;
+  padding-top:1px;
+  font-size:12px;
+  margin-top:10px;
+  font-weight:normal;
+}
+
+div#settings_profile div.attention p,
+div#group_profile_form div.attention p{
+  font-size:12px;
+  margin-top:4px;
+  margin-bottom:4px;
+}
+
+div#settings_profile div.tags span,
+div#group_form div.tags span,
+div#email_form div span,
+div#group_profile_form div.tags span{
+  font-size:12px;
+  display:block;
+}
+
+div.commit,
+div.edit_buttons{
+  width:100%;
+  text-align:center;
+  margin:20px 0 20px 0;
+}
+
+div.edit_buttons button{
+  margin:0 10px;
+}
+
+
+div#edit_new span.cancel{
+  float:right
+}
+
+div#group_form input#photo_submit{
+  margin:10px 0 10px 0;
+}
+
+div#photo_upload_form div.form_section div.directions{
+  float:left;
+  overflow:auto;
+  clear:none;
+}
+
+div#profile_photo div.form_section div.directions_long{
+  float:left;
+  overflow:auto;
+  clear:none;
+  width:100%;
+}
+
+div#group_form div.form_section .photo{margin-top:4px;}
+
+div#photo_upload_form div.form_section div.directions p,
+div#profile_photo div.form_section div.directions p,
+div#group_form div.directions p{
+  font-size:14px;
+}
+
+div#photo_upload_form div.directions p.mid,
+div#group_form div.directions p.mid{
+  font-size:12px;
+  margin-top:10px;
+}
+
+div#photo_upload_form .highlight,
+div#group_form .highlight{
+  padding:4px;
+  margin-bottom:10px;
+}
+
+div#photo_upload_form div.notice,
+div#profile_photo div.notice,
+div#notifications div.notice,
+div#edit_new div.notice,
+div.album div.edit div.notice,
+div#contact_form div.notice,
+div#group_form div.notice{
+  font-size:12px;
+  font-style:italic;
+  text-align:center;
+  margin:4px 20px;
+}
+
+div#contact_providerlist{
+  width:468px;
+  margin:auto;
+}
+
+div.view_preview{
+  width:100%;
+  margin:20px 0;
+  text-align:center;
+}
+
+div#profile_photo_delete{
+  margin-top:10px;
+  width:300px;
+  text-align:center;
+}
+
+div#sms_form div.form_section_invite .ins{
+  margin-left:0px;
+  margin-bottom:20px;
+  font-weight:normal;
+  font-size:14px;
+}
+
+div#sms_form div.form_section_invite p{
+  font-size:12px;
+  margin-left:182px;
+  clear:both;
+  margin-top:6px;
+}
+
+div#settings_profile div.form_section h6,
+div#username div.form_section h6,
+div#password div.form_section h6,
+div#mobile div.form_section h6,
+div#group_form div.form_section h6,
+div#group_profile_form div.form_section h6,
+div#group_changename_form div.form_section h6{
+  font-size:12px;
+  margin-left:182px;
+  clear:both;
+  font-weight: normal
+}
+
+div#name_valid{
+font-size:11px;
+font-weight:bold;
+height:20px;
+background:url("../images/tick.png") no-repeat;
+padding-left:26px;
+padding-top:2px;
+margin-left:182px;
+clear:both;
+}
+
+div#name_invalid{
+font-size:11px;
+font-weight:bold;
+height:20px;
+background:url("../images/x_check.png") no-repeat;
+padding-left:26px;
+padding-top:2px;
+margin-left:182px;
+clear:both;
+}
+
+div#password div.form_section a.reset_pw{
+  float:left;
+  font-size:12px;
+  margin-left:20px;
+  padding-top:8px;
+}
+
+div#password div.form_section div#password_reset{
+  font-size:12px;
+  padding-top:10px;
+}
+
+div#mobile div#sms_country_code_text,
+div#sms_form div#sms_country_code_text{
+  clear:none;
+  float:left;
+  padding-top:4px;
+  width:45px;
+  font-size:18px;
+}
+
+div#mobile p,
+div#refresh_mode p,
+div#cancel_account p,
+div#disband_group p,
+div#notifications p{
+  margin-bottom:20px;
+}
+
+div#mobile p.note{
+  font-size:12px;
+  font-style:italic;
+}
+
+div#mobile .authorize,
+div#group_form .authorize{
+  width:100%;
+  font-size:12px;
+  margin-top:10px;
+  padding:6px 0px;
+  overflow:auto;
+}
+
+div#mobile .authorize input,
+div#group_form .authorize input{
+  margin-left:10px;
+}
+
+div#mobile .authorize label,
+div#group_form .authorize label{
+  font-weight:normal;
+  width:600px;
+  margin-left: 5px;
+  padding-top:3px;
+}
+
+div#group_form h3.space{margin-bottom:10px;}
+
+div#group_form ul{padding:0;}
+
+div#mobile p.mobile_comp{
+  margin-top:20px;
+    font-size:14px;
+}
+
+div#mobile div.view_section{
+  margin:10px 20px;
+  border-bottom:1px solid #999;
+  padding-bottom:10px;
+}
+
+div.telecoms{
+  padding-top:20px;
+  width:462px;
+  margin:auto;
+}
+
+div#mobile ul.view_section{
+  list-style:none;
+  padding:10px 0;
+  width:300px;
+  border:1px solid #999;
+  background:#fff;
+  margin:20px auto;
+}
+
+div#mobile ul.view_section li{
+  border-bottom:1px dotted #999;
+  margin:0 10px;
+  font-size:12px;
+  clear:both;
+  overflow:auto;
+}
+
+div#mobile ul.view_section li p{
+  text-align:center;
+  font-weight:bold;
+  margin:0;
+}
+
+div#mobile ul.view_section li:hover{
+  background:#e5edfa;
+}
+
+div#mobile ul.view_section li label{
+  float:left;
+  padding:4px 10px 4px 6px;
+  width:110px;
+}
+
+div#mobile ul.view_section li div{
+  float:left;
+  padding:4px 10px 4px 6px;
+}
+
+.check_row{
+    border-bottom:1px dotted #999;
+}
+
+.check_row:hover{
+  background:#e5edfa;
+}
+
+.check_row td{
+  padding:6px 0;
+}
+
+div#refresh_mode div.refresh_right{
+  float:left;
+}
+
+div#refresh_mode div.option{
+  display:block;
+  overflow:auto;
+  font-size:12px;
+  margin-top:6px;
+}
+
+
+div#refresh_mode div.option label{
+  padding-top:4px;
+  font-weight:bold;
+}
+
+div#refresh_mode div.option label.freq{
+  display:block;
+  float:none;
+  clear:both;
+  width:280px;
+  margin-left:24px;
+  font-weight:normal;
+  font-size:12px;
+
+}
+
+div#refresh_mode div.option #settings_refresh{
+  margin-left:24px;
+}
+
+div#cancel_account div.form_section div,
+div#disband_group div.form_section div{
+  text-align:center;
+}
+
+div#cancel_account input,
+div#disband_group input{
+  font-size:18px;
+}
+
+div#group_form div.form_section div.desc{
+  float:left;
+  padding-top:2px;
+  clear:none;
+}
+
+div#group_form div.form_section div.desc p{
+  font-size:12px;
+}
+
+div#group_form div.privacy{
+  margin-top:14px;
+}
+
+
+div#group_form div.privacy label{
+  float:none;
+  font-weight:bold;
+  width:400px;
+  font-size:12px;
+}
+
+div#group_form div.privacy input{
+  width:20px;
+}
+
+div.form_response{
+  width:600px;
+  margin:40px auto;
+  color:#666;
+  border:1px solid #666;
+  background-color: #ffa;
+}
+
+div.form_response_short {
+  margin:40px auto;
+  color:#666;
+  border:1px solid #666;
+  background-color: #ffa;
+}
+
+div.form_response h3,
+div.form_response_short h3
+{
+  margin:10px 20px;
+}
+
+div.form_response p,
+div.form_response_short {
+  margin:10px 20px;
+  font-size:12px;
+}
+
+div.form_response div.link_center,
+div.form_response_short div.link_center
+{
+  font-size:12px;
+  width:100%;
+  margin:10px 0;
+  text-align:center;
+}
+
+.short_button{margin:10px;}
+
+div#profile_photo_delete{
+  width:100%;
+  text-align:center;
+}
+
+div#contact_form div.form_section div.email_at{
+  font-weight:bold;
+  clear:none;
+  float:left;
+  padding:6px 6px 0 6px;
+}
+
+div#contact_form div.form_section input.short{
+  width:160px;
+}
+
+div.loginerr {
+  width: 334px;
+  margin: 20px auto 15px auto;
+  padding: 10px 20px;
+  border: solid #999 3px;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #ffa;
+}
+
+div.login_form {
+  width:400px;
+  padding:10px;
+  margin:auto;
+  margin-top: 20px;
+  background:#fff;
+  color:#666;
+  font-size:12px;
+}
+
+div.login_form div {
+  padding: 0 10px;
+}
+
+div.login_form p{
+  border-bottom:1px solid #999;
+  background:#ffa;
+}
+
+div.login_form ul{
+  list-style:none;
+  margin:10px;
+  padding:0;
+  padding-top: 10px;
+}
+
+div.login_form ul li{
+  margin-bottom: 10px;
+}
+
+div.login_form label{
+  float:left;
+  font-weight:bold;
+  width:120px;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+div.login_form input{
+  font-size:18px;
+}
+
+div.login_form label.remember_label{
+  font-size: 12px;
+  line-height: 18px;
+}
+
+div.login_form button.norm_button {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  width: 150px;
+}
+
+div.login_form h1{
+  margin:10px;
+}
+
+div.login_form ul li.remember{
+  margin-left:120px;
+}
+
+div.login_form ul li.forgot{
+  text-align:center;
+  margin-top:14px;
+  margin-bottom:14px;
+}
+
+div.login_form ul li.submit{
+  text-align:center;
+  margin-top:10px;
+}
+
+div.login_form ul li.signup{
+  text-align:center;
+  margin:12px 0;
+}
+
+div.error_box{
+  border:1px solid #900;
+  background:#fdd;
+  color:#900;
+  font-weight:bold;
+  font-size:14px;
+  margin:20px auto;
+  width:380px;
+}
+
+div.error_box p{
+  margin:10px;
+}
+
+div#group_form button.check_button,
+div#group_changename_form button.check_button,
+div#username button.check_button,
+div#password button.check_button{
+
+  background:url("../images/button_bgs.png") repeat-x 0px -300px;
+  padding:2px 20px;
+  font-size:12px;
+  font-weight:bold;
+  -webkit-border-radius:4px;
+  -moz-border-radius:4px;
+  border:1px solid #369;
+  color: #fff;
+  text-shadow: 0px 1px 1px #666;
+  margin-left: 10px;
+  margin-top: 3px;
+}
+
+div#group_form button.check_button:hover,
+div#username button.check_button:hover,
+div#password button.check_button:hover{
+  background:url("../images/button_bgs.png") repeat-x 0px -344px;
+}
+
+div#email_address_change #settings_email{width:380px;}
+.button_bar{margin-top:10px;padding-top:6px;margin-bottom:20px;overflow:auto; border-top:1px dotted #666;}
+.button_bar button{float:right; margin:0;}
+
+
+div#login_div div.loginsignup {
+  width:400px;
+  padding:10px;
+  border: solid #999 1px;
+  background-color: #ffa;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+ul.socialshares{list-style:none; margin:20px 0; padding:0;}
+ul.socialshares li{margin:10px 0;}
+.facebook{background:url('../logos/favicon/facebook.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.twitter{background:url('../logos/favicon/twitter.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.techmeme{background:url('../logos/favicon/techmeme.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.stumbleupon{background:url('../logos/favicon/stumbleupon.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.reddit{background:url('../logos/favicon/reddit.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.googlebookmarks{background:url('../logos/favicon/googlebookmark.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.myspace{background:url('../logos/favicon/myspace.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.buzz{background:url('../logos/favicon/yahoobuzz.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.tumblr{background:url('../logos/favicon/tumblr.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.digg{background:url('../logos/favicon/digg.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.friendfeed{background:url('../logos/favicon/friendfeed.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.bebo{background:url('../logos/favicon/bebo.jpg') no-repeat 0 0;height:20px; padding-left:22px;}
+.posterous{background:url('../logos/favicon/posterous.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.delicious{background:url('../logos/favicon/delicious.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.technorati{background:url('../logos/favicon/technorati.png') no-repeat 0 0;height:20px; padding-left:22px;}
+.email{background:url('../logos/favicon/email.png') no-repeat 0 0;height:20px; padding-left:22px;}

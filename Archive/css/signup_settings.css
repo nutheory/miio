@@ -1,0 +1,569 @@
+div#step_bar{
+	width:600px;
+	height:56px;
+	margin:20px auto;
+	background-color:#EBEBEB;
+}
+
+div#step_bar div{
+	float:left;
+	height:56px;
+}
+
+div#step_bar div h3{
+	margin:10px 10px 2px 10px;
+	font-size:14px;
+}
+
+div#step_bar div p{
+	margin:4px 10px 2px 10px;
+	font-size:12px;
+	font-weight:bold;
+}
+
+div#step_bar div div {
+  height: 56px;
+  color: white;
+  background-color: #EBEBEB;
+}
+
+div#step_bar div div.back{
+  width: 12px;
+}
+
+div#step_bar div div.point{
+  width: 26px;
+}
+
+div#step_bar div.active div.back {
+  background:url('../images/step_chunks.png') no-repeat -5px 0px;
+}
+
+div#step_bar div.active div#step_start {
+  background:url('../images/step_chunks.png') no-repeat 0px 0px;
+}
+
+div#step_bar div.active div.center {
+  background:url('../images/step_activated_bg.png') repeat-x 0px 0px;
+}
+
+div#step_bar div.inactive div.point {
+	background:url('../images/step_chunks.png') no-repeat -110px 0px;
+}
+
+div#step_bar div.active div.point {
+  background:url('../images/step_chunks.png') no-repeat -80px 0px;
+}
+
+div#step_bar div.last div.point {
+  background:url('../images/step_chunks.png') no-repeat -52px 0px;
+}
+
+/******************************************************************************/
+
+li.form_section {
+	padding-bottom:10px;
+	border-bottom:1px solid #999;
+	overflow:auto;
+	clear:both;	
+}
+
+div#invite,
+div#find_members,
+div#found_members,
+div#profile_info,
+div#profile_photo_form,
+div#profile_photo_confirm{
+	width:600px;
+	margin:20px auto 0 auto;
+	color:#666;
+	border:1px solid #666;
+	font-size:14px;
+}
+
+div#invite h2,
+div#invite_selected h2,
+div#invite_results h2,
+div#find_members h2,
+div#found_members h2,
+div#profile_info h2,
+div#profile_photo_form h2,
+div#profile_photo_confirm h2{
+	margin:10px 20px;
+	padding-bottom:6px;
+	font-size:18px;
+	border-bottom:1px dotted #666;
+}
+
+div#invite h2 a,
+div#invite_selected h2 a,
+div#invite_results h2 a,
+div#find_members h2 a,
+div#found_members h2 a,
+div#profile_info h2 a,
+div#profile_photo_form h2 a,
+div#profile_photo_confirm h2 a{
+	float:right;
+	font-size:12px;
+	font-weight:normal;
+	padding-top:2px;
+	color: #333;
+}
+
+div#invite_selected ul,
+div#invite_results ul,
+div#find_members ul,
+div#found_members ul,
+div#profile_info ul,
+div#profile_photo_form ul{
+	margin:10px 20px;
+	padding:0;
+	list-style:none;
+}
+
+div#invite_selected ul li,
+div#invite_results ul li,
+div#find_members ul li,
+div#found_members ul li,
+div#profile_info ul li{
+	clear:both;
+	margin-top:10px;
+}
+
+div#invite_selected ul li label,
+div#invite_results ul li label,
+div#find_members ul li label,
+div#found_members ul li label,
+div#profile_info ul li label{
+	float:left;
+	font-weight:bold;
+	padding-top:10px;
+	width:180px;
+}
+
+div#invite_selected ul li.buttons,
+div#invite_results ul li.buttons,
+div#find_members ul li.buttons,
+div#found_members ul li.buttons,
+div#profile_info ul li.buttons,
+div#profile_photo_form div.buttons,
+div#profile_photo_confirm div.buttons{
+	overflow:auto;
+	border-top:1px dotted #666;
+	padding-top:6px;
+}
+
+div#invite_selected ul li.buttons a,
+div#invite_results ul li.buttons a,
+div#find_members ul li.buttons a,
+div#found_members ul li.buttons a,
+div#profile_info ul li.buttons a,
+div#profile_photo_form div.buttons a,
+div#profile_photo_confirm div.buttons a{
+	font-weight:normal;
+	padding-top:8px;
+	float:left;
+}
+
+div#invite_selected ul li div.right_buttons,
+div#invite_results ul li div.right_buttons,
+div#find_members ul li div.right_buttons,
+div#found_members ul li div.right_buttons,
+div#profile_info ul li div.right_buttons,
+div#profile_photo_form div.right_buttons,
+div#profile_photo_confirm div.right_buttons{
+	float:right;
+}
+
+/* INVITE */
+
+div#invite{
+	height: 673px
+}
+
+div#invite iframe{
+	width:600px;
+	height:673px;
+  border: none !important;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+/******************************************************************************/
+
+div#find_members ul li textarea.full{
+	width:100%;
+	height:60px;
+	clear:both;
+}
+
+div#find_members ul li div.count{float:right;}
+
+div#find_members ul li div.instruct{float:left;}
+
+
+
+div#found_members .select_all input{
+	float:left;
+	margin:10px 7px 2px 17px;
+}
+
+div#found_members .select_all{
+	margin-bottom:0px;
+	overflow:auto;
+}
+
+div#found_members .select_all label{
+	float:left;
+	padding-bottom:2px;
+}
+
+div#found_members ul.results{
+	margin:6px 0 20px 0;
+	padding:0;
+	border:1px solid #999;
+	background:#fff;
+	overflow:auto;
+	clear:both;
+}
+
+div#found_members ul.results li{
+
+	clear:both;
+	border-bottom:1px dotted #666;
+	padding:4px 12px;
+	overflow:auto;
+	margin:0;
+}
+
+div#found_members ul.results li:hover{
+	background:#e5edfa;
+}
+
+div#found_members ul.results li div.check_img{
+  float: left;
+	width: 90px;
+	height: 50px;
+}
+
+div#found_members ul.results li div.check_img input{
+  float: left;
+  margin-top: 18px;
+}
+
+div#found_members ul.results li div.check_img img{
+  margin-left: 15px;
+}
+
+div#found_members ul.results li div.user_info{
+	margin-left: 100px;
+}
+
+div#found_members ul.results li div.user_info h4{
+	font-size:14px;
+	font-weight:bold;
+}
+
+div#found_members ul.results li div.user_info p{
+	font-size:12px;
+	margin-top:2px;
+}
+
+div#found_members ul.results li div.user_info p span{
+	font-weight:bold;
+}
+
+/******************************************************************************/
+
+div#profile_info label span{
+	font-size:12px;
+	padding-top:0px;
+	font-weight:normal;
+}
+
+div#profile_info ul li p.header{
+	font-size:14px;	
+}
+
+div#profile_info ul li.form_section{
+	border-bottom:1px dotted #666;
+	padding-bottom:8px;
+	font-size:14px;
+}
+
+div#profile_info ul li div{
+	clear:both;
+	padding-top:6px;
+}
+
+div#profile_info div.option_subdued{
+	margin-left:176px;
+	font-size:14px;
+	margin-top:2px;
+}
+
+div#profile_info div.option_subdued_text{
+	margin-left:182px;
+	font-size:12px;
+	margin-top:2px;
+}
+
+div#profile_info input{
+	float:left;
+	font-size:18px;
+}
+
+div#profile_info label.ch{
+	float:left;
+	padding-top:4px;
+	font-weight: normal;
+	font-size:12px;
+	width:220px;
+}
+
+div#profile_info ul li input.text{
+	font-size:18px;
+	width:260px;
+	float:left;
+}
+
+div#profile_info label.ab{
+	padding-top:0px;
+}
+
+div#profile_info textarea{
+	width:456px;
+	height:60px;
+}
+
+div#profile_info textarea.shorter{
+	width:376px;
+	height:60px;
+}
+
+div#profile_info label.ab {
+  width: auto;
+  display: block;
+  float: none;
+}
+
+div#profile_info div.ab_count {
+	float: right;
+	margin-bottom: 3px;
+}
+
+div#profile_info div.ab_text {
+  clear: none;
+  margin-bottom: 3px;
+} 
+
+div#profile_info label.hor{
+	float:left;
+	width:80px;
+	padding-top:1px;
+	font-weight:normal;
+	font-size:12px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+div#profile_info input.hor{
+	margin-top:10px;
+	margin-bottom:10px;	
+}
+
+div#profile_info label.hor_last{
+	float:left;
+	width:80px;
+	font-weight:normal;
+	padding-top:1px;
+	font-size:12px;
+	margin-top:10px;
+}
+
+div#profile_info input.hor_last{
+	margin-top:10px;
+}
+
+div#profile_info label.sel{
+	padding-top:4px;
+}
+
+div#profile_info li.form_section ul{
+	list-style:none;
+	overflow:auto;
+	float:left;
+	width:320px;
+	margin-top:0;
+	margin-bottom:2px;
+	margin-left:0;
+	padding:0;
+	padding-top:8px;
+}
+
+div#profile_info li.form_section ul li{
+	margin-bottom:6px;
+	margin-top:0;
+	clear:none;
+	float:left;
+	overflow:auto;
+}
+
+div#profile_info li.form_section ul li label{
+	width:120px;
+	font-weight:normal;
+}
+
+div#profile_info div.attention label.rw{
+	float:left;
+	width:160px;
+	padding-top:1px;
+	font-weight: normal;
+	font-size:12px;
+	margin-top:10px;
+}
+
+div#profile_info div.attention p{
+	font-size:12px;
+	margin-top:4px;
+	margin-bottom:4px;
+}
+
+div#profile_info div.tags div#settings_tags_count{
+	float:right;
+	margin-top: 16px;
+	padding:0;
+}
+
+div#profile_info div.tags div.tagtext  {
+  font-size: 14px;
+  width: auto;
+  padding: 0;
+  margin-bottom: 3px;
+  clear: none;
+}
+
+div#profile_info textarea.full{
+	width:556px;
+	height:60px;
+	padding:0;
+	margin:0;
+}
+
+div#profile_info div.tags span{
+	font-size:12px;
+	display:block;
+}
+
+/******************************************************************************/
+
+div#profile_photo_form p.header{
+	margin:10px 20px;
+}
+
+div#profile_photo_form div.form_section{
+	border-bottom:1px dotted #666;
+	padding-bottom:8px;
+	overflow:auto;
+	margin:0 20px;
+}
+
+div#profile_photo_form div.form_section label{
+	float:left;
+	font-weight:bold;
+	width:160px;	
+}
+
+div#profile_photo_form div.form_section div.directions{
+	float:left;
+	overflow:auto;
+	clear:none;
+}
+
+div#profile_photo_form div.buttons{
+	border-top:0;
+	margin:0 20px;
+	overflow:auto;
+	padding-top:0px;
+}
+
+div#profile_photo_form div.buttons a{
+	padding-top:12px;
+}
+
+div#profile_photo_form .button_bar{
+	text-align:center;
+}
+
+div#profile_photo_form .short_button{
+	margin:10px auto;
+}
+
+div#profile_photo_form div.directions p{
+	margin-bottom:10px;
+}
+
+div#profile_photo_form div.directions p.mid{
+	margin-top:10px;
+}
+
+div#profile_photo_form div.directions .up{
+	margin:6px;
+}
+
+div#profile_photo_form div.directions .highlight{
+	padding:6px;
+}
+
+
+div#profile_photo_confirm div.view_preview{
+	text-align:center;
+	margin:20px;
+}
+
+div#profile_photo_confirm div.notice{
+	font-size:12px;
+	font-style:italic;
+	text-align:center;
+	margin:10px 20px;
+}
+
+div#profile_photo_confirm div.buttons{
+	border-top:0;
+	margin:0 20px;
+	overflow:auto;
+	border-top:1px dotted #666;
+	padding-bottom:8px;
+}
+
+div#profile_photo_confirm div.directions p{
+	margin:10px 20px;
+}
+
+div#profile_photo_confirm  p.header{
+	margin:0 20px;
+}
+
+div#profile_photo_confirm img{
+	margin-bottom:10px;
+}
+
+/*
+div#invite_selected ul li h4{
+	padding:2px 0 4px 20px;
+	background:url('../images/private.png') no-repeat;
+	font-size:14px;
+}
+
+div#invite_selected ul li input.text{
+	font-size:18px;
+	width:260px;
+}
+
+div#invite_selected ul li input.text_short{
+	font-size:18px;
+	width:160px;
+}
+*/
+

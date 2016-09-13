@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color:#666;
+}
+
+img, a img {
+  border: none;
+}
+
+* html img {
+  behavior: url("css/png.htc");
+}
+
+div.clear {
+  height: 0;
+  clear: both;
+  overflow: hidden;
+}
+
+a {
+  color: #666666;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* RESET MARGINS */
+
+h1,h2,h3,h4,h5,h6,p {
+  margin: 0;
+}
+
+h1 { font-size: 24px; /*base 32px;*/ }
+h2 { font-size: 20px; /*base 24px;*/ }
+h3 { font-size: 16px; /*base 19px;*/ }
+h4 { font-size: 12px; /*base 16px;*/ }
+
+hr {
+  height: 1px;
+  border: none;
+  background-color: #cccccc;
+}
+
+textarea {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 12px;
+}
+
+div#oz_inviter {
+  
+}
+
+.oz_contacts_table {
+  height: 450px;
+}
+
+
+div#ozpanel_ab_icons{
+	margin-bottom:40px;
+}
+.norm_button{
+	background:url("../images/button_bgs.png") repeat-x 0px -300px;
+	padding:6px 20px;
+	font-size:14px;
+	font-weight:bold;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border:1px solid #369;
+	color: #fff;
+	text-shadow: 0px 1px 1px #666;
+}
+
+.norm_button:hover{
+	background:url("../images/button_bgs.png") repeat-x 0px -344px;
+}
+
+.short_button{
+	background:url("../images/button_bgs.png") repeat-x 0px -300px;
+	padding:2px 20px;
+	font-size:12px;
+	font-weight:bold;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border:1px solid #369;
+	color: #fff;
+	text-shadow: 0px 1px 1px #666;
+}
+
+.short_button:hover{
+	background:url("../images/button_bgs.png") repeat-x 0px -344px;
+}
+
+h2{
+	padding-top:10px;
+	margin:0 20px 10px 20px;
+	padding-bottom:6px;
+	font-size:18px;
+	border-bottom:1px dotted #666;
+}
+
+h2 a{
+	float:right;
+	font-size:12px;
+	font-weight:normal;
+	padding-top:2px;
+}

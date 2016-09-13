@@ -1,0 +1,84 @@
+div#groups {
+  /*background-color: red;
+  border-bottom: solid red 2px;/**/
+  text-align: center;
+  overflow: auto;
+}
+
+div#groups table {
+  width: 100%;
+}
+
+div#groups table#top_text td {
+  width: 33%;
+}
+
+div#groups table#top_text td.title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 20px;
+}
+
+div#groups table#top_text td.title span.subtitle {
+  font-size: 14px;
+  font-weight: normal;
+  margin-left: 15px;
+}
+
+div#groups table#top_text td.links {
+  font-size: 14px;
+  text-align: center;
+}
+
+div#groups table#top_text td.links span {
+  font-weight: bold;
+}
+
+div#groups table#grouptable td img {
+  cursor: pointer;
+  border: solid white 5px;
+}
+
+div#groups div.paging {
+  font-size: 14px;
+  text-align: right;
+  margin-right: 20px;
+}
+
+div#groups table.group_categories {
+  margin-top: 10px;
+}
+
+div#groups table.group_categories td {
+  text-align: left;
+  font-size: 13px;
+  padding-left: 15px;
+}
+
+div#groups div#list_head {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  font-size: 18px;
+}
+
+div#groups div#group_list {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#groups div#group_list table.user tr td {
+  text-align: left;
+  vertical-align: top;
+}
+
+div#groups div#group_list div#userlist table.user tr td.actionlink {
+  font-size: 11px;
+  width: 105px;
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 5px;
+}

@@ -1,0 +1,629 @@
+div#settings_content {
+  padding-right: 100px;
+}
+
+div#settings_content table {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+div#settings_content table td {
+  vertical-align: top;
+}
+
+div#settings_content table td.profile_instruct {
+	padding-bottom:30px;
+}
+
+div#settings_content table td span.note {
+  font-size: 12px;
+  font-style: italic;
+}
+
+div#settings_content table td.input input,
+div#settings_content table textarea,
+div#settings_content table select
+{
+  border: solid black 1px;
+}
+
+div#settings_content table td.label {
+  width: 150px;
+  padding-top: 3px;
+}
+
+div#settings_content table td.input {
+  padding-top: 3px;
+}
+
+div#settings_content table td.description {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div#settings_content table td.description span#description_count {
+  float:right;
+}
+  
+div#settings_content table td.description textarea {
+  width: 100%
+}
+
+div#settings_content table td.looking table {
+  width: auto;
+  margin-top: 0;
+}
+
+div#settings_content table td.looking table tr td {
+  width: 150px;
+}
+
+div#settings_content table td.submit {
+  text-align: right;
+  padding-top: 5px;
+}
+
+div#settings_content table tr#avatar_preview td,
+div#settings_content table tr#profile_photo td
+{
+  text-align: center;
+  padding-top: 10px;
+}
+
+div#settings_content table tr#avatar_preview td img
+{
+  border: solid white 3px;
+}
+
+div#settings_content table tr#avatar_preview td a,
+div#settings_content table tr#profile_photo td a
+{
+  font-size: 12px;
+}
+
+div#settings_content table td.tags {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div#settings_content table td.tags div#tags_count {
+  float: right;
+}
+
+div#settings_content table td.tags textarea {
+  width: 100%;
+  margin-top: 3px;
+}
+
+div#settings_content table td.mobilenote {
+  padding-bottom: 15px;
+}
+
+div#settings_content table td.notificationsnote {
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+
+div#settings_content table td.pm_head {
+  padding-bottom: 10px;
+}
+
+div#settings_content table td.pm_opt {
+  padding-left: 20px;
+}
+
+div#settings_content table td.pmnote {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  font-style: italic;
+}
+
+div#settings_content table td#profile_photo {
+  text-align: center;
+  padding: 10px;
+}
+
+div#settings_content table td.tos_notice {
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+div#settings_content table td.album {
+  padding-bottom: 20px;
+  border-bottom: solid black 1px;
+  padding-top: 20px;
+}
+
+div#settings_content table td.album div.delete {
+  font-size: 12px;
+  float: right;
+  margin-top: 3px;
+}
+
+div#settings_content table td.album div.title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+div#settings_content table td.album div.description {
+  margin-bottom: 5px;
+}
+
+div#settings_content table td.album div.sharing {
+  margin-bottom: 10px;
+}
+
+div#settings_content table td.album div.preview {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+div#settings_content table td.album div.preview img {
+  margin-right: 10px;
+}
+
+div#settings_content table td.album div.openedit {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+div#settings_content table td.album div.edit div.cancel {
+  float: right;
+  font-size: 12px;
+}
+
+div#settings_content table td.album table.albuminfo td.albumlabel {
+  width: 100px;
+}
+
+div#settings_content table td.album table.albuminfo td.albuminput {
+  padding-bottom: 5px;
+}
+
+div#settings_content table td.album table.albuminfo td.albuminput input {
+  border: solid black 1px;
+}
+
+div#settings_content table td.album table.albuminfo td.albuminput textarea {
+  width: 400px;
+  height: 50px;
+}
+
+div#settings_content table td.album table.photos {
+  width: auto;
+  margin-bottom: 0;
+}
+
+div#settings_content table td.album table.photos tr td {
+  height: 50px;
+  vertical-align: middle;
+}
+
+div#settings_content table td.album table.photos tr td.imagenumber {
+  text-align: left;
+  font-weight: bold;
+  width: 20px;
+}
+
+div#settings_content table td.album table.photos tr td.photo {
+  width: 50px;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+div#settings_content table td.album table.photos tr td.imagefileinput {
+  width: 240px;
+}
+
+div#settings_content table td.album table.photos tr td.delete {
+  width: 50px;
+  text-align: right;
+  font-size: 12px;
+}
+
+div#settings_content table td.upload {
+  padding-top: 5px;
+}
+
+div#settings_content table td.logo {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+div#settings_content table td.logo img {
+  width: 150px;
+}
+
+div#settings_content table td.feednote {
+  font-size: 12px;
+  padding-top: 15px;
+}
+
+div#settings_content table td.unconfirmed,
+div#settings_content table td.confirmed
+{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+div#settings_content table td.confirmed span {
+  background-color: #ffa;
+}
+
+div#settings_content table td.update_avatar {
+  padding-top: 15px;
+}
+
+div#settings_content table td.update_avatar input {
+  vertical-align: -2px;
+  margin-right: 5px;
+}
+
+div#settings_content table td.note {
+  padding-top: 5px;
+  font-style: italic;
+}
+
+div#settings_content table td.notice {
+  padding-top: 15px;
+  font-size: 11px;
+  font-style: italic;
+}
+
+div#settings_content img#check_result {
+  margin-left: 5px;
+  margin-right: 10px;
+  vertical-align: -2px;
+}
+
+
+
+
+div#settings_content table td a.check_name {
+  font-size: 11px;
+}
+
+div#settings_content table td.password_reset {
+  padding-top: 15px;
+}
+
+div#settings_content table td.refresh_label {
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+div#settings_content table td.refresh {
+  padding-bottom: 10px;
+}
+
+div#settings_content table td.refresh_rate {
+  padding-bottom: 15px;
+  padding-left: 25px;
+}
+
+div#settings_content table td.refresh_rate input {
+  border: solid black 1px;
+  width: 30px;
+  margin-left: 10px;
+}
+
+div#settings_content table td.done_links {
+  padding-top: 15px;
+}
+
+div#settings_content table td.text_to {
+  padding-top: 20px;
+}
+
+div#settings_content table td.text_to span {
+  background-color: #ffff00;
+}
+
+div#settings_content table td.upload_avatar,
+div#settings_content table td.photo_file
+{
+  padding-top: 15px;
+}
+
+div#settings_content table td.upload_avatar div.form,
+div#settings_content table td.photo_file div.form
+{
+  border: solid black 1px;
+  background-color: #e5edfa;
+  padding: 15px 20px;
+}
+
+div#settings_content table td.upload_avatar div.form div,
+div#settings_content table td.photo_file div.form div
+{
+  text-align: right;
+  margin-top: 10px;
+}
+
+table#settings_content tr#profile_photo td div#profile_photo_note {
+  margin-top: 10px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+div#settings_content table td.upload_avatar div.form div span,
+div#settings_content table td.photo_file div.form div span
+{
+  font-size: 12px;
+  float: left;
+  margin-top: 4px;
+}
+
+div#settings_content table td.photo_file div.form a.cancel,
+div#settings_content table td.upload_avatar div.form a.cancel
+{
+  float: right;
+  font-size: 11px;
+  margin-top: -13px;
+  margin-right: -13px;
+}
+
+div#settings_content table tr#profile_photo td div.cancel,
+div#settings_content table tr#avatar_preview td div.cancel
+{
+  text-align: right;
+  font-size: 11px;
+}
+
+div#settings_content table tr#profile_photo td div.cancel a,
+div#settings_content table tr#avatar_preview td div.cancel a
+{
+  font-size: 11px;
+}
+
+/******************************************************************************/
+
+div#settings_content table.message tr td { border: 0; margin: 0; padding: 0; }
+
+div#settings_content table.message tr td.tl { background: url('../images/tl10.gif') top left no-repeat; height: 5px; width: 7px; }
+div#settings_content table.message tr td.top { background: url('../images/top10.gif') top repeat-x; height: 5px;}
+div#settings_content table.message tr td.tr { background: url('../images/tr10.gif') top right no-repeat;  height: 5px; width: 7px; }
+div#settings_content table.message tr td.left { background: url('../images/left10.gif') left repeat-y; width: 7px; }
+div#settings_content table.message tr td.right { background: url('../images/right10.gif') right repeat-y; width: 7px; }
+div#settings_content table.message tr td.leftline { background: url('../images/left10lineb.gif') left no-repeat; width: 7px; height: 5px; }
+div#settings_content table.message tr td.middleline { background: url('../images/middle10lineb.gif') repeat-x; height: 5px; }
+div#settings_content table.message tr td.rightline { background: url('../images/right10lineb.gif') right no-repeat; width: 7px; height: 5px; }
+div#settings_content table.message tr td.bl { background: url('../images/bl10b.gif') bottom left no-repeat; height: 9px; width: 7px; }
+div#settings_content table.message tr td.bottom { background: url('../images/bottom10b.gif') bottom repeat-x; height: 9px; }
+div#settings_content table.message tr td.br { background: url('../images/br10b.gif') bottom right no-repeat; height: 9px; width: 7px; }
+div#settings_content table.message tr td span.fakelink { color: #2200CC; text-decoration: underline; }
+div#settings_content table.message tr.links td.left { background: url('../images/left10b.gif') left repeat-y; width: 7px; }
+div#settings_content table.message tr.links td.right { background: url('../images/right10b.gif') right repeat-y; width: 7px; }
+div#settings_content table.message tr.links td.links { background-color: #e5edfa; }
+div#settings_content table.message tr td.avatar {width: 40px; }
+div#settings_content table.message tr td.saidto { font-size: 12px; }
+div#settings_content table.message tr td.messagetype { font-size: 11px; text-align: right; }
+div#settings_content table.message tr td.message { padding-top: 5px; font-size: 12px; padding-bottom: 5px; }
+div#settings_content table.message tr td.links { font-size: 12px; text-align: right; padding-top: 5px; }
+div#settings_content table.message tr td.links span.sent { font-size: 10px; float: left; }
+
+/******************************************************************************/
+
+div#settings_content table.user {
+  margin-bottom: 0;
+}
+
+div#settings_content table.user { border: solid black 1px; }
+
+div#settings_content table.user tr td.avatar { width: 50px; height: 50px; padding: 5px 0 5px 5px; }
+div#settings_content table.user tr td.avatar img { width: 50px; height: 50px; }
+div#settings_content table.user tr td.name { padding: 5px 0 5px 10px; line-height: 40px; font-size: 14px; }
+div#settings_content table.user tr td.actionlink { font-size: 11px; width: 105px; text-align: right; padding-right: 10px; padding-top: 5px; }
+div#settings_content table.user tr td.userinfo { font-size: 12px; padding: 0 5px 5px 5px; border-bottom: solid black 1px; }
+div#settings_content table.user tr td.description { font-size: 12px; padding: 5px; padding-bottom: 2px; }
+div#settings_content table.user tr td.description div { padding-bottom: 3px; }
+div#settings_content table.user tr td.description label { font-weight: bold; }
+
+div#twitter, div#facebook, div#rss{
+	width:500px;
+	font-size:14px;
+	margin-top:10px;
+}
+
+div#twitter ul{
+	list-style:none;
+}
+
+div#twitter #header img, 
+div#rss #header img{
+	float:left;	
+}
+
+div#rss #header div{
+	float:left;
+	width:360px;
+	margin-left:20px;
+	margin-right:20px;
+	height:60px;
+	position:relative;
+}
+
+div#rss #header div p{
+	position:absolute;
+	bottom:0px;
+}
+
+div#rss div#header,
+div#twitter div#header{
+	margin-bottom:20px;
+	margin-top:50px;	
+	overflow:auto;
+}
+
+div#twitter #content{
+	clear:both;
+}
+
+div#twitter #content div.signin{
+	margin-top:40px;
+}
+
+div#twitter #content div#signedin{
+	float:left;
+	margin:12px 10px 0px 0px;
+}
+
+div#twitter #content img.avatar{
+	width:36px;
+	height:36px;
+	float:left;
+}
+
+div#twitter #content div.name{
+	margin:12px 0px 0px 10px;
+	float:left;
+	height:40px;
+}
+
+div#twitter #content ul{
+	margin-top:10px;
+	padding-left:0;
+}
+
+div#twitter #content li{
+	clear:both;
+}
+
+div#twitter #content li#editp{
+	padding-bottom:20px;	
+}
+
+div#twitter #content li.opt{
+	clear:both;
+	overflow:auto;
+	margin-top:20px;
+}
+
+div#twitter #content li.opt span{
+	font-weight:bold;
+}
+
+div#twitter #content li#error{
+	color:#990000;
+	margin-bottom:20px;
+}
+
+div#twitter #content div.label{
+	float:left;
+	width:300px;
+}
+
+div#twitter #content div.radios{
+	float:left;
+	width:100px;
+}
+
+div#twitter #content div.radios input{
+	margin-left:10px;
+	margin-right:4px;
+}
+
+div#rss #content p{
+	width:100%;
+	clear:both;
+	margin-top:30px;
+	overflow:auto;
+}
+
+div#rss #content div.test{
+	text-align:right;
+	padding-bottom:4px;
+	margin-top:30px;
+}
+
+div#rss #content img{
+	width:16px;
+	height:16px;
+	border:0;
+	margin-right:10px;
+}
+
+div#rss #content .url div{
+	float:left;
+	margin-top:4px;
+}
+
+div#rss #content .url div.link{
+	float:left;
+	padding-bottom:2px;
+	margin-top:4px;
+}
+
+div#rss #header div#titleText{
+	margin-top:20px;
+}
+
+div#rss #content span{
+	color: #2200CC;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+div#rss #content input.field{
+	float:right;
+	width:380px;
+}
+
+div#abfooter, div#editfooter, div#footer, div#tefooter, div#tvfooter, div#tsfooter{
+	width:100%;
+	clear:both;
+	text-align:right;
+	padding-top:20px;
+}
+
+div#footer, div#twitter #tvfooter{
+	padding-bottom:6px;
+	border-bottom:#999 1px solid;
+}
+
+div#footer span, div#tvfooter span{
+	color: #2200CC;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+div#feedlist ul{
+	list-style:none;
+	margin:20px 0 20px 0 ;
+	padding:0;
+}
+
+div#feedlist li{
+	margin:0px 0 10px 0;
+}
+
+div#feedlist ul li div.title{
+	font-weight:bold;
+
+}
+
+div#feedlist ul li div.title span{
+	font-size:12px;
+	color:#666;
+	font-weight:normal;
+}
+
+div#feedlist ul li div.url{
+	font-size:14px;
+	margin:4px 0px;
+	font-weight:normal;
+	font-style:italic;
+	color:#09c;
+}
+
+div#feedlist ul li div.links span{
+	font-size:12px;
+	color: #2200CC;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
