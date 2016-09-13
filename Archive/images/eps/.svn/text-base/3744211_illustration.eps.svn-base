@@ -1,5045 +1,0 @@
-%!PS-Adobe-3.0 EPSF-3.0%%Creator: Adobe Illustrator(R) 8.0%%AI8_CreatorVersion: 13.0.1%%For: (Scott Dunlap) ()%%Title: (blogging+internet2-cobalt.eps)%%CreationDate: 7/9/07 8:51 PM%%BoundingBox: 34 -328 347 -73%%HiResBoundingBox: 34.0142 -327.0322 346.0547 -73.9995%%DocumentProcessColors: Cyan Magenta Yellow Black%%DocumentSuppliedResources: procset Adobe_level2_AI5 1.2 0%%+ procset AGM_Gradient 1.0 0%%+ procset Adobe_ColorImage_AI6 1.3 0%%+ procset Adobe_Illustrator_AI5 1.3 0%%+ procset Adobe_cshow 2.0 8%%+ procset Adobe_shading_AI8 1.0 0%AI5_FileFormat 4.0%AI3_ColorUsage: Color%AI3_IncludePlacedImages%AI7_ImageSettings: 1%%CMYKProcessColor: 0.572549 0.490196 0.482353 0.156863 (New Color Swatch 1)%%+ 0.74902 0.678431 0.670588 0.901961 ([Registration])%%AI6_ColorSeparationSet: 1 1 (AI6 Default Color Separation Set) %%+ Options: 1 16 0 1 1 1 0 0 0 0 1 1 1 18 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 2 3 4%%+ PPD: 1 21 0 0 60 45 2 2 1 0 0 1 0 0 0 0 0 0 0 0 -1 -1 () %AI3_TemplateBox: 190.625 -190.625 190.625 -190.625%AI3_TileBox: -319.875 -850.125 700.125 469.875%AI3_DocumentPreview: Macintosh_ColorPic%AI5_ArtSize: 380 326%AI5_RulerUnits: 2%AI5_ArtFlags: 0 0 0 1 0 0 1 0 0%AI5_TargetResolution: 800%AI5_NumLayers: 2%AI8_OpenToView: -714.875 353.875 1 1829 1115 26 1 0 50 75 0 0%AI5_OpenViewLayers: 77%%PageOrigin:-35.8745 -849.125%AI7_GridSettings: 72 8 72 8 1 0 0.8 0.8 0.8 0.9 0.9 0.9%AI9_Flatten: 1%AI12_CMSettings: 00.MS%%EndComments%%BeginProlog%%BeginResource: procset Adobe_level2_AI5 1.2 0
-%%Title: (Adobe Illustrator (R) Version 5.0 Level 2 Emulation)
-%%Version: 1.2 0
-%%CreationDate: (04/10/93) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-userdict /Adobe_level2_AI5 26 dict dup begin
-	put
-	/packedarray where not
-	{
-		userdict begin
-		/packedarray
-		{
-			array astore readonly
-		} bind def
-		/setpacking /pop load def
-		/currentpacking false def
-	 end
-		0
-	} if
-	pop
-	userdict /defaultpacking currentpacking put true setpacking
-	/initialize
-	{
-		Adobe_level2_AI5 begin
-	} bind def
-	/terminate
-	{
-		currentdict Adobe_level2_AI5 eq
-		{
-		 end
-		} if
-	} bind def
-	mark
-	/setcustomcolor where not
-	{
-		/findcmykcustomcolor
-		{
-			(AI8_CMYK_CustomColor)
-			6 packedarray
-		} bind def
-		/findrgbcustomcolor
-		{
-			(AI8_RGB_CustomColor)
-			5 packedarray
-		} bind def
-		/setcustomcolor
-		{
-			exch 
-			aload pop dup
-			(AI8_CMYK_CustomColor) eq
-			{
-				pop pop
-				4
-				{
-					4 index mul
-					4 1 roll
-				} repeat
-				5 -1 roll pop
-				setcmykcolor
-			}
-			{
-				dup (AI8_RGB_CustomColor) eq
-				{
-					pop pop
-					3
-					{
-						1 exch sub
-						3 index mul 
-						1 exch sub
-						3 1 roll
-					} repeat
-					4 -1 roll pop
-					setrgbcolor
-				}
-				{
-					pop
-					4
-					{
-						4 index mul 4 1 roll
-					} repeat
-					5 -1 roll pop
-					setcmykcolor
-				} ifelse
-			} ifelse
-		}
-		def
-	} if
-	/setAIseparationgray
-	{
-		false setoverprint
-		0 setgray
-		/setseparationgray where{
-			pop setseparationgray
-		}{
-			/setcolorspace where{
-				pop
-				[/Separation (All) /DeviceCMYK {dup dup dup}] setcolorspace
-				1 exch sub setcolor
-			}{
-				setgray
-			}ifelse
-		}ifelse
-	} def
-	
-	/gt38? mark {version cvr cvx exec} stopped {cleartomark true} {38 gt exch pop} ifelse def
-	userdict /deviceDPI 72 0 matrix defaultmatrix dtransform dup mul exch dup mul add sqrt put
-	userdict /level2?
-	systemdict /languagelevel known dup
-	{
-		pop systemdict /languagelevel get 2 ge
-	} if
-	put
-/level2ScreenFreq
-{
- begin
-		60
-		HalftoneType 1 eq
-		{
-			pop Frequency
-		} if
-		HalftoneType 2 eq
-		{
-			pop GrayFrequency
-		} if
-		HalftoneType 5 eq
-		{
-			pop Default level2ScreenFreq
-		} if
- end
-} bind def
-userdict /currentScreenFreq  
-	level2? {currenthalftone level2ScreenFreq} {currentscreen pop pop} ifelse put
-level2? not
-	{
-		/setcmykcolor where not
-		{
-			/setcmykcolor
-			{
-				exch .11 mul add exch .59 mul add exch .3 mul add
-				1 exch sub setgray
-			} def
-		} if
-		/currentcmykcolor where not
-		{
-			/currentcmykcolor
-			{
-				0 0 0 1 currentgray sub
-			} def
-		} if
-		/setoverprint where not
-		{
-			/setoverprint /pop load def
-		} if
-		/selectfont where not
-		{
-			/selectfont
-			{
-				exch findfont exch
-				dup type /arraytype eq
-				{
-					makefont
-				}
-				{
-					scalefont
-				} ifelse
-				setfont
-			} bind def
-		} if
-		/cshow where not
-		{
-			/cshow
-			{
-				[
-				0 0 5 -1 roll aload pop
-				] cvx bind forall
-			} bind def
-		} if
-	} if
-	cleartomark
-	/anyColor?
-	{
-		add add add 0 ne
-	} bind def
-	/testColor
-	{
-		gsave
-		setcmykcolor currentcmykcolor
-		grestore
-	} bind def
-	/testCMYKColorThrough
-	{
-		testColor anyColor?
-	} bind def
-	userdict /composite?
-	1 0 0 0 testCMYKColorThrough
-	0 1 0 0 testCMYKColorThrough
-	0 0 1 0 testCMYKColorThrough
-	0 0 0 1 testCMYKColorThrough
-	and and and
-	put
-	composite? not
-	{
-		userdict begin
-		gsave
-		/cyan? 1 0 0 0 testCMYKColorThrough def
-		/magenta? 0 1 0 0 testCMYKColorThrough def
-		/yellow? 0 0 1 0 testCMYKColorThrough def
-		/black? 0 0 0 1 testCMYKColorThrough def
-		grestore
-		/isCMYKSep? cyan? magenta? yellow? black? or or or def
-		/customColor? isCMYKSep? not def
-	 end
-	} if
- end defaultpacking setpacking
-%%EndResource
-%%BeginResource: procset AGM_Gradient_Sep 1.0 0
-%%Title: (AGM Gradient Procset)
-%%Version: 1.0 0
-%%CreationDate: (4/26/96) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-userdict /defaultpacking currentpacking put true setpacking
-userdict /AGM_Gradient_Sep 5 dict dup begin put
-/AGM_Gradient_Sep_private 100 dict def
-/initialize{
-	AGM_Gradient_Sep begin
-	AGM_Gradient_Sep_private begin
-	_compositeJob{
-		initializeSinglePassSeps
-	}{
-		initializeMultiPassSeps
-	}ifelse
-	initializeSeps
-	AGM_Gradient_private begin
-		/_fillSD newSpotDict def
-		/_rampSD newSpotDict def
-		/_nCustomColorSD nd
- end
-	AGM_Gradient_Sep_private 
-	{
-		dup xcheck 1 index type /arraytype eq and
-		{
-			bind
-		}if
-		pop pop
-	}forall
-	AGM_Gradient_Sep
-	{
-		dup xcheck 1 index type /arraytype eq and
-		{
-			bind
-		}if
-		pop pop
-	}forall
- end
-	
-	currentdict readonly pop	
- end
-}def
-/terminate{
-	currentdict AGM_Gradient_Sep eq{
-	 end
-	}if
-}def
-AGM_Gradient_Sep_private begin
-/initializeSeps{
-	/currentoverprint { _of } def
-	_noImage not _level2PS not and{
-		/linealFill{
-			currentoverprint{
-				0 0 1 1 rectfill
-			}{
-				mySave
-				8 setImageParms
-				_color{
-					_nCustomColorSD begin
-						cyan magenta yellow black
-	
-						_spotColor{
-							spot1/tintImage spot1/tintValue get 1 exch sub makeByte8 put
-							spot2/tintImage spot2/tintValue get 1 exch sub makeByte8 put
-						}if
-				 end
-	
-					4{
-						makeByte8 4 1 roll
-					}repeat
-					true 4 _nCustomColorSD ncolorimage
-				}{
-					_nCustomColorSD/black get 1 exch sub makeByte8 
-					_nCustomColorSD bwImage
-				}ifelse
-				myRestore
-			}ifelse
-		}def
-	}if
-	/_whiteBytes 1 makeByte8 pt
-	 /knockOut{
-		_noImage _level2PS or currentoverprint or{
-			gsave
-			false setoverprint
-			1 setgray 
-			0 0 1 1 rectfill
-			grestore
-		}{
-			8 setImageParms _whiteBytes /_image load 5 execImage
-		}ifelse
-	}def
-	/newSpotDict{
-		11 dict dup begin
-			/nSpots 2 def
-			/spot1 7 dict def
-			/spot2 7 dict def
-	 end
-	}def
-	/initSpotData
-	{
-	 begin
-			/name nd
-			/tintImage nd
-			/tintValue nd
-			/spot_C nd
-			/spot_M nd
-			/spot_Y nd
-			/spot_K nd
-	 end
-	}def
-	/initSpotDict{
-	 begin
-			/cyanInk nd
-			/magentaInk nd
-			/yellowInk nd
-			/blackInk nd
-			/cyan nd
-			/magenta nd
-			/yellow nd
-			/black nd
-			spot1 initSpotData
-			spot2 initSpotData
-	 end
-	}def
-	/copySpotDict{
-		/_dst xp
-	 begin
-			cyanInk magentaInk yellowInk blackInk
-			cyan magenta yellow black
-			spot1 spot2
-	 end
-		_dst begin
-			/spot1 spot1 maxlength dict def
-			/spot2 spot2 maxlength dict def
-			spot2 copy pop
-			spot1 copy pop
-			/black xd
-			/yellow xd
-			/magenta xd
-			/cyan xd
-			/blackInk xd
-			/yellowInk xd
-			/magentaInk xd
-			/cyanInk xd
-	 end
-	}def
-	/setCustomColor
-	{
-		1 index /Black eq{
-			6 1 roll 5 npop
-			1 exch sub
-			setgray
-		}{
-			6 1 roll _ccAry1 astore exch
-			dup null eq{
-				pop 0
-			}if
-			setcustomcolor
-		}ifelse
-	}def
-	/setCStop{
-		/_colorStyle exch pt
-		
-		_colorStyle 0 eq{
-			0 0 0
-			4 -1 roll
-			1 exch sub
-			_spotColor{
-				/_colorStyle 3 pt
-				/Black
-				1 index
-				1 exch sub
-			}if
-		}if
-		_colorStyle 2 eq{
-			3 npop
-		}if
-		_rampSD _fillSD copySpotDict
-		
-		_colorStyle 4 eq{ 
-			pop
-			9 2 roll 3 npop 6 -2 roll
-		} if
-		
-		_colorStyle 3 eq _colorStyle 4 eq or{ 	
-				
-			_fillSD begin
-				/_spot1 spot1 pt
-				/_spot2 spot2 pt
-		 end
-			
-			exch dup _spot1/name get eq{
-				_spot1 _spot2
-			}{
-				_spot2 _spot1
-			}ifelse
-		 begin
-			 begin
-					/name xd
-					1 exch sub /tintValue xd
-					4{
-						tintValue mul 4 1 roll
-					}repeat
-					_spotColor not{
-						/tintValue null def
-					}if
-			 end
-				/tintValue 0 def
-		 end
-		}if
-		_fillSD nsetcustomcolor
-	}def
-	/renderCMYK{
-		spot1/name get null eq
-		spot2/name get null eq and
-		dup not{
-			pop
-			spot1 spotConverted
-		}if
-		dup not{
-			pop
-			spot2 spotConverted
-		}if
-	}def
-	/currentInk{
-		true
-		_inRipSep{
-			currentcolorspace 0 get
-			dup /DeviceGray eq
-			1 index /DeviceCMYK eq or{
-				pop
-				currentcmykcolor add add add 0 eq{
-					pop false
-				}if
-			}{
-				/Separation eq{
-					currentcolor 0 eq{
-						pop false
-					}if
-				}if
-			}ifelse
-		}{
-			currentgray 1 eq{
-				pop false
-			}if
-		}ifelse
-	}def
-	/currentInkN{
-	
-		_nCustomColorSD begin
-			/_spot1 spot1 pt
-			/_spot2 spot2 pt
-			renderCMYK
-	 end
-		{
-			currentInk
-		}{
-			gsave
-			_spot1 begin
-				name null ne{
-					spot_C spot_M spot_Y spot_K name tintValue setCustomColor
-					currentInk
-				}{
-					false
-				}ifelse
-		 end
-			_spot2 begin
-				name null ne{
-					spot_C spot_M spot_Y spot_K name tintValue setCustomColor
-					currentInk
-				}{
-					false
-				}ifelse
-		 end
-			grestore
-			
-			or
-		} ifelse
-	}def
-	/fill_ /fill load def
-	/fillOvp{
-		currentoverprint{
-			_inRipSep{
-				currentcolorspace 0 get
-				dup /DeviceGray eq
-				1 index /DeviceCMYK eq or{
-					pop
-					currentcmykcolor add add add 0 eq{
-						newpath
-					}if
-				}{
-					/Separation eq{
-						currentcolor 0 eq{
-							newpath
-						}if
-					}if
-				}ifelse
-			}{
-				currentgray 1 eq{
-					newpath
-				}if
-			}ifelse
-		}if
-		fill_
-	}def
-	/fill{
-		_nCustomColorSD begin
-			/_spot1 spot1 pt
-			/_spot2 spot2 pt
-			renderCMYK
-	 end
-		
-		{
-			fillOvp
-		}{
-			_spot1 begin
-				gsave
-				name null ne{
-					spot_C spot_M spot_Y spot_K name tintValue setCustomColor
-				}{
-					1 setgray
-				}ifelse
-				fillOvp 
-				grestore
-		 end
-			_spot2 begin
-				name null ne{
-					gsave
-					true setoverprint
-					spot_C spot_M spot_Y spot_K name tintValue setCustomColor
-					fillOvp
-					grestore
-				}if
-		 end
-			newpath
-		}ifelse
-	}def
-	/expandSpot{
-		_spotColor{
-			/_len xp
-			_rampSD begin
-				spot1 begin
-					tintImage null ne{
-						tintImage _len expandOne /tintImage xd
-					}if
-			 end
-				spot2 begin
-					tintImage null ne{
-						tintImage _len expandOne /tintImage xd
-					}if
-			 end
-		 end
-		}{
-			pop
-		}ifelse
-	}def
-	/rampImage{
-		currentoverprint{
-			rectImage
-		}{
-			_enabledSmoothShade{
-				fillRamp
-			}{
-				_color{
-					_rampSD begin
-						/cyanInk _cyanData 0 ne def
-						/magentaInk _magentaData 0 ne def
-						/yellowInk _yellowData 0 ne def
-						/blackInk _blackData 0 ne def
-				 end
-					
-					_nSamples setImageParms
-					_nSamples expandSpot
-					_cyanData _magentaData _yellowData _blackData _nSamples 4 expandColor
-					true 4 _rampSD ncolorimage
-				}{
-					_rampSD begin
-						/cyanInk false def
-						/magentaInk false def
-						/yellowInk false def
-						/blackInk true def
-				 end
-					_nSamples setImageParms 
-					_blackData _rampSD bwImage
-				}ifelse
-			}ifelse
-		}ifelse
-	}def
-	/nsetcustomcolor where{
-		pop
-	}{
-		/nsetcustomcolor
-		{
-			/_nCustomColorSD xp
-			_nCustomColorSD begin
-				4 copy
-				/black xd
-				/yellow xd
-				/magenta xd
-				/cyan xd
-				4 copy
-				0 ne /blackInk xd
-				0 ne /yellowInk xd
-				0 ne /magentaInk xd
-				0 ne /cyanInk xd
-		 end
-			setcmykcolor
-		}def
-	}ifelse
-	/nsetcustomcolorend where{
-		pop
-	}{
-		/nsetcustomcolorend
-		{
-			/_nCustomColorSD null pt
-		}def
-	}ifelse
-}def
-/initializeSinglePassSeps{
-	/_decodeNorm	[0 1] pt
-	/_decodeInvert 	[1 0] pt
-	/spotConverted
-	{
-	 begin
-			name null eq{
-				false
-			}{
-				tintValue null eq tintImage null eq and{
-					true
-				}{
-					_inDistiller{
-						false
-					}{
-						false
-						currentpagedevice/SeparationColorNames get{name eq or}forall
-						not
-					}ifelse
-				}ifelse
-			}ifelse
-	 end
-	}def
-	/dictImage
-	{
-		20 dict dup begin
-			/Dict xd
-			/Decode xd
-			/DataSource xd
-			/ImageMatrix xd
-			/BitsPerComponent xd
-			/Height xd
-			/Width xd
-			/ImageType 1 def
-			Dict
-	 end
-		/_image load 1 execImage
-	}def
-	/bwImage{
-	 begin
-			gsave
-			currentoverprint{
-				blackInk{
-					[/Separation /Black /DeviceGray{}] setcolorspace
-					_decodeInvert dictImage
-				}{
-					5 npop
-				}ifelse
-			}{
-				/DeviceGray setcolorspace
-				_decodeNorm dictImage
-			}ifelse
-			grestore
-	 end
-	}def
-	/ncolorimage where{
-		pop
-	}{
-		/ncolorimage{
-		 begin
-				renderCMYK{
-					cyanInk 
-					magentaInk and
-					yellowInk and
-					blackInk and
-					not
-					currentoverprint 
-					and{	
-						pop pop
-						gsave
-						cyanInk{
-							8 copy
-							[/Separation /Cyan /DeviceGray{}] setcolorspace
-							3 npop
-							_decodeNorm dictImage
-						}if
-						magentaInk{
-							8 copy
-							[/Separation /Magenta /DeviceGray{}] setcolorspace
-							4 -1 roll
-							3 npop
-							_decodeNorm dictImage
-						}if
-						yellowInk{
-							8 copy
-							[/Separation /Yellow /DeviceGray{}] setcolorspace
-							4 -2 roll
-							3 npop
-							_decodeNorm dictImage
-						}if
-						blackInk{
-							4 -3 roll
-							[/Separation /Black /DeviceGray{}] setcolorspace
-							3 npop
-							_decodeNorm dictImage
-						}{
-							8 npop
-						}ifelse
-						grestore
-					}{
-						/_colorimage load 10 execImage
-					}ifelse
-				}{
-					6 npop
-					gsave
-					spot1 begin
-						name null ne tintImage null ne and{
-							[/Separation name /DeviceGray{}] setcolorspace
-							4 copy
-							tintImage 
-							name /Black eq{
-								_decodeNorm
-							}{
-								_decodeInvert
-							}ifelse 
-							dictImage
-						}{
-							1 setgray fill
-						}ifelse
-				 end
-					spot2 begin
-						true setoverprint
-						name null ne tintImage null ne and{
-							[/Separation name /DeviceGray{}] setcolorspace
-							tintImage 
-							name /Black eq{
-								_decodeNorm
-							}{
-								_decodeInvert
-							}ifelse 
-							dictImage
-						}{
-							4 npop
-							1 setgray fill
-						}ifelse
-				 end
-					grestore
-				}ifelse
-		 end
-		}def
-	}ifelse
-	/getRampColorSpace{
-		
-		/_renderCMYK _rampSD begin renderCMYK end pt
-		
-		_renderCMYK not{
-			_rampSD begin
-				[/DeviceN 
-					[
-					spot1 begin
-						name null ne tintImage null ne and{
-							name
-						}if
-				 end
-					spot2 begin
-						name null ne tintImage null ne and{
-							name
-						}if
-				 end
-					]
-					_inDistiller {
-						/DeviceCMYK [
-							spot1 begin
-								name null ne tintImage null ne and{
-									spot_C spot_M spot_Y spot_K 1
-								}{
-									0 0 0 0 0
-								}ifelse
-						 end
-							spot2 begin
-								name null ne tintImage null ne and{
-									spot_C spot_M spot_Y spot_K 2
-								}{
-									0 0 0 0 0
-								}ifelse
-						 end
-							5 1 roll 6 -2 roll add
-							dup 1 eq {
-								pop
-								8 /index cvx 1 /exch cvx /sub cvx
-								9 1 /roll cvx
-							}{
-								2 eq {
-									8 /index cvx 1 /exch cvx /sub cvx
-									10 1 /roll cvx
-								}if
-							}ifelse
-							4 1 /roll cvx 5 -2 /roll cvx
-							8 /index cvx /mul cvx /exch cvx 9 /index cvx /mul cvx /add cvx 7 1 /roll cvx
-							3 1 /roll cvx 4 -2 /roll cvx
-							7 /index cvx /mul cvx /exch cvx 8 /index cvx /mul cvx /add cvx 6 1 /roll cvx
-							2 1 /roll cvx 3 -2 /roll cvx
-							6 /index cvx /mul cvx /exch cvx 7 /index cvx /mul cvx /add cvx 5 1 /roll cvx
-							5 /index cvx /mul cvx /exch cvx 6 /index cvx /mul cvx /add cvx 4 1 /roll cvx
-							6 -2 /roll cvx /pop cvx /pop cvx
-						] cvx bind
-					}{
-						/DeviceCMYK {}
-					}ifelse
-				] setcolorspace
-		 end
-			/_nColorSpace currentcolorspace pt
-		}if
-		
-		_nSamples 1 gt{ 
-			/_ndx 0 pt
-			[blendColor] cvx exec
-		}if
-		_renderCMYK{
-			/_C0 [currentcolor] pt
-			/_C0_Space currentcolorspace pt
-		}{
-			/_C0 [
-				_nCustomColorSD begin
-					spot1 begin 
-						name null ne{
-							tintValue
-						}if
-				 end
-					spot2 begin 
-						name null ne{
-							tintValue
-						}if
-				 end
-			 end
-			] pt
-			/_C0_Space _nColorSpace pt
-		}ifelse
-		
-		_nSamples 1 gt{ 
-			/_ndx _nSamples 1 sub pt
-			[blendColor] cvx exec
-		}if
-		_renderCMYK{
-			/_C1 [currentcolor] pt
-			/_C1_Space currentcolorspace pt
-		}{
-			/_C1 [
-				_nCustomColorSD begin
-					spot1 begin 
-						name null ne{
-							tintValue
-						}if
-				 end
-					spot2 begin 
-						name null ne{
-							tintValue
-						}if
-				 end
-			 end
-			] pt
-			/_C1_Space _nColorSpace pt
-		}ifelse
-		
-		/_rampColorSpace _C0_Space pt
-		_spotColor{
-			nsetcustomcolorend
-		}if
-	}def
-}def
-/initializeMultiPassSeps{
-	/invertXfer{
-		[
-		{
-			1 exch sub
-		}/exec load systemdict /currenttransfer get exec /exec load
-		] cvx systemdict /settransfer get exec
-	}def
-	/ccThrough{
-		gsave
-		1 setCustomColor
-		currentcmykcolor
-		grestore
-		add add add 0 ne
-	}def
-	/spotConverted
-	{
-	 begin
-			_isCMYKSep not{
-				false
-			}{
-				name null eq{
-					false
-				}{
-					tintValue null eq tintImage null eq and{
-						true
-					}{
-						spot_C spot_M spot_Y spot_K name ccThrough
-					}ifelse
-				}ifelse
-			}ifelse
-	 end
-	}def
-	/spotChannel
-	{
-		_isCMYKSep{
-			pop false
-		}{
-			/_spotDict xp
-				_spotDict/name get null eq{
-					false
-				}{
-					_spotDict/spot_C get
-					_spotDict/spot_M get
-					_spotDict/spot_Y get
-					_spotDict/spot_K get
-					_spotDict/name get
-					ccThrough 
-				}ifelse
-		}ifelse
-	}def
-	/getChannelData
-	{
-		_isCMYKSep dup{
-			pop renderCMYK
-		}if
-		{
-			_blackPlate{
-				4 1 roll 3 npop blackInk
-			}{
-				_yellowPlate{
-					4 2 roll 3 npop yellowInk
-				}{
-					_magentaPlate{
-						4 3 roll 3 npop magentaInk
-					}{
-						3 npop cyanInk
-					}ifelse
-				}ifelse
-			}ifelse
-			{
-				true /nonZeroData
-			}{
-				true /zeroData
-			}ifelse
-		}{
-			4 npop
-			spot1/name get null ne 
-			spot1 spotChannel and{
-				spot1/tintImage get dup null ne{
-					false /nonZeroData
-				}{
-					pop false /noData
-				}ifelse
-			}{
-				spot2/name get null ne 
-				spot2 spotChannel and{
-					spot2/tintImage get dup null ne{
-						false /nonZeroData
-					}{
-						pop false /noData
-					}ifelse
-				}{
-					false /noData
-				}ifelse
-			}ifelse
-		}ifelse
-	}def
-	/renderChannelData
-	{
-		/_tmp xp
-		_tmp /nonZeroData ne currentoverprint and{
-			pop
-			_tmp /zeroData eq{pop}if
-			4 npop
-		}{
-			_tmp /nonZeroData eq{
-				{
-					invertXfer
-				}if
-					systemdict/image
-				get 5 execImage
-			}{
-				pop
-				_tmp /zeroData eq{pop}if
-				4 npop
-				knockOut
-			}ifelse
-		}ifelse
-	}def
-	/bwImage{
-	 begin
-			gsave
-			dup dup dup
-			getChannelData
-			exch pop false exch
-			renderChannelData
-			grestore
-	 end
-	}def
-	/ncolorimage{
-	 begin
-			pop pop
-			gsave
-			spot2/name get null ne spot2 spotChannel and{
-				true setoverprint
-			}if
-			getChannelData 
-			renderChannelData
-			grestore
-	 end
-	}def
-	/getRampColorSpace{
-		
-		/_renderCMYK _rampSD begin renderCMYK end pt
-		
-		_nSamples 1 gt{ 
-			/_ndx 0 pt
-			[blendColor] cvx exec
-		}if
-		
-		_renderCMYK{
-			/_C0 [currentcolor] pt
-			/_C0_Space currentcolorspace pt
-		}{
-			/_C0 [
-				_nCustomColorSD begin
-					0
-					spot1 begin 
-						name null ne
-						tintValue null ne and
-						spot1 spotChannel and{
-							pop tintValue
-						}if
-				 end
-					spot2 begin 
-						name null ne
-						tintValue null ne and
-						spot2 spotChannel and{
-							pop tintValue
-						}if
-				 end
-					1 exch sub
-			 end
-			] pt
-			/_C0_Space /DeviceGray pt
-		}ifelse
-		
-		_nSamples 1 gt{ 
-			/_ndx _nSamples 1 sub pt
-			[blendColor] cvx exec
-		}if
-		
-		_renderCMYK{
-			/_C1 [currentcolor] pt
-			/_C1_Space currentcolorspace pt
-		}{
-			/_C1 [
-				_nCustomColorSD begin
-					0
-					spot1 begin 
-						name null ne
-						tintValue null ne and
-						spot1 spotChannel and{
-							pop tintValue
-						}if
-				 end
-					spot2 begin 
-						name null ne
-						tintValue null ne and
-						spot2 spotChannel and{
-							pop tintValue
-						}if
-				 end
-					1 exch sub
-			 end
-			] pt
-			/_C1_Space /DeviceGray pt
-		}ifelse
-		
-		/_rampColorSpace _C0_Space pt
-		_spotColor{
-			nsetcustomcolorend
-		}if
-	}def
-}def
-end
-end
-defaultpacking setpacking
-%%EndResource
-%%BeginResource: procset AGM_Gradient 1.0 0
-%%Title: (AGM Gradient Procset)
-%%Version: 1.0 0
-%%CreationDate: (4/26/96) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-userdict /defaultpacking currentpacking put true setpacking
-userdict /AGM_Gradient 20 dict dup begin put
-/AGM_Gradient_private 201 dict def
-/initialize
-{
-	AGM_Gradient begin
-	AGM_Gradient_private begin
-	initializeVars
-	
-	/bd systemdict/mark get def
-	/ed
-		_level2PS 
-		{
-			(>>)
-		}{
-			(counttomark 2 idiv dup dict begin {def} repeat pop currentdict end)
-		} ifelse
-	cvx def
-	
-	_level2PS{
-		initializeLev2
-	}{
-		initializeLev1
-	}ifelse
-	
-	queryDevice
-	
-	initializeRectFill
-	initializeShading
-	initializeOps
-	_producingSeps{
-		AGM_Gradient_Sep/initialize get exec
-	}{
-		initializeComposite
-	}ifelse
-	_illustrator{
-		/f{}def
-		/F{}def
-		/s{}def
-		/S{}def
-		/b{}def
-		/B{}def
-	}if
-	/image where{
-		/image get /_image xd
-	}if
-	/colorimage where{
-		/colorimage get /_colorimage xd
-	}if
-	AGM_Gradient_private
-	{
-		dup xcheck 1 index type /arraytype eq and
-		{
-			bind
-		}if
-		pop pop
-	}forall
-	AGM_Gradient
-	{
-		dup xcheck 1 index type /arraytype eq and
-		{
-			bind
-		}if
-		pop pop
-	}forall
- end
-	
-	currentdict readonly pop
- end
-}def
-/initializeAI
-{
-	pop pop 
-	AGM_Gradient/AGM_Gradient_private get /_illustrator true put
-	AGM_Gradient/initialize get exec
-		AGM_Gradient begin
-}def
-/unload{
-	systemdict/languagelevel known{
-		systemdict/languagelevel get 2 ge{
-			userdict/AGM_Gradient_Sep 2 copy known{
-				undef
-			}{
-				pop pop
-			}ifelse
-			userdict/AGM_Gradient 2 copy known{
-				undef
-			}{
-				pop pop
-			}ifelse
-		}if
-	}if
-}def
-/terminate{
-	currentdict AGM_Gradient eq{
-	 end
-	}if
-}def
- 
-AGM_Gradient_private begin
-/initializeVars{
-	/_d255 256 array def
-	0 1 255{
-		_d255 exch dup 255 div put
-	}bind for
-	/_d255- 256 array def
-	0 1 255{
-		_d255- exch 1 _d255 2 index get sub put
-	}bind for
-	/_sSave nd
-	/_dUserSpace matrix defaultmatrix def
-	/_bUMatrix matrix def
-	/_imageMatrix matrix def
-	/_saveMatrix matrix def
-	/_xm matrix def
-	/_ccAry1 5 array def
-	/_bbox 4 array pt
-	/_level2PS 
-		systemdict/languagelevel known dup{
-			pop systemdict/languagelevel get 2 ge
-		}if
-	def
-	/_level3PS
-		_level2PS systemdict/shfill known and
-	def
-	currentdict /_illustrator known not{
-		/_illustrator false def
-	}if
-	
-}def
-/initializeOps
-{
-	AGM_Gradient begin
-	currentdict/Bc known not{
-		/Bc{
-		
-			_renderFlag 2 eq _enabledSmoothShade or{
-				6 npop
-			}{
-				pushBSpace
-				_rampIndex 0 eq{
-					pop pop
-					setCStop
-				}if
-				linealFill
-				popBSpace
-			}ifelse
-		
-		}def
-	}if
-	
-	currentdict/Bg known not{
-		/Bg{
-			10 npop
-			/_gradName xp
-			/_renderFlag xp
-			/_enabledSmoothShade false pt
-		
-			_renderFlag 2 ne{
-		
-				_illustrator{
-					_of setoverprint
-				}if
-		
-				/_enabledSmoothShade 
-					_level3PS{
-						_usingSmoothShade
-						_producingSeps not
-						currentoverprint not or and
-						_noImage not and
-					}{
-						false
-					}ifelse
-				pt
-				
-				_illustrator _eo and _renderFlag 3 eq or{
-					eoclip
-				}{
-					clip
-				}ifelse
-		
-				_gradNames _gradName 2 copy known{
-					get
-					mark exch aload pop
-					/_gradType xp
-					1 sub dup /_rampIndex xp
-					/_maxRampIndex xp
-					mark exch aload pop
-					0 0
-				}if
-				pop pop
-				getRampData
-			}{
-				mark mark
-			}ifelse
-		}def
-	}if
-	
-	currentdict/Bm known not{
-		/Bm{
-			_renderFlag 2 ne{
-				_gradType 0 eq{
-					linealRamp
-				}{
-					radialGrad
-				}ifelse
-			}{
-				6 npop
-			}ifelse
-		}def
-	}if
-	
-	currentdict/Bh known not{
-		/Bh{
-			2 npop
-			/_yHi xp
-			/_xHi xp
-			/_radHilite _xHi 0 ne _yHi 0 ne or pt
-		}def
-	}if
-	
-	currentdict/Bn known not{
-		/Bn{
-			AGM_Gradient_private begin
-				dict /_gradNames xp
-		 end
-		}def
-	}if
-	
-	currentdict/Bd known not{
-		/Bd{
-			AGM_Gradient begin
-			AGM_Gradient_private begin
-				/_nColorsBd xp
-				/_gradType xp
-				/_gradName xp
-		}def
-	}if
-	
-	currentdict/BD known not{
-		/BD{
-				currentdict/_gradNames known not{
-					/_gradNames 20 dict def
-				}if
-				] _nColorsBd _gradType
-				]  _gradName exch /_gradNames xput
-		 end
-		 end
-		}def
-	}if
-	
-	currentdict/Bb known not{
-		/Bb{
-		
-			AGM_Gradient/AGM_Gradient_private get /_illustrator get not{
-				AGM_Gradient begin
-			}if
-			AGM_Gradient_private begin
-			_producingSeps{
-				AGM_Gradient_Sep/AGM_Gradient_Sep_private get begin
-			}if
-			mySave
-		}def
-	}if
-	
-	currentdict/BB known not{
-		/BB{
-		
-			/_tmp xp
-			cleartomark cleartomark
-		
-			_tmp dup
-			_renderFlag
-		
-			myRestore
-		
-			_producingSeps{
-			 end
-			}if
-		
-			_illustrator dup
-		 end
-			not {
-			 end
-			}if
-		
-			{
-				2 ne exch 0 gt and{
-					2 eq{
-						s
-					}{
-						S
-					}ifelse
-				}{
-					pop newpath
-				}ifelse
-			}{
-				pop newpath
-			}ifelse
-		
-		
-		}def
-	}if
-	
-	currentdict/Xm known not{
-		/Xm{
-			_xm astore pop
-		}def
-	}if
-	
- end
-}def
-/queryDevice{
-	/_inDistiller
-		systemdict /currentdistillerparams known
-	def
-	/_inRipSep
-		_level2PS{
-			currentpagedevice/Separations 2 copy known{
-				get
-			}{
-				pop pop false
-			}ifelse
-		}{
-			false
-		}ifelse
-		_inDistiller or
-	def
-	/_noImage /lv1Fix where{
-		pop lv1Fix
-	}{
-		false
-	}ifelse
-	def
-	/_useShells where{
-		/_useShells get /_usingShells xp
-	}{
-		/_usingShells false def
-	}ifelse
-	
-	/_useSmoothShade where{
-		pop
-	}{
-		/_useSmoothShade false def 
-	}ifelse
-	/_forceToCMYK where{
-		pop
-	}{
-		/_forceToCMYK false def 
-	}ifelse
-	/_cyanPlate 1 0 0 0 testCMYKColorThrough def
-	/_magentaPlate 0 1 0 0 testCMYKColorThrough def
-	/_yellowPlate 0 0 1 0 testCMYKColorThrough def
-	/_blackPlate 0 0 0 1 testCMYKColorThrough def
-	/_compositeJob
-		_cyanPlate _magentaPlate and _yellowPlate and _blackPlate and
-	def
-	/_isCMYKSep
-		_cyanPlate _magentaPlate or _yellowPlate or _blackPlate or
-	def
-	/_compositeSpotDevice where{
-		pop
-	}{
-		/_compositeSpotDevice _compositeJob not _inRipSep or{
-			1
-		}{
-			0
-		}ifelse
-		def
-	}ifelse
-	/_producingSeps _compositeSpotDevice 0 ne def
-	/_deviceDPI 72 0 matrix defaultmatrix dtransform dup mul exch dup mul add sqrt def
-	/_dpiThreshold where{
-		pop
-	}{
-		/_dpiThreshold 600 def
-	}ifelse
-	/_screenFreqThreshold where{
-		pop
-	}{
-		/_screenFreqThreshold 150 def
-	}ifelse
-	/_contoneDevice where{
-		pop
-	}{
-		/_contoneDevice false def
-	}ifelse
-	/_subSampleOK 
-		_deviceDPI _dpiThreshold le 
-		currentScreenFreq _screenFreqThreshold le and 
-		_contoneDevice not and 
-	def
-}def
-/initializeRectFill{
-	/rectfill where dup{
-		exch pop not _producingSeps or
-	}{
-		not
-	}ifelse
-	{
-		/rectfill{
-			gsave
-			newpath
-			4 2 roll moveto
-			1 index 0 rlineto
-			0 1 index rlineto
-			1 index neg 0 rlineto
-			pop pop
-			closepath
-			fill
-			grestore
-		}def
-	}if
-}def
-/initializeLev1{
-	/currentScreenFreq{
-		currentscreen pop pop
-	}def
-	/_byte 1 string def
-	/colorimage where{
-		pop
-	}{
-		/colorimage{
-			pop pop
-			/_blackTmp xp
-			/_yellowTmp xp
-			/_magentaTmp xp
-			/_cyanTmp xp
-			/_cnt 0 pt
-			[
-			_byte dup 0
-			_cyanTmp 
-				/_cnt cvx /get cvx _d255 /exch cvx /get cvx .3 /mul cvx
-			_magentaTmp
-				/_cnt cvx /get cvx _d255 /exch cvx /get cvx .59 /mul cvx
-			_yellowTmp
-				/_cnt cvx /get cvx _d255 /exch cvx /get cvx .11 /mul cvx
-			_blackTmp 
-				/_cnt cvx /get cvx _d255 /exch cvx /get cvx
-			/add cvx /add cvx /add cvx 1 /exch cvx /sub cvx
-			/dup cvx 0 /lt cvx{
-				pop 0
-			}/if cvx
-			/dup cvx 1 /gt cvx{
-				pop 1
-			}/if cvx
-			255 /mul cvx /cvi cvx
-			256 /mod cvx
-			/dup cvx 0 /lt cvx{
-				pop 0
-			}/if cvx
-			/put cvx
-			/_cnt dup cvx 1 /add cvx /pt cvx
-			] cvx
-			bind
-			/_image load 5 execImage
-		}def
-	}ifelse
-}def
-/initializeLev2{
-	/level2ScreenFreq{
-	 begin
-		60
-		HalftoneType 1 eq{
-			pop Frequency
-		}if
-		HalftoneType 2 eq{
-			pop GrayFrequency
-		}if
-		HalftoneType 5 eq{
-			pop Default level2ScreenFreq
-		}if
-		 end
-	}def
-	/currentScreenFreq{
-		currenthalftone level2ScreenFreq
-	}def
-}def
-/initializeShading{
-	_useSmoothShade _level3PS and{
-		/_usingSmoothShade true pt
-		initializeLev3_Ops
-	}{
-		/_usingSmoothShade false pt
-	}ifelse
-}def
-/initializeLev3_Ops
-{
-	/initShFill{
-		/_index _gradType 0 eq {0}{_maxRampIndex 1 sub} ifelse pt
-		/_rampFuncsArray _maxRampIndex array pt
-		/_boundsArray _maxRampIndex 1 sub array pt
-		/_encodeArray _maxRampIndex 2 mul array pt
-		/_beginCoord _rampPoint pt
-		/_colorSpace null pt
-		/_firstFill _rampIndex _maxRampIndex eq pt
-		/_lastFill false pt
-	}def
-	/linealShFill{
-		popBSpace
-		_xm aload pop pushBSpace
-		
-		/_size _index 1 add pt
-		_size _maxRampIndex lt {
-			/_rampFuncsArray _rampFuncsArray 0 _size getinterval pt
-			/_boundsArray _boundsArray 0 _size 1 sub getinterval pt
-			/_encodeArray _encodeArray 0 _size 2 mul getinterval pt
-		}if
-		
-		bd
-			/ShadingType 2
-			/ColorSpace _colorSpace
-			_rgbInCMYK{
-				/Function [
-					_cData sampFunc
-					_mData sampFunc
-					_yData sampFunc
-					_kData sampFunc
-				]
-			}{
-				/Function 
-					bd
-						/FunctionType 3
-						/Domain [0 1]
-						/Functions _rampFuncsArray
-						/Bounds _boundsArray
-						/Encode _encodeArray
-					ed
-			}ifelse
-			/Extend [_firstFill _lastFill]
-			/Domain [0 1] 
-			/Coords [_beginCoord 0 _endCoord 0]
-		ed
-		shfill
-	}def
-	
-	/radialShFill{
-		/_size _maxRampIndex _index sub pt
-		_size _maxRampIndex lt {
-			/_rampFuncsArray _rampFuncsArray _index _size getinterval pt
-			/_boundsArray _boundsArray _index _size 1 sub getinterval pt
-			/_encodeArray _encodeArray _index 2 mul _size 2 mul getinterval pt
-		}if
-		
-		/_rampLen _beginCoord _endCoord sub pt
-		bd
-			/ShadingType 3
-			/ColorSpace _colorSpace
-			_rgbInCMYK{
-				/Function [
-					_cData sampFunc
-					_mData sampFunc
-					_yData sampFunc
-					_kData sampFunc
-				]
-			}{
-				/Function 
-					bd
-						/FunctionType 3
-						/Domain [0 1]
-						/Functions _rampFuncsArray
-						/Bounds _boundsArray
-						/Encode _encodeArray
-					ed
-			}ifelse
-			/Extend [_lastFill _firstFill]
-			/Domain [0 1] 
-			/Coords [_xHi _rampLen mul _yHi _rampLen mul _endCoord 0 0 _beginCoord] 
-		ed
-		shfill
-		
-		_radHilite{
-			_xHi _rampLen mul _yHi _rampLen mul translate
-		}if
-	}def
-	
-	%
-	/sampFunc{
-		/_tmp exch pt
-		bd
-			_tmp length 1 eq {
-				_tmp 0 get
-				/_tmp 2 string pt
-				dup _tmp 0 3 -1 roll put
-				_tmp 1 3 -1 roll put
-			}if
-			/FunctionType 0
-			/Order 1
-			/Size [_tmp length]
-			/Domain [0 1]
-			/BitsPerSample 8
-			/DataSource _tmp
-			/Range [0 1]
-		ed
-	}def
-	
-	/fillRamp{
-	
-	
-		/_invert _midPoint 0.5 lt pt
-		_rampIndex _maxRampIndex eq {
-			initShFill
-		}if
-		
-		getRampColorSpace
-		
-		_colorSpace null eq{
-			/_colorSpace _rampColorSpace pt
-		}{
-			_colorSpace _rampColorSpace ne _rgbInCMYK or{
-				/_index _index 1 
-				_gradType 0 eq{
-					sub pt
-					linealShFill
-				}{
-					add pt
-					radialShFill
-				}ifelse
-				initShFill
-				/_colorSpace _rampColorSpace pt
-			} if
-		}ifelse
-		/_endCoord _endPoint pt	
-		/_rgbInCMYK false pt
-		_producingSeps _forceToCMYK or _rgbRamp and {
-			_spotColor{
-				_renderCMYK
-			}{
-				_isCMYKSep
-			}ifelse
-		}{
-			false
-		}ifelse
-		{
-			_compositeJob{
-				/_rgbInCMYK true pt
-				_cyanData _magentaData _yellowData _blackData _nSamples 4 expandColor
-				dup length string copy /_kData exch pt
-				dup length string copy /_yData exch pt
-				dup length string copy /_mData exch pt
-				dup length string copy /_cData exch pt
-			}{
-				_rampFuncsArray _index
-					_cyanPlate{_cyanData}if
-						_magentaPlate{_magentaData}if
-						_yellowPlate{_yellowData}if
-						_blackPlate{_blackData}if
-					_nSamples expandOne
-					sampFunc
-					dup begin /Decode [1 0] def end
-				put
-				/_invert false pt
-			}ifelse
-		}{
-			_rampFuncsArray _index
-				bd
-					/FunctionType 2
-					/Domain [0 1]
-					/N 0.5 log _invert{1 _midPoint sub}{_midPoint}ifelse log div
-					_gradType 0 eq{
-						_invert{/C1}{/C0}ifelse _C0
-						_invert{/C0}{/C1}ifelse _C1
-					}{
-						_invert{/C0}{/C1}ifelse _C1
-						_invert{/C1}{/C0}ifelse _C0
-					}ifelse
-				ed
-			put
-		}ifelse
-		
-		_rampIndex 1 ne{
-			_boundsArray _index _gradType 1 eq{1 sub}if _endCoord put
-		} if
-		
-		0 1 _invert {exch}if
-		_encodeArray _index 2 mul 1 add 3 -1 roll put
-		_encodeArray _index 2 mul 3 -1 roll put
-		_rampIndex 1 eq {
-			/_lastFill true pt
-			_gradType 0 eq{
-				linealShFill
-			}{
-				radialShFill
-			}ifelse
-		}if
-		/_index _index 1 
-		_gradType 0 eq{
-			add pt
-		}{
-			sub pt
-		}ifelse
-	}def
-}def
-/initializeComposite{
-	/bwImage{
-		pop /_image load 5 execImage 
-	}def
-	/rampImage{
-		_enabledSmoothShade{
-			fillRamp
-		}{
-			_color{
-				_nSamples setImageParms
-	
-				
-				_rgbRamp _forceToCMYK not and{
-					_redData _greenData _blueData _nSamples 3 expandColor
-					true 3 null ncolorimage
-				}{
-					_cyanData _magentaData _yellowData _blackData _nSamples 4 expandColor
-					true 4 null ncolorimage
-				}ifelse
-			}{
-				_nSamples setImageParms _blackData null bwImage
-			}ifelse
-		}ifelse
-	}def
-	/setCStop{
-		/_colorStyle exch pt
-		_colorStyle 0 eq{
-			1 exch sub
-			0 0 0
-			4 -1 roll
-		}if
-		
-		_colorStyle 2 eq{
-			_forceToCMYK{
-				3 npop setcmykcolor
-			}{
-				setrgbcolor 4 npop
-			}ifelse
-		}if
-		
-		_colorStyle 3 eq{
-			1 exch sub /_tmp xp
-			pop
-			4{
-				_tmp mul 4 1 roll
-			}repeat
-		}if
-		
-		_colorStyle 4 eq{
-			_forceToCMYK{
-				6 npop setcmykcolor
-			}{
-				3 -1 roll pop pop
-				1 exch sub /_tmp xp
-				3{
-					1 exch sub _tmp mul 1 exch sub 3 1 roll
-				}repeat
-				setrgbcolor 
-				4 npop
-			}ifelse
-		}if
-		_colorStyle 2 ne _colorStyle 4 ne and{
-			null nsetcustomcolor
-		}if
-	}def
-	/nsetcustomcolor
-	{
-		pop setcmykcolor
-	}def
-	/nsetcustomcolorend
-	{
-	}def
-	/ncolorimage{
-		pop 
-		/_colorimage load 10 execImage
-	}def
-	_noImage not _level2PS not and{
-		/linealFill{
-			8 setImageParms
-			_color{
-				currentcmykcolor
-				4{
-					makeByte8 4 1 roll
-				}repeat
-				true 4 null ncolorimage
-			}{
-				currentgray makeByte8 null bwImage
-			}ifelse
-		}def
-	}if
-	/getRampColorSpace{
-		_nSamples 1 gt{ 
-			/_ndx 0 pt
-			[blendColor] cvx exec
-		}if
-		/_C0 [currentcolor] pt
-		/_C0_Space currentcolorspace pt
-		
-		_nSamples 1 gt{ 
-			/_ndx _nSamples 1 sub pt
-			[blendColor] cvx exec
-		}if
-		/_C1 [currentcolor] pt
-		/_C1_Space currentcolorspace pt
-		
-		/_rampColorSpace _C0_Space pt
-		
-		_spotColor{
-			nsetcustomcolorend
-		}if
-	}def
-}def
-/npop{
-	{pop}repeat
-}def
-/xd{
-	exch def
-}def
-/nd{
-	null def
-}def
-/pt{
-	AGM_Gradient_private 3 1 roll put
-}def
-/xp{
-	exch pt
-}def
-/xput{
-	dup load dup length exch maxlength eq{
-		dup dup load dup
-		length 2 mul dict copy def
-	}if
-	load begin
-		def
-  end
-}def
-/mySave{
-	save /_sSave xp
-}def
-/myRestore{
-	_sSave type /savetype eq{
-		_sSave restore
-	}if
-}def
-/gMark{
-	counttomark 2 add -1 roll
-}def
-/execImage{
-	/_tmp xp
-	{
-		exec
-	}stopped{
-		$error /errorname get /undefinedresult ne{
-			stop
-		}{
-			_tmp npop
-		}ifelse
-	}if
-}def
-/pushBSpace{
-	newpath gsave
-	_bUMatrix astore concat 
-}def
-/popBSpace{
-	grestore
-}def
-/makeByte8{
-	/_tmp 0 pt
-	255 mul cvi
-	8 string 8{
-		dup _tmp 3 index put 
-		/_tmp _tmp 1 add pt
-	}repeat
-	exch pop
-}def
-/setImageParms{
-	1 8 2 index 0 0 1 0 0 _imageMatrix astore
-}def
-/linealFill{
-	0 0 1 1 rectfill
-}def
-/testCMYKColorThrough{
-	gsave
-	setcmykcolor currentcmykcolor
-	grestore
-	add add add 0 ne
-}def
-/expandOne	{
-	/_tmp xp
-	dup type /stringtype ne{
-		_tmp string
-		exch
-		dup 0 ne{
-			255 mul cvi
-			0 1 _tmp 1 sub{
-				3 copy
-				exch put pop
-			}for
-		}if
-		pop
-	}if
-}def
-/expandColor{
-	/_channels xp
-	/_len xp
-	_channels{
-		_len expandOne _channels 1 roll
-	}repeat
-}def
-/blendColor{
-	
-	_color{
-		_rgbRamp _producingSeps not and _forceToCMYK not and{
-			_redData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-			_greenData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-			_blueData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-			/setrgbcolor cvx
-		}{
-			_cyanData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-			_magentaData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-			_yellowData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-			_blackData dup type /stringtype eq{
-				/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-			}if
-	
-			_spotColor{
-				_rampSD begin
-					/_rampSD cvx /begin cvx
-	
-					spot1 begin
-						tintImage dup type /stringtype eq{
-							/_ndx cvx /get cvx _d255- /exch cvx /get cvx
-						}{
-							dup null ne{
-								name type /nametype ne{
-									1 exch sub
-								}if
-							}if
-						}ifelse
-				 end
-					/spot1 cvx /tintValue 3 -1 /roll cvx /put cvx
-	
-					spot2 begin
-						tintImage dup type /stringtype eq{
-							/_ndx cvx /get cvx _d255- /exch cvx /get cvx
-						}{
-							dup null ne{
-								name type /nametype ne{
-									1 exch sub
-								}if
-							}if
-						}ifelse
-				 end
-					/spot2 cvx /tintValue 3 -1 /roll cvx /put cvx
-					/end cvx
-			 end
-				/_rampSD cvx
-				/nsetcustomcolor cvx
-			}{
-				/setcmykcolor cvx
-			}ifelse
-		}ifelse
-	}{
-		_blackData dup type /stringtype eq{
-			/_ndx cvx /get cvx _d255 /exch cvx /get cvx
-		}if
-		
-		_enabledSmoothShade{
-			1 /exch cvx /sub cvx 0 0 0 4 -1 /roll cvx /setcmykcolor cvx
-		}{
-			 /setgray cvx
-		}ifelse
-	}ifelse
-}def
-/useRectImage{
-	_subSampleOK _enabledSmoothShade not and{
-		{
-			mark
-			0 1 dtransform atan cvi 90 mod 0 eq
-			1 0 dtransform atan cvi 90 mod 0 eq
-		} stopped
-		{
-			cleartomark
-			false
-		}
-		{
-			and exch pop
-		} ifelse
-	}{
-		false
-	}ifelse
-}def
-/linealImage{
-	_noImage{
-		rectImage
-	}{
-		_producingSeps{
-				AGM_Gradient_Sep/AGM_Gradient_Sep_private get
-				/rampImage get exec
-		}{
-			useRectImage{
-				rectImage
-			}{
-				rampImage
-			}ifelse
-		}ifelse
-	}ifelse
-}def
-/linealRamp{
-	pushBSpace
-	_ramp{
-		linealImage
-	}{
-		linealFill
-	}ifelse
-	popBSpace
-	/_rampIndex _rampIndex 1 sub pt
-	_rampIndex 0 gt{
-		getRampData
-	}if
-}def
-/radialGrad{
-	/_usingShells currentoverprint _producingSeps and _usingShells or pt
-	/_firstShell true pt
-	_enabledSmoothShade not{
-		currentoverprint _producingSeps and{
-			
-			newpath
-			clippath pathbbox 
-			1 add 4 1 roll
-			1 add 4 1 roll
-			1 sub 4 1 roll
-			1 sub 4 1 roll
-			_bbox astore pop
-			
-			newpath
-			_bbox 0 get _bbox 1 get moveto
-			_bbox 2 get _bbox 1 get lineto
-			_bbox 2 get _bbox 3 get lineto
-			_bbox 0 get _bbox 3 get lineto
-			closepath
-			6 copy
-			gsave _bUMatrix astore concat
-			1 0 moveto 0 0 1 0 360 arc closepath
-			eoclip fill
-			popBSpace
-		}{
-			fill
-		}ifelse
-	}if
-	pushBSpace
-	
-	_radHilite{
-		_xHi _yHi _bUMatrix idtransform /_yHi xp /_xHi xp
-		_rampPoint 1 lt{
-			1 _rampPoint sub dup _xHi mul exch _yHi mul translate
-		}if
-	}if
-	_rampIndex{
-		radialRamp
-		/_rampIndex _rampIndex 1 sub pt
-		_rampIndex 0 gt{
-			getRampData
-		}if
-	}repeat
-	
-	popBSpace
-	
-}def
-/getNSamples{
-	0 exch
-	{
-		dup type /stringtype eq{
-			length exch pop exit
-		}if
-		pop
-	}forall
-	dup 0 eq{
-		pop 1
-	}if
-}def
-/getRampData{
-	/_rampType gMark pt
-	/_color _rampType 0 gt pt
-	/_ccRGB _rampType 5 eq _rampType 6 eq or pt
-	/_rgbRamp _rampType 4 eq _ccRGB or pt
-	/_ccProcess _rampType 2 eq _rampType 3 eq or pt
-	_producingSeps{
-		_rampSD initSpotDict
-		/_spotColor _ccProcess _ccRGB or pt
-	}{
-		/_spotColor false pt
-	}ifelse
-	/_ramp true pt
-	100 div /_rampPoint xp
-	100 div /_midPoint xp
-	
-	dup /_colorStyle xp
-	_colorStyle 0 eq{ 
-		2
-	}{
-		_colorStyle 1 eq{ 
-			5
-		}{
-			_colorStyle 2 eq{
-				8
-			}{
-				_colorStyle 3 eq{
-					_producingSeps{
-						_rampSD /spot1 get begin
-							/name 3 index def
-							/spot_K 4 index def
-							/spot_Y 5 index def
-							/spot_M 6 index def
-							/spot_C 7 index def
-					 end
-					}if
-					7
-				}{
-					_producingSeps{
-						_rampSD/spot1 get begin
-							/name 4 index def
-							/spot_K 8 index def
-							/spot_Y 9 index def
-							/spot_M 10 index def
-							/spot_C 11 index def
-					 end
-					}if
-					11
-				} ifelse
-			}ifelse
-		}ifelse
-	}ifelse
-	/_tmp xp
-	_tmp index 100 div /_endPoint xp
-	
-	_gradType 1 eq{
-		_tmp 1 add index 100 div /_midPoint xp
-	}if
-	
-	_producingSeps{
-		_tmp 2 add index /_nextColorStyle xp
-		_nextColorStyle 3 eq{
-			/_tmp _tmp 4 add pt
-			_tmp index dup
-			_rampSD/spot1 get /name get ne{
-				_rampSD /spot2 get begin
-					/name xd
-					/spot_K _tmp 2 add index def
-					/spot_Y _tmp 3 add index def
-					/spot_M _tmp 4 add index def
-					/spot_C _tmp 5 add index def
-			 end
-			}{
-				pop
-			}ifelse
-		}if
-		_nextColorStyle 4 eq{
-			/_tmp _tmp 5 add pt
-			_tmp index dup
-			_rampSD/spot1 get /name get ne{
-				_rampSD /spot2 get begin
-					/name xd
-					/spot_K _tmp 5 add index def
-					/spot_Y _tmp 6 add index def
-					/spot_M _tmp 7 add index def
-					/spot_C _tmp 8 add index def
-			 end
-			}{
-				pop
-			}ifelse
-		}if
-	}if
-	_rampType 3 eq _rampType 6 eq or{
-		/_tint2Data gMark pt
-	}if
-	_ccProcess _ccRGB or{
-		/_tint1Data gMark pt
-	}if
-	_rgbRamp{
-		/_blueData gMark pt
-		/_greenData gMark pt
-		/_redData gMark pt
-	}if
-	
-	_producingSeps{
-		_ccProcess _ccRGB or{
-			_rampType 3 eq _rampType 6 eq or{
-				_rampSD /spot2 get begin
-					/tintImage _gradType 0 eq{
-						_tint2Data
-					}{
-						_tint1Data
-					}ifelse
-					def
-					name null eq{
-						/name /Black def
-					}if
-			 end
-			}if
-			_rampSD /spot1 get begin
-				/tintImage _gradType 0 eq _rampType 2 eq or _rampType 5 eq or{
-					_tint1Data
-				}{
-					_tint2Data
-				}ifelse
-				def
-				_rampType 2 eq _rampType 5 eq or{
-					name null eq{
-						/name _rampSD/spot2 get /name get def
-						/spot_C _rampSD/spot2 get /spot_C get def
-						/spot_M _rampSD/spot2 get /spot_M get def
-						/spot_Y _rampSD/spot2 get /spot_Y get def
-						/spot_K _rampSD/spot2 get /spot_K get def
-						_rampSD/spot2 get /name null put
-					}if
-				}{
-					name null eq{
-						/name /Black def
-					}if
-				}ifelse
-		 end
-		}if
-	}if
-	/_blackData gMark pt
-	_rampType 0 gt{
-		counttomark 4 add -3 roll
-		/_yellowData xp
-		/_magentaData xp
-		/_cyanData xp
-	}if
-	_ramp{
-		/_nSamples
-			[
-			_rampType 0 eq {_blackData}if
-			_rampType 1 eq {_cyanData _magentaData _yellowData _blackData}if
-			_rampType 2 eq {_cyanData _magentaData _yellowData _blackData _tint1Data}if
-			_rampType 3 eq {_cyanData _magentaData _yellowData _blackData _tint1Data _tint2Data}if
-			_rampType 4 eq {_cyanData _magentaData _yellowData _blackData _redData _greenData _blueData}if
-			_rampType 5 eq {_cyanData _magentaData _yellowData _blackData _redData _greenData _blueData _tint1Data}if
-			_rampType 6 eq {_cyanData _magentaData _yellowData _blackData _redData _greenData _blueData _tint1Data _tint2Data}if
-			] getNSamples pt
-		_enabledSmoothShade not {/_ramp _nSamples 1 gt pt} if
-	} if
-	
-	setCStop
-}def
-/rectImage{
-	gsave
-	/_sInc 1 pt
-	/_bInc 1 _nSamples div pt
-	/_nSubSamples _nSamples pt
-	/_optimize false pt
-		
-	_subSampleOK{
-		/_uRampLen 1 0 dtransform _dUserSpace idtransform dup mul exch dup mul add sqrt pt
-		/_pChange _uRampLen 0 eq{0}{_nSamples _uRampLen div}ifelse pt
-		
-		_pChange .5 gt dup /_optimize xp{
-			/_nSubSamples _uRampLen 2 div round cvi dup 1 le{pop 2}if pt
-			/_bInc 1 _nSubSamples div pt
-			/_sInc _nSamples 1 sub _nSubSamples 1 sub div pt
-		}if
-	}if
-	0
-	_nSubSamples
-	[
-	/dup cvx
-	_optimize {
-		/round cvx /cvi cvx
-	} if
-	/_ndx /exch cvx /pt cvx
-	blendColor
-	0 0 _bInc 1 /rectfill cvx
-	_bInc 0 /translate cvx
-	_sInc /add cvx
-	] cvx
-	bind
-	repeat
-	pop
-	_spotColor{
-		nsetcustomcolorend
-	}if
-	grestore
-}def
-/radialInit{
-	/_nRadSamples _nSamples dup 0 eq{pop 1}if pt
-	/_sInc -1 pt
-	/_rampLen _rampPoint _endPoint sub pt
-	/_bInc _rampLen _nSamples div neg pt
-	/_optimize false pt
-	_subSampleOK{
-		/_uRampLen
-			_rampLen 0 dtransform _dUserSpace idtransform dup mul exch dup mul add sqrt
-			0 _rampLen dtransform _dUserSpace idtransform dup mul exch dup mul add sqrt
-			2 copy lt{
-				exch
-			}if pop
-		pt
-		/_pChange 
-			_uRampLen 0 eq{
-				0
-			}{
-				_nSamples _uRampLen div
-			}ifelse
-		pt
-		_pChange .5 gt dup /_optimize xp{
-			/_nRadSamples _uRampLen 2 div round cvi dup 1 le{pop 2}if pt
-			/_bInc _rampLen _nRadSamples div neg pt
-			/_sInc _nSamples 1 sub _nRadSamples 1 sub div neg pt
-		}if
-	}if
-	_radHilite{
-		/_xBCInc _xHi _rampLen mul _nRadSamples div pt
-		/_yBCInc _yHi _rampLen mul _nRadSamples div pt
-	}if
-}def
-/radialRamp{
-	_enabledSmoothShade{
-		fillRamp
-	}{
-		/_saveMatrix _saveMatrix currentmatrix def
-		
-		radialInit
-	
-		%
-		%
-		true
-		_producingSeps _rgbRamp not and{
-			_nSamples 1 gt{ 
-				pop
-				/_ndx 0 pt
-				[blendColor] cvx exec
-				currentInkN
-				/_ndx _nSamples 1 sub pt
-				[blendColor] cvx exec
-				currentInkN
-				or
-			}if
-		}if
-		{
-			_rampPoint
-		
-			_nSamples 1 sub
-		
-			_nRadSamples 
-			[
-				/dup cvx
-		
-				_optimize{
-					/round cvx /cvi cvx
-				}if
-		
-				/_ndx /exch cvx /pt cvx
-				
-				_usingShells{
-					/_firstShell cvx{
-						/_firstShell false pt
-					}{
-						0 0 3 index 360 0 arcn fill
-					}/ifelse cvx
-				}if
-		
-				blendColor
-		
-				_usingShells{
-					0 0 3 /index cvx 0 360 /arc cvx 
-				}{
-					0 0 3 /index cvx 0 360 /arc cvx /fill cvx
-				}ifelse
-		
-				/exch cvx _bInc /add cvx /exch cvx
-		
-				_sInc /add cvx
-		
-				_radHilite{
-					_xBCInc _yBCInc /translate cvx
-				}if
-			] cvx bind
-			repeat
-		
-			pop pop
-		}{
-			_usingShells{
-				0 0 _rampPoint 360 0 arcn fill
-			}if
-		}ifelse
-	
-		_saveMatrix setmatrix
-		
-		_radHilite{
-			_xHi _rampLen mul _yHi _rampLen mul translate
-		}if
-		
-		_usingShells _rampIndex 1 eq and{
-			fill
-		}if
-	
-		_spotColor{
-			nsetcustomcolorend
-		}if
-	}ifelse
-}def
-end
-end
-defaultpacking setpacking
-%%EndResource
-%%BeginProcSet: Adobe_ColorImage_AI6 1.3 0
-userdict /Adobe_ColorImage_AI6 known not
-{
-	userdict /Adobe_ColorImage_AI6 53 dict put 
-} if
-userdict /Adobe_ColorImage_AI6 get begin
-/initialize { 
-	Adobe_ColorImage_AI6 begin
-	Adobe_ColorImage_AI6 {
-		dup type /arraytype eq {
-			dup xcheck {
-				bind
-			} if
-		} if
-		pop pop
-	} forall
-} def
-/terminate { end } def
-currentdict /Adobe_ColorImage_AI6_Vars known not {
-	/Adobe_ColorImage_AI6_Vars 41 dict def
-} if
-Adobe_ColorImage_AI6_Vars begin
-	/plateindex -1 def
-	/_newproc null def
-	/_proc1 null def
-	/_proc2 null def
-	/sourcearray 4 array def
-	/_ptispace null def
-	/_ptiname null def
-	/_pti0 0 def
-	/_pti1 0 def
-	/_ptiproc null def
-	/_ptiscale 0 def
-	/_pticomps 0 def
-	/_ptibuf 0 string def
-	/_gtigray 0 def
-	/_cticmyk null def
-	/_rtirgb null def
-	/XIEnable true def
-	/XIType 0 def
-	/XIEncoding 0 def
-	/XICompression 0 def
-	/XIChannelCount 0 def
-	/XIBitsPerPixel 0 def
-	/XIImageHeight 0 def
-	/XIImageWidth 0 def
-	/XIImageMatrix null def
-	/XIRowBytes 0 def
-	/XIFile null def
-	/XIBuffer1 null def
-	/XIBuffer2 null def
-	/XIBuffer3 null def
-	/XIDataProc null def
-	/XIColorSpace /DeviceGray def
-	/XIColorValues 0 def
-	/XIPlateList false def
-end
-/ci6colorimage /colorimage where {/colorimage get}{null} ifelse def
-/ci6image systemdict /image get def
-/ci6curtransfer systemdict /currenttransfer get def
-/ci6curoverprint /currentoverprint where {/currentoverprint get}{{_of}} ifelse def
-/ci6foureq {
-	4 index ne {
-		pop pop pop false
-	}{
-		4 index ne {
-			pop pop false
-		}{
-			4 index ne {
-				pop false
-			}{
-				4 index eq
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6testplate {
-	Adobe_ColorImage_AI6_Vars begin
-		/plateindex -1 def
-		/setcmykcolor where {
-			pop
-			gsave
-			1 0 0 0 setcmykcolor systemdict /currentgray get exec 1 exch sub
-			0 1 0 0 setcmykcolor systemdict /currentgray get exec 1 exch sub
-			0 0 1 0 setcmykcolor systemdict /currentgray get exec 1 exch sub
-			0 0 0 1 setcmykcolor systemdict /currentgray get exec 1 exch sub
-			grestore
-			1 0 0 0 ci6foureq { 
-				/plateindex 0 def
-			}{
-				0 1 0 0 ci6foureq { 
-					/plateindex 1 def
-				}{
-					0 0 1 0 ci6foureq {
-						/plateindex 2 def
-					}{
-						0 0 0 1 ci6foureq { 
-							/plateindex 3 def
-						}{
-							0 0 0 0 ci6foureq {
-								/plateindex 5 def
-							} if
-						} ifelse
-					} ifelse
-				} ifelse
-			} ifelse
-			pop pop pop pop
-		} if
-		plateindex
- end
-} def
-/ci6concatprocs {
-	/packedarray where {
-		pop dup type /packedarraytype eq 2 index type
-		/packedarraytype eq or
-	}{
-		false
-	} ifelse
-	{
-		/_proc2 exch cvlit def
-		/_proc1 exch cvlit def
-		_proc1 aload pop
-		_proc2 aload pop
-		_proc1 length
-		_proc2 length add
-		packedarray cvx
-	}{
-		/_proc2 exch cvlit def
-		/_proc1 exch cvlit def
-		/_newproc _proc1 length _proc2 length add array def
-		_newproc 0 _proc1 putinterval
-		_newproc _proc1 length _proc2 putinterval
-		_newproc cvx
-	} ifelse
-} def
-/ci6istint {
-	type /arraytype eq 
-} def
-/ci6isspot {
-	dup type /arraytype eq {
-		dup length 1 sub get /Separation eq
-	}{
-		pop false
-	} ifelse
-} def
-/ci6spotname {
-	dup ci6isspot {dup length 2 sub get}{pop ()} ifelse
-} def
-/ci6altspace {
-	aload pop pop pop ci6colormake
-} def
-/ci6numcomps {
-	dup /DeviceGray eq {
-		pop 1
-	}{
-		dup /DeviceRGB eq {
-			pop 3
-		}{
-			/DeviceCMYK eq {
-				4
-			}{
-				1
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6marksplate {
-	dup /DeviceGray eq {
-		pop plateindex 3 eq
-	}{
-		dup /DeviceRGB eq {
-			pop plateindex 5 ne
-		}{
-			dup /DeviceCMYK eq {
-				pop plateindex 5 ne
-			}{
-				dup ci6isspot {
-					/findcmykcustomcolor where {
-						pop
-						dup length 2 sub get
-						0.1 0.1 0.1 0.1 5 -1 roll
-						findcmykcustomcolor 1 setcustomcolor
-						systemdict /currentgray get exec
-						1 ne
-					}{
-						pop plateindex 5 ne
-					} ifelse
-				}{
-					pop plateindex 5 ne
-				} ifelse
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6colormake {
-	dup ci6numcomps
-	exch 1 index 2 add 1 roll
-	dup 1 eq {pop}{array astore} ifelse
-	exch
-} def
-/ci6colorexpand {
-	dup ci6spotname exch
-	dup ci6istint {
-		ci6altspace
-		exch 4 1 roll
-	}{
-		1 3 1 roll
-	} ifelse
-} def
-/ci6colortint {
-	dup /DeviceGray eq {
-		3 1 roll 1 exch sub mul 1 exch sub exch
-	}{
-		dup /DeviceRGB eq {
-			3 1 roll {1 exch sub 1 index mul 1 exch sub exch} forall pop 3 array astore exch
-		}{
-			dup /DeviceCMYK eq {
-				3 1 roll {1 index mul exch} forall pop 4 array astore exch
-			}{
-				3 1 roll mul exch
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6colortocmyk {
-	dup /DeviceGray eq {
-		pop 1 exch sub 0 0 0 4 -1 roll 4 array astore
-	}{
-		dup /DeviceRGB eq {
-			pop aload pop _rgbtocmyk 4 array astore
-		}{
-			dup /DeviceCMYK eq {
-				pop
-			}{
-				ci6altspace ci6colortint ci6colortocmyk
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6makeimagedict {
-	7 dict begin
-		/ImageType 1 def
-		/Decode exch def
-		/DataSource exch def
-		/ImageMatrix exch def
-		/BitsPerComponent exch def
-		/Height exch def
-		/Width exch def
-	currentdict end
-} def
-/ci6stringinvert {
-	0 1 2 index length 1 sub {
-		dup 2 index exch get 255 exch sub 2 index 3 1 roll put
-	} for
-} def
-/ci6stringknockout {
-	0 1 2 index length 1 sub {
-		255 2 index 3 1 roll put
-	} for
-} def
-/ci6stringapply {
-	0 1 4 index length 1 sub {
-		dup
-		4 index exch get
-		3 index 3 1 roll
-		3 index exec
-	} for
-	pop exch pop
-} def
-/ci6walkrgbstring {
-	0 3 index
-	dup length 1 sub 0 3 3 -1 roll {
-		3 getinterval {} forall
-		5 index exec
-		3 index
-	} for
-	
-	 5 {pop} repeat
-} def
-/ci6walkcmykstring
-{
-	0 3 index
-	dup length 1 sub 0 4 3 -1 roll {
-		4 getinterval {} forall
-		
-		6 index exec
-		
-		3 index
-		
-	} for
-	
-	5 { pop } repeat
-	
-} def
-/ci6putrgbtograystr
-{
-	.11 mul exch
-	
-	.59 mul add exch
-	
-	.3 mul add
-	
-	cvi 3 copy put
-	
-	pop 1 add
-} def
-/ci6putcmyktograystr
-{
-	exch .11 mul add
-	
-	exch .59 mul add
-	
-	exch .3 mul add
-	
-	dup 255 gt { pop 255 } if
-	
-	255 exch sub cvi 3 copy put
-	
-	pop 1 add
-} def
-/ci6rgbtograyproc {	
-	Adobe_ColorImage_AI6_Vars begin 
-		sourcearray 0 get exec
-		XIBuffer3
-		dup 3 1 roll 
-		
-		/ci6putrgbtograystr load exch
-		ci6walkrgbstring
- end
-} def
-/ci6cmyktograyproc {	
-	Adobe_ColorImage_AI6_Vars begin
-		sourcearray 0 get exec
-		XIBuffer3
-		dup 3 1 roll 
-		
-		/ci6putcmyktograystr load exch
-		ci6walkcmykstring
- end
-} def
-/ci6separatecmykproc {	
-	Adobe_ColorImage_AI6_Vars begin
-		sourcearray 0 get exec
-		
-		XIBuffer3
-		
-		0 2 index
-		
-		plateindex 4 2 index length 1 sub {
-			get 255 exch sub
-			
-			3 copy put pop 1 add
-			
-			2 index
-		} for
-		pop pop exch pop
- end
-} def
-	
-/ci6compositeimage {
-	dup 1 eq {
-		pop pop image
-	}{
-		/ci6colorimage load null ne {
-			ci6colorimage
-		}{
-			3 1 roll pop
-			sourcearray 0 3 -1 roll put
-			3 eq {/ci6rgbtograyproc}{/ci6cmyktograyproc} ifelse load
-			image
-		} ifelse
-	} ifelse
-} def
-/ci6knockoutimage {
-	gsave
-	0 ci6curtransfer exec 1 ci6curtransfer exec
-	eq {
-		0 ci6curtransfer exec 0.5 lt
-	}{
-		0 ci6curtransfer exec 1 ci6curtransfer exec gt
-	} ifelse
-	{{pop 0}}{{pop 1}} ifelse
-	systemdict /settransfer get exec
-	ci6compositeimage
-	grestore
-} def
-/ci6drawimage {
-	ci6testplate -1 eq {
-		pop ci6compositeimage
-	}{
-		dup type /arraytype eq {
-			dup length plateindex gt {plateindex get}{pop false} ifelse
-		}{
-			{
-				true
-			}{
-				dup 1 eq {plateindex 3 eq}{plateindex 3 le} ifelse
-			} ifelse
-		} ifelse
-		{
-			dup 1 eq {
-				pop pop ci6image
-			}{
-				dup 3 eq {
-					ci6compositeimage
-				}{
-					pop pop
-					sourcearray 0 3 -1 roll put
-					/ci6separatecmykproc load
-					ci6image
-				} ifelse
-			} ifelse
-		}{
-			ci6curoverprint {
-				7 {pop} repeat
-			}{
-				ci6knockoutimage
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6proctintimage {
-	/_ptispace exch store /_ptiname exch store /_pti1 exch store /_pti0 exch store /_ptiproc exch store
-	/_pticomps _ptispace ci6numcomps store
-	/_ptiscale _pti1 _pti0 sub store
-	level2? {
-		_ptiname length 0 gt version cvr 2012 ge and {
-			[/Separation _ptiname _ptispace {_ptiproc}] setcolorspace
-			[_pti0 _pti1] ci6makeimagedict ci6image
-		}{
-			[/Indexed _ptispace 255 {255 div _ptiscale mul _pti0 add _ptiproc}] setcolorspace
-			[0 255] ci6makeimagedict ci6image
-		} ifelse
-	}{
-		_pticomps 1 eq {
-			{
-				dup
-				{
-					255 div _ptiscale mul _pti0 add _ptiproc 255 mul cvi put
-				} ci6stringapply
-			} ci6concatprocs ci6image
-		}{
-			{
-				dup length _pticomps mul dup _ptibuf length ne {/_ptibuf exch string store}{pop} ifelse
-				_ptibuf {
-					exch _pticomps mul exch 255 div _ptiscale mul _pti0 add _ptiproc
-					_pticomps 2 add -2 roll
-					_pticomps 1 sub -1 0 {
-						1 index add 2 index exch
-						5 -1 roll
-						255 mul cvi put
-					} for
-					pop pop
-				} ci6stringapply
-			} ci6concatprocs false _pticomps
-			/ci6colorimage load null eq {7 {pop} repeat}{ci6colorimage} ifelse
-		} ifelse
-	} ifelse
-} def
-/ci6graytintimage {
-	/_gtigray 5 -1 roll store
-	{1 _gtigray sub mul 1 exch sub} 4 1 roll
-	/DeviceGray ci6proctintimage
-} def
-/ci6cmyktintimage {
-	/_cticmyk 5 -1 roll store
-	{_cticmyk {1 index mul exch} forall pop} 4 1 roll
-	/DeviceCMYK ci6proctintimage
-} def
-/ci6rgbtintimage {
-	/_rtirgb 5 -1 roll store
-	{_rtirgb {1 exch sub 1 index mul 1 exch sub exch} forall pop} 4 1 roll
-	/DeviceRGB ci6proctintimage
-} def
-/ci6tintimage {
-	ci6testplate -1 eq {
-		ci6colorexpand
-		3 -1 roll 5 -1 roll {0}{0 exch} ifelse 4 2 roll
-		dup /DeviceGray eq {
-			pop ci6graytintimage
-		}{
-			dup /DeviceRGB eq {
-				pop ci6rgbtintimage
-			}{
-				pop ci6cmyktintimage
-			} ifelse
-		} ifelse
-	}{
-		dup ci6marksplate {
-			plateindex 5 lt {
-				ci6colortocmyk plateindex get
-				dup 0 eq ci6curoverprint and {
-					7 {pop} repeat
-				}{
-					1 exch sub
-					exch {1 0}{0 1} ifelse () ci6graytintimage
-				} ifelse
-			}{
-				pop exch {0}{0 exch} ifelse 0 3 1 roll () ci6graytintimage
-			} ifelse
-		}{
-			ci6curoverprint {
-				8 {pop} repeat
-			}{
-				pop pop pop
-				{pop 1} 0 1 () /DeviceGray ci6proctintimage
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/XINullImage {
-} def
-/XIImageMask {
-	XIImageWidth XIImageHeight false
-	[XIImageWidth 0 0 XIImageHeight neg 0 0]
-	/XIDataProc load
-	imagemask
-} def
-/XIImageTint {
-	XIImageWidth XIImageHeight XIBitsPerPixel
-	[XIImageWidth 0 0 XIImageHeight neg 0 0]
-	/XIDataProc load
-	XIType 3 eq XIColorValues XIColorSpace ci6tintimage
-} def
-/XIImage {
-	XIImageWidth XIImageHeight XIBitsPerPixel
-	[XIImageWidth 0 0 XIImageHeight neg 0 0]
-	/XIDataProc load
-	false XIChannelCount XIPlateList ci6drawimage
-} def
-/XG {
-	pop pop
-} def
-/XF {
-	13 {pop} repeat
-} def
-/Xh {
-	Adobe_ColorImage_AI6_Vars begin
-		gsave
-		/XIType exch def
-		/XIImageHeight exch def
-		/XIImageWidth exch def
-		/XIImageMatrix exch def
-		0 0 moveto
-		XIImageMatrix concat
-		XIImageWidth XIImageHeight scale
-		
-		/_lp /null ddef
-		_fc
-		/_lp /imagemask ddef
- end
-} def
-/XH {
-	Adobe_ColorImage_AI6_Vars begin
-		grestore
- end
-} def
-/XIEnable {
-	Adobe_ColorImage_AI6_Vars /XIEnable 3 -1 roll put
-} def
-/XC {
-	Adobe_ColorImage_AI6_Vars begin
-		ci6colormake
-		/XIColorSpace exch def
-		/XIColorValues exch def
- end
-} def
-/XIPlates {
-	Adobe_ColorImage_AI6_Vars begin
-		/XIPlateList exch def
- end
-} def
-/XI
-{
-	Adobe_ColorImage_AI6_Vars begin
-		gsave
-		/XIType exch def
-		cvi dup
-		256 idiv /XICompression exch store
-		256 mod /XIEncoding exch store
-		pop pop
-		/XIChannelCount exch def
-		/XIBitsPerPixel exch def
-		/XIImageHeight exch def
-		/XIImageWidth exch def
-		pop pop pop pop
-		/XIImageMatrix exch def
-		XIBitsPerPixel 1 eq {
-			XIImageWidth 8 div ceiling cvi
-		}{
-			XIImageWidth XIChannelCount mul
-		} ifelse
-		/XIRowBytes exch def
-		XIEnable {
-			/XIBuffer3 XIImageWidth string def
-			XICompression 0 eq {
-				/XIBuffer1 XIRowBytes string def
-				XIEncoding 0 eq {
-					{currentfile XIBuffer1 readhexstring pop}
-				}{
-					{currentfile XIBuffer1 readstring pop}
-				} ifelse
-			}{
-				/XIBuffer1 256 string def
-				/XIBuffer2 XIRowBytes string def
-				{currentfile XIBuffer1 readline pop (%) anchorsearch {pop} if}
-				/ASCII85Decode filter /DCTDecode filter
-				/XIFile exch def
-				{XIFile XIBuffer2 readstring pop}
-			} ifelse
-			/XIDataProc exch def
-			
-			XIType 1 ne {
-				0 setgray
-			} if
-			XIType 1 eq {
-				XIImageMask
-			}{
-				XIType 2 eq XIType 3 eq or {
-					XIImageTint
-				}{
-					XIImage
-				} ifelse
-			} ifelse
-		}{
-			XINullImage
-		} ifelse
-		/XIPlateList false def
-		grestore
- end
-} def
-end
-%%EndProcSet
-%%BeginResource: procset Adobe_Illustrator_AI5 1.3 0
-%%Title: (Adobe Illustrator (R) Version 8.0 Full Prolog)
-%%Version: 1.3 0
-%%CreationDate: (3/7/1994) ()
-%%Copyright: ((C) 1987-1998 Adobe Systems Incorporated All Rights Reserved)
-currentpacking true setpacking
-userdict /Adobe_Illustrator_AI5_vars 112 dict dup begin
-put
-/_?cmyk false def
-/_eo false def
-/_lp /none def
-/_pf
-{
-} def
-/_ps
-{
-} def
-/_psf
-{
-} def
-/_pss
-{
-} def
-/_pjsf
-{
-} def
-/_pjss
-{
-} def
-/_pola 0 def
-/_doClip 0 def
-/cf currentflat def
-/_lineorientation 0 def
-/_charorientation 0 def
-/_yokoorientation 0 def
-/_tm matrix def
-/_renderStart
-[
-/e0 /r0 /a0 /o0 /e1 /r1 /a1 /i0
-] def
-/_renderEnd
-[
-null null null null /i1 /i1 /i1 /i1
-] def
-/_render -1 def
-/_shift [0 0] def
-/_ax 0 def
-/_ay 0 def
-/_cx 0 def
-/_cy 0 def
-/_leading
-[
-0 0
-] def
-/_ctm matrix def
-/_mtx matrix def
-/_sp 16#020 def
-/_hyphen (-) def
-/_fontSize 0 def
-/_fontAscent 0 def
-/_fontDescent 0 def
-/_fontHeight 0 def
-/_fontRotateAdjust 0 def
-/Ss 256 string def
-Ss 0 (fonts/) putinterval
-/_cnt 0 def
-/_scale [1 1] def
-/_nativeEncoding 0 def
-/_useNativeEncoding 0 def
-/_tempEncode 0 def
-/_pntr 0 def
-/_tDict 2 dict def
-/_hfname 100 string def
-/_hffound false def
-/Tx
-{
-} def
-/Tj
-{
-} def
-/CRender
-{
-} def
-/_AI3_savepage
-{
-} def
-/_gf null def
-/_cf 4 array def
-/_rgbf 3 array def
-/_if null def
-/_of false def
-/_fc
-{
-} def
-/_gs null def
-/_cs 4 array def
-/_rgbs 3 array def
-/_is null def
-/_os false def
-/_sc
-{
-} def
-/_pd 1 dict def
-/_ed 15 dict def
-/_pm matrix def
-/_fm null def
-/_fd null def
-/_fdd null def
-/_sm null def
-/_sd null def
-/_sdd null def
-/_i null def
-/_lobyte 0 def
-/_hibyte 0 def
-/_cproc null def
-/_cscript 0 def
-/_hvax 0 def
-/_hvay 0 def
-/_hvwb 0 def
-/_hvcx 0 def
-/_hvcy 0 def
-/_bitfont null def
-/_bitlobyte 0 def
-/_bithibyte 0 def
-/_bitkey null def
-/_bitdata null def
-/_bitindex 0 def
-/discardSave null def
-/buffer 256 string def
-/beginString null def
-/endString null def
-/endStringLength null def
-/layerCnt 1 def
-/layerCount 1 def
-/perCent (%) 0 get def
-/perCentSeen? false def
-/newBuff null def
-/newBuffButFirst null def
-/newBuffLast null def
-/clipForward? false def
-end
-userdict /Adobe_Illustrator_AI5 known not {
-	userdict /Adobe_Illustrator_AI5 100 dict put
-} if
-userdict /Adobe_Illustrator_AI5 get begin
-/initialize
-{
-	Adobe_Illustrator_AI5 dup begin
-	Adobe_Illustrator_AI5_vars begin
-	/_aicmykps where {pop /_?cmyk _aicmykps def}if
-	discardDict
-	{
-		bind pop pop
-	} forall
-	dup /nc get begin
-	{
-		dup xcheck 1 index type /operatortype ne and
-		{
-			bind
-		} if
-		pop pop
-	} forall
- end
-	newpath
-} def
-/terminate
-{
- end
- end
-} def
-/_
-null def
-/ddef
-{
-	Adobe_Illustrator_AI5_vars 3 1 roll put
-} def
-/xput
-{
-	dup load dup length exch maxlength eq
-	{
-		dup dup load dup
-		length 2 mul dict copy def
-	} if
-	load begin
-	def
- end
-} def
-/npop
-{
-	{
-		pop
-	} repeat
-} def
-/hswj
-{
-	dup stringwidth 3 2 roll
-	{
-		_hvwb eq { exch _hvcx add exch _hvcy add } if
-		exch _hvax add exch _hvay add
-	} cforall
-} def
-/vswj
-{
-	0 0 3 -1 roll
-	{
-		dup 255 le
-		_charorientation 1 eq
-		and
-		{
-			dup cstring stringwidth 5 2 roll
-			_hvwb eq { exch _hvcy sub exch _hvcx sub } if
-			exch _hvay sub exch _hvax sub
-			4 -1 roll sub exch
-			3 -1 roll sub exch
-		}
-		{
-			_hvwb eq { exch _hvcy sub exch _hvcx sub } if
-			exch _hvay sub exch _hvax sub
-			_fontHeight sub
-		} ifelse
-	} cforall
-} def
-/swj
-{
-	6 1 roll
-	/_hvay exch ddef
-	/_hvax exch ddef
-	/_hvwb exch ddef
-	/_hvcy exch ddef
-	/_hvcx exch ddef
-	_lineorientation 0 eq { hswj } { vswj } ifelse
-} def
-/sw
-{
-	0 0 0 6 3 roll swj
-} def
-/vjss
-{
-	4 1 roll
-	{
-		dup cstring
-		dup length 1 eq
-		_charorientation 1 eq
-		and
-		{
-			-90 rotate
-			currentpoint
-			_fontRotateAdjust add
-			moveto
-			gsave
-			false charpath currentpoint
-			5 index setmatrix stroke
-			grestore
-			_fontRotateAdjust sub
-			moveto
-			_sp eq
-			{
-				5 index 5 index rmoveto
-			} if
-			2 copy rmoveto
-			90 rotate
-		}
-		{
-			currentpoint
-			_fontHeight sub
-			5 index sub
-			3 index _sp eq
-			{
-				9 index sub
-			} if
-	
-			currentpoint
-			exch 4 index stringwidth pop 2 div sub
-			exch _fontAscent sub
-			moveto
-	
-			gsave
-			2 index false charpath
-			6 index setmatrix stroke
-			grestore
-	
-			moveto pop pop
-		} ifelse
-	} cforall
-	6 npop
-} def
-/hjss
-{
-	4 1 roll
-	{
-		dup cstring
-		gsave
-		false charpath currentpoint
-		5 index setmatrix stroke
-		grestore
-		moveto
-		_sp eq
-		{
-			5 index 5 index rmoveto
-		} if
-		2 copy rmoveto
-	} cforall
-	6 npop
-} def
-/jss
-{
-	_lineorientation 0 eq { hjss } { vjss } ifelse
-} def
-/ss
-{
-	0 0 0 7 3 roll jss
-} def
-/vjsp
-{
-	4 1 roll
-	{
-		dup cstring
-		dup length 1 eq
-		_charorientation 1 eq
-		and
-		{
-			-90 rotate
-			currentpoint
-			_fontRotateAdjust add
-			moveto
-			false charpath
-            currentpoint
-			_fontRotateAdjust sub
-			moveto
-			_sp eq
-			{
-				5 index 5 index rmoveto
-			} if
-			2 copy rmoveto
-			90 rotate
-		}
-		{
-			currentpoint
-			_fontHeight sub
-			5 index sub
-			3 index _sp eq
-			{
-				9 index sub
-			} if
-	
-			currentpoint
-			exch 4 index stringwidth pop 2 div sub
-			exch _fontAscent sub
-			moveto
-	
-			2 index false charpath
-	
-			moveto pop pop
-		} ifelse
-	} cforall
-	6 npop
-} def
-/hjsp
-{
-    4 1 roll
-    {
-        dup cstring
-        false charpath
-        _sp eq
-        {
-            5 index 5 index rmoveto
-        } if
-        2 copy rmoveto
-    } cforall
-    6 npop
-} def
-/jsp
-{
-	matrix currentmatrix
-    _lineorientation 0 eq {hjsp} {vjsp} ifelse
-} def
-/sp
-{
-    matrix currentmatrix
-    0 0 0 7 3 roll
-    _lineorientation 0 eq {hjsp} {vjsp} ifelse
-} def
-/pl
-{
-	transform
-	0.25 sub round 0.25 add exch
-	0.25 sub round 0.25 add exch
-	itransform
-} def
-/setstrokeadjust where
-{
-	pop true setstrokeadjust
-	/c
-	{
-		curveto
-	} def
-	/C
-	/c load def
-	/v
-	{
-		currentpoint 6 2 roll curveto
-	} def
-	/V
-	/v load def
-	/y
-	{
-		2 copy curveto
-	} def
-	/Y
-	/y load def
-	/l
-	{
-		lineto
-	} def
-	/L
-	/l load def
-	/m
-	{
-		moveto
-	} def
-}
-{
-	/c
-	{
-		pl curveto
-	} def
-	/C
-	/c load def
-	/v
-	{
-		currentpoint 6 2 roll pl curveto
-	} def
-	/V
-	/v load def
-	/y
-	{
-		pl 2 copy curveto
-	} def
-	/Y
-	/y load def
-	/l
-	{
-		pl lineto
-	} def
-	/L
-	/l load def
-	/m
-	{
-		pl moveto
-	} def
-} ifelse
-/d
-{
-	setdash
-} def
-/cf
-{
-} def
-/i
-{
-	dup 0 eq
-	{
-		pop cf
-	} if
-	setflat
-} def
-/j
-{
-	setlinejoin
-} def
-/J
-{
-	setlinecap
-} def
-/M
-{
-	setmiterlimit
-} def
-/w
-{
-	setlinewidth
-} def
-/XR
-{
-	0 ne
-	/_eo exch ddef
-} def
-/H
-{
-} def
-/h
-{
-	closepath
-} def
-/N
-{
-	_pola 0 eq
-	{
-		_doClip 1 eq
-		{
-			_eo {eoclip} {clip} ifelse /_doClip 0 ddef
-		} if
-		newpath
-	}
-	{
-		/CRender
-		{
-			N
-		} ddef
-	} ifelse
-} def
-/n
-{
-	N
-} def
-/F
-{
-	_pola 0 eq
-	{
-		_doClip 1 eq
-		{
-			gsave _pf grestore _eo {eoclip} {clip} ifelse newpath /_lp /none ddef _fc
-			/_doClip 0 ddef
-		}
-		{
-			_pf
-		} ifelse
-	}
-	{
-		/CRender
-		{
-			F
-		} ddef
-	} ifelse
-} def
-/f
-{
-	closepath
-	F
-} def
-/S
-{
-	_pola 0 eq
-	{
-		_doClip 1 eq
-		{
-			gsave _ps grestore _eo {eoclip} {clip} ifelse newpath /_lp /none ddef _sc
-			/_doClip 0 ddef
-		}
-		{
-			_ps
-		} ifelse
-	}
-	{
-		/CRender
-		{
-			S
-		} ddef
-	} ifelse
-} def
-/s
-{
-	closepath
-	S
-} def
-/B
-{
-	_pola 0 eq
-	{
-		_doClip 1 eq
-		gsave F grestore
-		{
-			gsave S grestore _eo {eoclip} {clip} ifelse newpath /_lp /none ddef _sc
-			/_doClip 0 ddef
-		}
-		{
-			S
-		} ifelse
-	}
-	{
-		/CRender
-		{
-			B
-		} ddef
-	} ifelse
-} def
-/b
-{
-	closepath
-	B
-} def
-/W
-{
-	/_doClip 1 ddef
-} def
-/*
-{
-	count 0 ne
-	{
-		dup type /stringtype eq
-		{
-			pop
-		} if
-	} if
-	newpath
-} def
-/u
-{
-} def
-/U
-{
-} def
-/q
-{
-	_pola 0 eq
-	{
-		gsave
-	} if
-} def
-/Q
-{
-	_pola 0 eq
-	{
-		grestore
-	} if
-} def
-/*u
-{
-	_pola 1 add /_pola exch ddef
-} def
-/*U
-{
-	_pola 1 sub /_pola exch ddef
-	_pola 0 eq
-	{
-		CRender
-	} if
-} def
-/D
-{
-	pop
-} def
-/*w
-{
-} def
-/*W
-{
-} def
-/`
-{
-	/_i save ddef
-	clipForward?
-	{
-		nulldevice
-	} if
-	6 1 roll 4 npop
-	concat pop
-	userdict begin
-	/showpage
-	{
-	} def
-	0 setgray
-	0 setlinecap
-	1 setlinewidth
-	0 setlinejoin
-	10 setmiterlimit
-	[] 0 setdash
-	/setstrokeadjust where {pop false setstrokeadjust} if
-	newpath
-	0 setgray
-	false setoverprint
-} def
-/~
-{
- end
-	_i restore
-} def
-/_rgbtocmyk
-{
-	3
-	{
-		1 exch sub 3 1 roll
-	} repeat
-	3 copy 1 4 1 roll
-	3
-	{
-		3 index 2 copy gt
-		{
-			exch
-		} if
-		pop 4 1 roll
-	} repeat
-	pop pop pop
-	4 1 roll
-	3
-	{
-		3 index sub
-		3 1 roll
-	} repeat
-	4 -1 roll
-} def
-/setrgbfill
-{
-	_rgbf astore pop
-	/_fc
-	{
-		_lp /fill ne
-		{
-			_of setoverprint
-			_rgbf aload pop setrgbcolor
-			/_lp /fill ddef
-		} if
-	} ddef
-	/_pf
-	{
-		_fc
-		_eo {eofill} {fill} ifelse
-	} ddef
-	/_psf
-	{
-		_fc
-		hvashow
-	} ddef
-	/_pjsf
-	{
-		_fc
-		hvawidthshow
-	} ddef
-	/_lp /none ddef
-} def
-/setrgbstroke
-{
-	_rgbs astore pop
-	/_sc
-	{
-		_lp /stroke ne
-		{
-			_os setoverprint
-			_rgbs aload pop setrgbcolor
-			/_lp /stroke ddef
-		} if
-	} ddef
-	/_ps
-	{
-		_sc
-		stroke
-	} ddef
-	/_pss
-	{
-		_sc
-		ss
-	} ddef
-	/_pjss
-	{
-		_sc
-		jss
-	} ddef
-	/_lp /none ddef
-} def
-/O
-{
-	0 ne
-	/_of exch ddef
-	/_lp /none ddef
-} def
-/R
-{
-	0 ne
-	/_os exch ddef
-	/_lp /none ddef
-} def
-/g
-{
-	/_gf exch ddef
-	/_fc
-	{
-		_lp /fill ne
-		{
-			_of setoverprint
-			_gf setgray
-			/_lp /fill ddef
-		} if
-	} ddef
-	/_pf
-	{
-		_fc
-		_eo {eofill} {fill} ifelse
-	} ddef
-	/_psf
-	{
-		_fc
-		hvashow
-	} ddef
-	/_pjsf
-	{
-		_fc
-		hvawidthshow
-	} ddef
-	/_lp /none ddef
-} def
-/G
-{
-	/_gs exch ddef
-	/_sc
-	{
-		_lp /stroke ne
-		{
-			_os setoverprint
-			_gs setgray
-			/_lp /stroke ddef
-		} if
-	} ddef
-	/_ps
-	{
-		_sc
-		stroke
-	} ddef
-	/_pss
-	{
-		_sc
-		ss
-	} ddef
-	/_pjss
-	{
-		_sc
-		jss
-	} ddef
-	/_lp /none ddef
-} def
-/k
-{
-	_cf astore pop
-	/_fc
-	{
-		_lp /fill ne
-		{
-			_of setoverprint
-			_cf aload pop setcmykcolor
-			/_lp /fill ddef
-		} if
-	} ddef
-	/_pf
-	{
-		_fc
-		_eo {eofill} {fill} ifelse
-	} ddef
-	/_psf
-	{
-		_fc
-		hvashow
-	} ddef
-	/_pjsf
-	{
-		_fc
-		hvawidthshow
-	} ddef
-	/_lp /none ddef
-} def
-/K
-{
-	_cs astore pop
-	/_sc
-	{
-		_lp /stroke ne
-		{
-			_os setoverprint
-			_cs aload pop setcmykcolor
-			/_lp /stroke ddef
-		} if
-	} ddef
-	/_ps
-	{
-		_sc
-		stroke
-	} ddef
-	/_pss
-	{
-		_sc
-		ss
-	} ddef
-	/_pjss
-	{
-		_sc
-		jss
-	} ddef
-	/_lp /none ddef
-} def
-/Xa
-{
-	_?cmyk {
-		3 npop k
-	}{
-		setrgbfill 4 npop
-	} ifelse
-} def
-/XA
-{
-	_?cmyk {
-		3 npop K
-	}{
-		setrgbstroke 4 npop
-	} ifelse
-} def
-/Xs
-{
-	/_gf exch ddef
-	5 npop
-	/_fc
-	{
-		_lp /fill ne
-		{
-			_of setoverprint
-			_gf setAIseparationgray
-			/_lp /fill ddef
-		} if
-	} ddef
-	/_pf
-	{
-		_fc
-		_eo {eofill} {fill} ifelse
-	} ddef
-	/_psf
-	{
-		_fc
-		hvashow
-	} ddef
-	/_pjsf
-	{
-		_fc
-		hvawidthshow
-	} ddef
-	/_lp /none ddef
-} def
-/XS
-{
-	/_gs exch ddef
-	5 npop
-	/_sc
-	{
-		_lp /stroke ne
-		{
-			_os setoverprint
-			_gs setAIseparationgray
-			/_lp /stroke ddef
-		} if
-	} ddef
-	/_ps
-	{
-		_sc
-		stroke
-	} ddef
-	/_pss
-	{
-		_sc
-		ss
-	} ddef
-	/_pjss
-	{
-		_sc
-		jss
-	} ddef
-	/_lp /none ddef
-} def
-/Xx
-{
-	exch
-	/_gf exch ddef
-	0 eq {
-		findcmykcustomcolor
-	}{
-		_?cmyk {true}{/findrgbcustomcolor where{pop false}{true}ifelse}ifelse
-		{
-			4 1 roll 3 npop
-			findcmykcustomcolor
-		}{
-			8 -4 roll 4 npop
-			findrgbcustomcolor
-		} ifelse
-	} ifelse
-	/_if exch ddef
-	/_fc
-	{
-		_lp /fill ne
-		{
-			_of setoverprint
-			_if _gf 1 exch sub setcustomcolor
-			/_lp /fill ddef
-		} if
-	} ddef
-	/_pf
-	{
-		_fc
-		_eo {eofill} {fill} ifelse
-	} ddef
-	/_psf
-	{
-		_fc
-		hvashow
-	} ddef
-	/_pjsf
-	{
-		_fc
-		hvawidthshow
-	} ddef
-	/_lp /none ddef
-} def
-/XX
-{
-	exch
-	/_gs exch ddef
-	0 eq {
-		findcmykcustomcolor
-	}{
-		_?cmyk {true}{/findrgbcustomcolor where{pop false}{true}ifelse}ifelse
-		{
-			4 1 roll 3 npop
-			findcmykcustomcolor
-		}{
-			8 -4 roll 4 npop
-			findrgbcustomcolor
-		} ifelse
-	} ifelse
-	/_is exch ddef
-	/_sc
-	{
-		_lp /stroke ne
-		{
-			_os setoverprint
-			_is _gs 1 exch sub setcustomcolor
-			/_lp /stroke ddef
-		} if
-	} ddef
-	/_ps
-	{
-		_sc
-		stroke
-	} ddef
-	/_pss
-	{
-		_sc
-		ss
-	} ddef
-	/_pjss
-	{
-		_sc
-		jss
-	} ddef
-	/_lp /none ddef
-} def
-/x
-{
-	/_gf exch ddef
-	findcmykcustomcolor
-	/_if exch ddef
-	/_fc
-	{
-		_lp /fill ne
-		{
-			_of setoverprint
-			_if _gf 1 exch sub setcustomcolor
-			/_lp /fill ddef
-		} if
-	} ddef
-	/_pf
-	{
-		_fc
-		_eo {eofill} {fill} ifelse
-	} ddef
-	/_psf
-	{
-		_fc
-		hvashow
-	} ddef
-	/_pjsf
-	{
-		_fc
-		hvawidthshow
-	} ddef
-	/_lp /none ddef
-} def
-/X
-{
-	/_gs exch ddef
-	findcmykcustomcolor
-	/_is exch ddef
-	/_sc
-	{
-		_lp /stroke ne
-		{
-			_os setoverprint
-			_is _gs 1 exch sub setcustomcolor
-			/_lp /stroke ddef
-		} if
-	} ddef
-	/_ps
-	{
-		_sc
-		stroke
-	} ddef
-	/_pss
-	{
-		_sc
-		ss
-	} ddef
-	/_pjss
-	{
-		_sc
-		jss
-	} ddef
-	/_lp /none ddef
-} def
-/XK
-{
-	3 -1 roll pop
-	0 eq
-	{
-		1 exch sub
-		3 {dup 3 1 roll mul 5 1 roll} repeat
-		mul 4 1 roll
-		K
-	}
-	{
-		1 exch sub 4 1 roll
-		3 {1 exch sub 3 index mul 1 exch sub 3 1 roll} repeat
-		4 -1 roll pop
-		XA
-	} ifelse
-} def
-/Xk
-{
-	3 -1 roll pop
-	0 eq
-	{
-		1 exch sub
-		3 {dup 3 1 roll mul 5 1 roll} repeat
-		mul 4 1 roll
-		k
-	}
-	{
-		1 exch sub 4 1 roll
-		3 {1 exch sub 3 index mul 1 exch sub 3 1 roll} repeat
-		4 -1 roll pop
-		Xa
-	} ifelse
-} def
-/A
-{
-	pop
-} def
-/annotatepage
-{
-userdict /annotatepage 2 copy known {get exec} {pop pop} ifelse
-} def
-/XT {
-	pop pop
-} def
-/Xt {
-	pop
-} def
-/discard
-{
-	save /discardSave exch store
-	discardDict begin
-	/endString exch store
-	gt38?
-	{
-		2 add
-	} if
-	load
-	stopped
-	pop
- end
-	discardSave restore
-} bind def
-userdict /discardDict 7 dict dup begin
-put
-/pre38Initialize
-{
-	/endStringLength endString length store
-	/newBuff buffer 0 endStringLength getinterval store
-	/newBuffButFirst newBuff 1 endStringLength 1 sub getinterval store
-	/newBuffLast newBuff endStringLength 1 sub 1 getinterval store
-} def
-/shiftBuffer
-{
-	newBuff 0 newBuffButFirst putinterval
-	newBuffLast 0
-	currentfile read not
-	{
-	stop
-	} if
-	put
-} def
-0
-{
-	pre38Initialize
-	mark
-	currentfile newBuff readstring exch pop
-	{
-		{
-			newBuff endString eq
-			{
-				cleartomark stop
-			} if
-			shiftBuffer
-		} loop
-	}
-	{
-	stop
-	} ifelse
-} def
-1
-{
-	pre38Initialize
-	/beginString exch store
-	mark
-	currentfile newBuff readstring exch pop
-	{
-		{
-			newBuff beginString eq
-			{
-				/layerCount dup load 1 add store
-			}
-			{
-				newBuff endString eq
-				{
-					/layerCount dup load 1 sub store
-					layerCount 0 eq
-					{
-						cleartomark stop
-					} if
-				} if
-			} ifelse
-			shiftBuffer
-		} loop
-	} if
-} def
-2
-{
-	mark
-	{
-		currentfile buffer {readline} stopped {
-			% assume error was due to overfilling the buffer
-		}{
-			not
-			{
-				stop
-			} if
-			endString eq {
-				cleartomark stop
-			} if
-		}ifelse
-	} loop
-} def
-3
-{
-	/beginString exch store
-	/layerCnt 1 store
-	mark
-	{
-		currentfile buffer {readline} stopped {
-			% assume error was due to overfilling the buffer
-		}{
-			not
-			{
-				stop
-			} if
-			dup beginString eq
-			{
-				pop /layerCnt dup load 1 add store
-			}
-			{
-				endString eq
-				{
-					layerCnt 1 eq
-					{
-						cleartomark stop
-					}
-					{
-						/layerCnt dup load 1 sub store
-					} ifelse
-				} if
-			} ifelse
-		}ifelse
-	} loop
-} def
-end
-userdict /clipRenderOff 15 dict dup begin
-put
-{
-	/n /N /s /S /f /F /b /B
-}
-{
-	{
-		_doClip 1 eq
-		{
-			/_doClip 0 ddef _eo {eoclip} {clip} ifelse
-		} if
-		newpath
-	} def
-} forall
-/Tr /pop load def
-/Bb {} def
-/BB /pop load def
-/Bg {12 npop} def
-/Bm {6 npop} def
-/Bc /Bm load def
-/Bh {4 npop} def
-end
-/Lb
-{
-	6 npop
-	7 2 roll
-	5 npop
-	0 eq
-	{
-		0 eq
-		{
-			(%AI5_BeginLayer) 1 (%AI5_EndLayer--) discard
-		}
-		{
-			
-			/clipForward? true def
-			
-			/Tx /pop load def
-			/Tj /pop load def
-			
-			currentdict end clipRenderOff begin begin
-		} ifelse
-	}
-	{
-		0 eq
-		{
-			save /discardSave exch store
-		} if
-	} ifelse
-} bind def
-/LB
-{
-	discardSave dup null ne
-	{
-		restore
-	}
-	{
-		pop
-		clipForward?
-		{
-			currentdict
-		 end
-		 end
-		 begin
-					
-			/clipForward? false ddef
-		} if
-	} ifelse
-} bind def
-/Pb
-{
-	pop pop
-	0 (%AI5_EndPalette) discard
-} bind def
-/Np
-{
-	0 (%AI5_End_NonPrinting--) discard
-} bind def
-/Ln /pop load def
-/Ap
-/pop load def
-/Ar
-{
-	72 exch div
-	0 dtransform dup mul exch dup mul add sqrt
-	dup 1 lt
-	{
-		pop 1
-	} if
-	setflat
-} def
-/Mb
-{
-	q
-} def
-/Md
-{
-} def
-/MB
-{
-	Q
-} def
-/nc 4 dict def
-nc begin
-/setgray
-{
-	pop
-} bind def
-/setcmykcolor
-{
-	4 npop
-} bind def
-/setrgbcolor
-{
-	3 npop
-} bind def
-/setcustomcolor
-{
-	2 npop
-} bind def
-currentdict readonly pop
-end
-/XP
-{
-	4 npop
-} bind def
-/XD
-{
-	pop
-} bind def
-end
-setpacking
-%%EndResource
-%%BeginResource: procset Adobe_cshow 2.0 8
-%%Title: (Writing System Operators)
-%%Version: 2.0 8
-%%CreationDate: (1/23/89) ()
-%%Copyright: ((C) 1992-1996 Adobe Systems Incorporated All Rights Reserved)
-currentpacking true setpacking
-userdict /Adobe_cshow 14 dict dup begin put
-/initialize
-{
-	Adobe_cshow begin
-	Adobe_cshow
-	{
-		dup xcheck
-		{
-			bind
-		} if
-		pop pop
-	} forall
- end
-	Adobe_cshow begin
-} def
-/terminate
-{
-currentdict Adobe_cshow eq
-	{
- end
-	} if
-} def
-/cforall
-{
-	/_lobyte 0 ddef
-	/_hibyte 0 ddef
-	/_cproc exch ddef
-	/_cscript currentfont /FontScript known { currentfont /FontScript get } { -1 } ifelse ddef
-	{
-		/_lobyte exch ddef
-		_hibyte 0 eq
-		_cscript 1 eq
-		_lobyte 129 ge _lobyte 159 le and
-		_lobyte 224 ge _lobyte 252 le and or and
-		_cscript 2 eq
-		_lobyte 161 ge _lobyte 254 le and and
-		_cscript 3 eq
-		_lobyte 161 ge _lobyte 254 le and and
-    	_cscript 25 eq
-		_lobyte 161 ge _lobyte 254 le and and
-    	_cscript -1 eq
-		or or or or and
-		{
-			/_hibyte _lobyte ddef
-		}
-		{
-			_hibyte 256 mul _lobyte add
-			_cproc
-			/_hibyte 0 ddef
-		} ifelse
-	} forall
-} def
-/cstring
-{
-	dup 256 lt
-	{
-		(s) dup 0 4 3 roll put
-	}
-	{
-		dup 256 idiv exch 256 mod
-		(hl) dup dup 0 6 5 roll put 1 4 3 roll put
-	} ifelse
-} def
-/clength
-{
-	0 exch
-	{ 256 lt { 1 } { 2 } ifelse add } cforall
-} def
-/hawidthshow
-{
-	{
-		dup cstring
-		show
-		_hvax _hvay rmoveto
-		_hvwb eq { _hvcx _hvcy rmoveto } if
-	} cforall
-} def
-/vawidthshow
-{
-	{
-		dup 255 le
-		_charorientation 1 eq
-		and
-		{
-			-90 rotate
-			0 _fontRotateAdjust rmoveto
-			cstring
-			_hvcx _hvcy _hvwb _hvax _hvay 6 -1 roll awidthshow
-			0 _fontRotateAdjust neg rmoveto
-			90 rotate
-		}
-		{
-			currentpoint
-			_fontHeight sub
-			exch _hvay sub exch _hvax sub
-			2 index _hvwb eq { exch _hvcy sub exch _hvcx sub } if
-			3 2 roll
-			cstring
-			dup stringwidth pop 2 div neg _fontAscent neg rmoveto
-			show
-			moveto
-		} ifelse
-	} cforall
-} def
-/hvawidthshow
-{
-	6 1 roll
-	/_hvay exch ddef
-	/_hvax exch ddef
-	/_hvwb exch ddef
-	/_hvcy exch ddef
-	/_hvcx exch ddef
-	_lineorientation 0 eq { hawidthshow } { vawidthshow } ifelse
-} def
-/hvwidthshow
-{
-	0 0 3 -1 roll hvawidthshow
-} def
-/hvashow
-{
-	0 0 0 6 -3 roll hvawidthshow
-} def
-/hvshow
-{
-	0 0 0 0 0 6 -1 roll hvawidthshow
-} def
-currentdict readonly pop end
-setpacking
-%%EndResource
-%%BeginResource: procset Adobe_shading_AI8 1.0 0
-%%Title: (Adobe Illustrator 8 Shading Procset)
-%%Version: 1.0 0
-%%CreationDate: (12/17/97) ()
-%%Copyright: ((C) 1987-1997 Adobe Systems Incorporated All Rights Reserved)
-userdict /defaultpacking currentpacking put true setpacking
-userdict /Adobe_shading_AI8 10 dict dup begin put
-/initialize {
-	Adobe_shading_AI8 begin
-	Adobe_shading_AI8 bdprocs
-	Mesh /initialize get exec
-} def
-/terminate {
-	currentdict Adobe_shading_AI8 eq {
-	 end
-	} if
-} def
-/bdprocs {
-	{
-		dup xcheck 1 index type /arraytype eq and {
-			bind
-		} if
-		pop pop
-	} forall
-} def
-/X! {pop} def
-/X# {pop pop} def
-/Mesh 40 dict def
-Mesh begin
-/initialize {
-	Mesh bdprocs
-	Mesh begin
-		/emulate? /AI8MeshEmulation where {
-			pop AI8MeshEmulation
-		}{
-			systemdict /shfill known not
-		} ifelse def
- end
-} def
-/bd {
-	shadingdict begin
-} def
-/paint {
-	emulate? {
-	 end
-	}{
-		/_lp /none ddef _fc /_lp /none ddef
-		
-		/AIColorSpace AIColorSpace tocolorspace store
-		/ColorSpace AIColorSpace topsspace store
-		
-		version_ge_3010.106 not systemdict /setsmoothness known and {
-			0.0001 setsmoothness
-		} if
-		
-		composite? {
-			/DataSource getdatasrc def
-			Matrix concat
-			currentdict end
-			shfill
-		}{
-			AIColorSpace makesmarks AIPlateList markingplate and not isoverprint and {
-			 end
-			}{
-				/ColorSpace /DeviceGray store
-				/Decode [0 1 0 1 0 1] store
-				/DataSource getplatesrc def
-				Matrix concat
-				currentdict end
-				shfill
-			} ifelse
-		} ifelse
-	} ifelse
-} def
-/shadingdict 12 dict def
-shadingdict begin
-	/ShadingType 6 def
-	/BitsPerCoordinate 16 def
-	/BitsPerComponent 8 def
-	/BitsPerFlag 8 def
-end
-/datafile null def
-/databuf 256 string def
-/dataptr 0 def
-/srcspace null def
-/srcchannels 0 def
-/dstchannels 0 def
-/dstplate 0 def
-/srctodstcolor null def
-/getplatesrc {
-	/srcspace AIColorSpace store
-	/srcchannels AIColorSpace getnchannels store
-	/dstchannels 1 store
-	/dstplate getplateindex store
-	/srctodstcolor srcspace makesmarks {
-		dstplate 4 eq {
-			{1 exch sub}
-		}{
-			{srcspace tocmyk 3 dstplate sub index 1 exch sub 5 1 roll 4 {pop} repeat}
-		} ifelse
-	}{
-		{srcchannels {pop} repeat 1}
-	} ifelse store
-	/datafile getdatasrc store
-	/rdpatch168 load DataLength () /SubFileDecode filter
-} def
-/getdatasrc {
-	/rdcmntline load /ASCII85Decode filter
-} def
-/rdpatch168 {
-	/dataptr 0 store
-	49 rdcount
-	4 {
-		dup {pop srcchannels getint8} if
-		dup {pop srctodstcolor dstchannels putint8 true} if
-	} repeat
-	{databuf 0 dataptr getinterval}{()} ifelse
-} def
-/rdpatch3216 {
-	/dataptr 0 store
-	97 rdcount
-	4 {
-		dup {pop srcchannels getint16} if
-		dup {pop srctodstcolor dstchannels putint16 true} if
-	} repeat
-	{databuf 0 dataptr getinterval}{()} ifelse
-} def
-/rdcount {
-	dup 0 gt {
-		datafile databuf dataptr 4 -1 roll getinterval readstring
-		exch length dataptr add /dataptr exch store
-	}{
-		true
-	} ifelse
-} def
-/getint8 {
-	mark true 3 -1 roll
-	{
-		dup {pop datafile read} if
-		dup {pop 255 div true} if
-	} repeat
-	{
-		counttomark 1 add -1 roll pop true
-	}{
-		cleartomark false
-	} ifelse
-} def
-/putint8 {
-	dup dataptr add /dataptr exch store
-	dataptr exch
-	{
-		1 sub exch
-		255 mul cvi
-		databuf 2 index
-		3 -1 roll put
-	} repeat
-	pop
-} def 
-/getint16 {
-	mark true 3 -1 roll
-	{
-		dup {pop datafile read} if
-		dup {pop 256 mul datafile read} if
-		dup {pop add 65535 div true} if
-	} repeat
-	{
-		counttomark 1 add -1 roll pop true
-	}{
-		cleartomark false
-	} ifelse
-} def
-/putint16 {
-	dup 2 mul dataptr add /dataptr exch store
-	dataptr exch
-	{
-		2 sub exch
-		65535 mul cvi dup
-		256 idiv databuf 3 index 3 -1 roll put
-		256 mod databuf 2 index 1 add 3 -1 roll put
-	} repeat
-	pop
-} def 
-/srcbuf 256 string def
-/rdcmntline {
-	currentfile srcbuf readline pop
-	(%) anchorsearch {pop} if
-} def
-/getplateindex {
-	0 [cyan? magenta? yellow? black? customColor?] {{exit} if 1 add} forall
-} def
-/aicsarray 4 array def
-/aicsaltvals 4 array def
-/aicsaltcolr aicsaltvals def
-/tocolorspace {
-	dup type /arraytype eq {
-		mark exch aload pop
-		aicsarray 0 3 -1 roll put
-		aicsarray 1 3 -1 roll put
-		dup aicsarray 2 3 -1 roll put
-		gettintxform aicsarray 3 3 -1 roll put
-		counttomark aicsaltvals 0 3 -1 roll getinterval /aicsaltcolr exch store
-		aicsaltcolr astore pop pop
-		aicsarray
-	} if
-} def
-/subtintxform {aicsaltcolr {1 index mul exch} forall pop} def
-/addtintxform {aicsaltcolr {1 sub 1 index mul 1 add exch} forall pop} def
-/gettintxform {
-	/DeviceRGB eq {/addtintxform}{/subtintxform} ifelse load
-} def
-/getnchannels {
-	dup type /arraytype eq {0 get} if
-	colorspacedict exch get begin Channels end
-} def
-/makesmarks {
-	composite? {
-		pop true
-	}{
-		dup dup type /arraytype eq {0 get} if
-		colorspacedict exch get begin MarksPlate end
-	} ifelse
-} def
-/markingplate {
-	composite? {
-		pop true
-	}{
-		dup type /arraytype eq {
-			dup length getplateindex gt {getplateindex get}{pop false} ifelse
-		} if
-	} ifelse
-} def
-/tocmyk {
-	dup dup type /arraytype eq {0 get} if
-	colorspacedict exch get begin ToCMYK end
-} def
-/topsspace {
-	dup dup type /arraytype eq {0 get} if
-	colorspacedict exch get begin ToPSSpace end
-} def
-/colorspacedict 5 dict dup begin
-	/DeviceGray 4 dict dup begin
-		/Channels 1 def
-		/MarksPlate {pop black?} def
-		/ToCMYK {pop 1 exch sub 0 0 0 4 -1 roll} def
-		/ToPSSpace {} def
- end def
-	/DeviceRGB 4 dict dup begin
-		/Channels 3 def
-		/MarksPlate {pop isCMYKSep?} def
-		/ToCMYK {pop _rgbtocmyk} def
-		/ToPSSpace {} def
- end def
-	/DeviceCMYK 4 dict dup begin
-		/Channels 4 def
-		/MarksPlate {pop isCMYKSep?} def
-		/ToCMYK {pop} def
-		/ToPSSpace {} def
- end def
-	/Separation 4 dict dup begin
-		/Channels 1 def
-		/MarksPlate {
-			/findcmykcustomcolor where {
-				pop dup 1 exch ToCMYK 5 -1 roll 1 get
-				findcmykcustomcolor 1 setcustomcolor
-				systemdict /currentgray get exec
-				1 ne
-			}{
-				pop false
-			} ifelse
-		} def
-		/ToCMYK {
-			dup 2 get mark exch 4 2 roll
-			3 get exec
-			counttomark -1 roll tocmyk
-			5 -1 roll pop
-		} def
-		/ToPSSpace {} def
- end def
-	/Process 4 dict dup begin
-		/Channels 1 def
-		/MarksPlate {
-			isCMYKSep? {
-				1 exch ToCMYK 4 array astore getplateindex get 0 ne 
-			}{
-				pop false
-			} ifelse
-		} def
-		/ToCMYK {
-			dup 2 get mark exch 4 2 roll
-			3 get exec
-			counttomark -1 roll tocmyk
-			5 -1 roll pop
-		} def
-		/ToPSSpace {
-			4 array copy dup 0 /Separation put
-		} def
- end def
-end def
-/isoverprint {
-	/currentoverprint where {pop currentoverprint}{_of} ifelse
-} def
-/version_ge_3010.106 {
-   version {cvr} stopped {
-      pop
-      false
-   }{
-      3010.106 ge
-   } ifelse
-} def
-end
-end
-defaultpacking setpacking
-%%EndResource
-%%EndProlog%%BeginSetupuserdict /_useSmoothShade true putuserdict /_aicmykps true putuserdict /_forceToCMYK true putAdobe_level2_AI5 /initialize get exec
-Adobe_cshow /initialize get exec
-Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 AGM_Gradient /initializeAI get exec
-Adobe_ColorImage_AI6 /initialize get exec
-Adobe_shading_AI8 /initialize get exec
-Adobe_Illustrator_AI5 /initialize get exec
-%AI3_BeginRidercurrentpacking true setpackingsetpacking%AI3_EndRider%AI5_Begin_NonPrintingNp%AI8_PluginGroupInfo(Adobe Path Blends) (Adobe Blends Plugin) (LiveBlends.aip)%AI8_PluginGroupInfo(Adobe Tracing Object) (Tracing) (TracingSuite.aip)%AI8_PluginGroupInfo(Adobe Scatter Brush Tool) (Adobe Scatter Brush Plugin) (ScatterBrushTool.aip)%AI8_PluginGroupInfo(Adobe Scatter Brush Tool) (Adobe Scatter Brush Plugin) (ScatterBrushTool.aip)%AI8_PluginGroupInfo(Adobe PatternOnPath Brush Tool) (Adobe Pattern Brush Plugin) (ArtBrushTool.aip)%AI8_PluginGroupInfo(Adobe PatternOnPath Brush Tool) (Adobe Pattern Brush Plugin) (ArtBrushTool.aip)%AI8_PluginGroupInfo(Adobe ArtOnPath Brush Tool) (Adobe Art Brush Plugin) (ArtBrushTool.aip)%AI8_PluginGroupInfo(Adobe ArtOnPath Brush Tool) (Adobe Art Brush Plugin) (ArtBrushTool.aip)%AI8_PluginGroupInfo(Adobe Calligraphic Brush Tool) (Adobe Calligraphic Brush Plugin) (CalligBrushTool.aip)%AI8_PluginGroupInfo(Adobe Flare Plugin) (Flare) (Flare.aip)%AI8_PluginGroupInfo(Adobe Symbolism) (Adobe Symbolism) (ParticleSystem.aip)%AI8_PluginGroupInfo(Adobe Deform Plugin) (Adobe Envelope Plugin) (Envelope and Warp.aip)%AI8_PluginGroupInfo(Pathfinder Suite) (Adobe Compound Shape) (PathFinderS.aip)%AI8_PluginGroupInfo(Adobe Planar Group) (Adobe Live Paint Plugin) (Live Paint.aip)%AI5_End_NonPrinting--1 Bn%AI5_BeginGradient: (Unnamed gradient 4)(Unnamed gradient 4) 0 3 Bd[<11121313141517181A1B1C1C1E1F20><0B0C0C0D0E0F0F1012131314151617><0B0B0C0D0E0F0F1012131314151617>0<EBEAE9E8E7E6E5E4E2E1E0DFDEDDDC><ECEBEAE9E8E7E6E5E3E2E1E0DFDEDD><EDECEBEAE9E8E7E6E4E3E2E1E0DFDE>4 %_Br<000000000000000000000000000000000000000000000000010101020203030404050506060708090A0A0B0C0D1011><00000000000000000000000000000000000000000000000001000001010202020203020304050405050607080A0A0B><0000000000000000000000000000000000000000000000000000000001010201020203030304050506070708090A0B>0<FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFDFDFDFDFCFCFCFBFBFAFAF9F9F8F7F6F6F5F4F3F2F1F0EFEEECEB><FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFDFDFDFCFCFCFBFBFAFAF9F9F8F8F7F6F5F5F4F3F2F1F0EEEDEC><FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFDFDFDFDFCFCFCFBFBFAFAF9F9F8F7F7F6F5F4F3F2F1F0EFEEED>4 %_Br[0.85 0 53.6585 100 %_BS%_0.85 0 53.6585 100 Bs0.92 0 50 80 %_BS%_0.92 0 50 80 Bs1 0 80 0 %_BS%_1 0 80 0 BsBD%AI5_EndGradient%AI5_Begin_NonPrintingNp1 Bn%AI5_BeginGradient: (New Gradient Swatch 6)(New Gradient Swatch 6) 0 2 Bd[<0303030303030404040404040505050505060606080807070908080909090A0A0B0B0B0C0C0C0D0D0E0E0F0F100F0F10101111121213131414151616171717171818191A1A1B1B1C1C1C1D1E1E1F20202020212222222324242526262627282829><A4A4A4A4A4A5A5A5A5A5A6A6A6A6A7A7A7A8A8A8A9A9ABABAAABABADADAEAEAFAFB0B0B1B1B3B4B4B5B5B6B6B7B9B9BABBBBBCBDBDBEBFBFC0C1C2C2C3C4C5C5C6C8C8C9C9CACCCDCDCFCECFD0D1D2D3D4D5D6D6D7D8D8D9DADBDCDDDEDFE0E1E2>1<000000000000000000000000000000000000000000000000000000000000000001010101010101010101010101010101020202020202020202030303030303030404040505050505060606060607080808080909090A0B0B0B0C0D0D0D0E0F0F10><F2F2F2F2F2F2F1F1F1F1F1F1F0F0F0F0F0EFEFEFEEEEEEEEEDEDEDECECECEBEBEAEAEAE9E9E9E8E8E7E7E6E6E5E5E5E4E4E3E3E2E2E1E1E0E0DFDEDEDDDDDCDCDBDBDAD9D9D8D8D7D6D6D5D4D4D3D2D2D1D1D0CFCFCECDCCCCCBCACAC9C8C7C7C6><797979797978787878787777777776767675757574747373737272717170706F6F6E6E6D6D6C6B6B6A6A6969686767666565646363626161605F5E5E5D5C5B5B5A5958575756555453525251504F4E4D4C4B4A4A494847464544434241403F3E3D>04 %_Br[0.160784 0.886274 1 0.062745 0.776471 0.239216 0 2 53.6585 100 %_BS%_0.160784 0.886274 1 0.062745 0.776471 0.239216 0 2 53.6585 100 Bs0.011765 0.643137 1 0 0.94902 0.47451 0 2 65 0 %_BS%_0.011765 0.643137 1 0 0.94902 0.47451 0 2 65 0 BsBD%AI5_EndGradient%AI5_End_NonPrinting--%AI5_Begin_NonPrintingNp%AI5_End_NonPrinting--%AI5_BeginPalette0 0 Pb0.74902 0.678431 0.670588 0.901961 ([Registration]) 0 Xs([Registration])Pc0.572549 0.490196 0.482353 0.156863 0.431373 0.431373 0.431373 (New Color Swatch 1) 0 1 Xk(New Color Swatch 1)PcBb2 (New Gradient Swatch 6) 0 0 0 1 1 0 0 1 0 0 Bg0 BB(New Gradient Swatch 6)PcPB%AI5_EndPalette%%EndSetup%AI5_BeginLayer1 1 1 1 0 0 1 1 255 79 79 0 50 Lb(Reflections) Ln0 Au*u1 D0 O0 J 0 j 1 w 4 M []0 d0 XR0 g193.9316 -225.9023 m193.9316 -230.4463 193.9316 -233.4609 V201.7852 -225.6074 L198.7539 -225.6074 194.2266 -225.6035 Y194.0654 -225.6035 193.9316 -225.7402 193.9316 -225.9023 Cfu0 g202.1396 -223.5049 m202.1396 -204.7539 L202.1396 -202.5225 200.3271 -200.7119 198.0977 -200.7119 C181.2622 -200.7119 L179.0303 -200.7119 177.2207 -202.5225 177.2207 -204.7539 C177.2207 -229.6738 L177.2207 -231.9033 179.0303 -233.7119 181.2622 -233.7119 C191.8311 -233.7119 L191.8311 -225.9023 L191.8311 -224.5791 192.9063 -223.5049 194.2266 -223.5049 C202.1396 -223.5049 Lf0 D0 g191.627 -209.4658 m191.627 -210.0479 191.1563 -210.5156 190.5771 -210.5156 C182.3745 -210.5156 L181.7949 -210.5156 181.3247 -210.0479 181.3247 -209.4658 c181.3247 -208.8867 181.7949 -208.416 182.3745 -208.416 C190.5771 -208.416 L191.1563 -208.416 191.627 -208.8867 191.627 -209.4658 cf0 g198.1729 -214.1123 m198.1729 -214.6924 197.7021 -215.1611 197.123 -215.1611 C182.3745 -215.1611 L181.7949 -215.1611 181.3247 -214.6924 181.3247 -214.1123 c181.3247 -213.5332 181.7949 -213.0635 182.3745 -213.0635 C197.123 -213.0635 L197.7021 -213.0635 198.1729 -213.5332 198.1729 -214.1123 cf198.1729 -218.7617 m198.1729 -219.3408 197.7021 -219.8115 197.123 -219.8115 C182.3745 -219.8115 L181.7949 -219.8115 181.3247 -219.3408 181.3247 -218.7617 c181.3247 -218.1826 181.7949 -217.7119 182.3745 -217.7119 C197.123 -217.7119 L197.7021 -217.7119 198.1729 -218.1826 198.1729 -218.7617 cBb1 (Unnamed gradient 4) 189.6802 -233.7119 90 33 1 0 0 1 0 0 Bg-0.000001 33 28.9194 0.000001 175.2207 -233.7119 Xm-0.000358 8193.5547 28.9194 0.000001 175.2212 -8427.2656 Bc-0.000001 26.4 28.9194 0.000001 175.2207 -233.7119 Bm0 6.6 28.9194 0.000001 175.2207 -207.3115 Bm-0.000358 8193.5547 28.9194 0.000001 175.2207 -200.7119 Bcf0 BBU*U*u1 D0 g64.5103 -209.5986 m65.4194 -209.5986 66.1567 -208.8613 66.1567 -207.9531 c66.1567 -207.042 65.4194 -206.3066 64.5103 -206.3066 C46.542 -206.3066 L45.7646 -206.3066 45.0933 -206.8486 44.9316 -207.6104 C40.6328 -227.8359 40.1816 -229.96 V38.6631 -230.1113 35.4971 -230.4277 Y34.6479 -230.5127 34.0142 -231.2285 34.0142 -232.0645 c34.0142 -232.1191 34.0166 -232.1738 34.0225 -232.2295 c34.1128 -233.1338 34.9194 -233.7949 35.8247 -233.7041 C41.7061 -233.1162 L42.4185 -233.0449 43.0034 -232.5205 43.1523 -231.8203 C47.3804 -211.9248 47.8745 -209.5986 V50.1602 -209.5986 64.5103 -209.5986 Yf0 g67.231 -212.082 m50.3086 -212.082 L49.6128 -212.082 49.0107 -212.5654 48.8618 -213.2451 C46.2271 -225.2529 L46.1245 -225.7197 46.2534 -226.207 46.5732 -226.5615 c46.8931 -226.916 47.3638 -227.0947 47.8389 -227.042 C67.3955 -224.8574 L68.145 -224.7744 68.7129 -224.1406 68.7129 -223.3867 C68.7129 -213.5635 L68.7129 -212.7451 68.0498 -212.082 67.231 -212.082 Cf0 g49.7314 -205.3896 m51.0234 -205.3896 52.0688 -204.3408 52.0688 -203.0488 c52.0688 -201.7568 51.0234 -200.7119 49.7314 -200.7119 c48.4399 -200.7119 47.3921 -201.7568 47.3921 -203.0488 c47.3921 -204.3408 48.4399 -205.3896 49.7314 -205.3896 cf62.1089 -205.3896 m63.4023 -205.3896 64.4473 -204.3408 64.4473 -203.0488 c64.4473 -201.7568 63.4023 -200.7119 62.1089 -200.7119 c60.8188 -200.7119 59.7715 -201.7568 59.7715 -203.0488 c59.7715 -204.3408 60.8188 -205.3896 62.1089 -205.3896 cBb1 (Unnamed gradient 4) 51.3638 -233.7129 90 33.001 1 0 0 1 0 0 Bg-0.000001 33.001 38.6987 0.000002 32.0142 -233.7129 Xm-0.000352 8055.3208 38.6987 0.000002 32.0146 -8289.0332 Bc-0.000001 26.4008 38.6987 0.000002 32.0142 -233.7129 Bm0 6.60019 38.6987 0.000002 32.0142 -207.3125 Bm-0.000352 8055.3208 38.6987 0.000002 32.0142 -200.7119 Bcf0 BB*Uu*u0 g263.5352 -225.1738 m264.8379 -225.7695 265.9688 -226.3506 266.9004 -226.8652 C268.335 -225.6084 269.4854 -224.0029 270.2109 -222.1201 C269.4023 -221.5234 268.0078 -220.5674 266.1475 -219.5537 C265.5215 -221.6855 264.5811 -223.5654 263.5352 -225.1738 Cf0 g259.5986 -229.8584 m261.6328 -229.7412 263.585 -229.1152 265.2861 -228.0615 C264.4658 -227.6318 263.5215 -227.1631 262.4629 -226.6904 C261.4785 -227.9775 260.4727 -229.0361 259.5986 -229.8584 Cf0 g253.6113 -215.4189 m252.8906 -217.2363 252.4141 -219.2949 252.3672 -221.582 C255.9902 -222.2627 259.2422 -223.3486 261.9316 -224.4717 C263.0098 -222.8652 263.9766 -220.9492 264.5645 -218.7402 C261.6504 -217.3203 257.8975 -215.9492 253.6113 -215.4189 Cf0 g264.9482 -216.8867 m265.1943 -215.2754 265.2354 -213.5361 264.9746 -211.665 C262.8379 -210.5742 260.2891 -209.6807 257.377 -209.3701 C256.3447 -210.54 255.2822 -211.9824 254.4023 -213.6865 C258.499 -214.251 262.085 -215.5293 264.9482 -216.8867 Cf0 g258.665 -205.624 m256.3262 -205.6699 254.0742 -206.3906 252.1689 -207.6592 C253.7451 -207.46 255.2539 -207.4316 256.6895 -207.5361 C257.4063 -206.7695 258.085 -206.1289 258.665 -205.624 Cf0 g255.2227 -209.2549 m253.4512 -209.25 251.5605 -209.4756 249.5693 -209.9951 C248.7236 -211.0107 248.0439 -212.1865 247.5566 -213.4834 C249.2891 -213.3486 250.9639 -213.3613 252.5693 -213.4902 C253.3477 -211.8789 254.2773 -210.4629 255.2227 -209.2549 Cf0 g270.877 -215.8447 m269.9336 -214.9521 268.5879 -213.8242 266.8848 -212.7529 C267.0068 -214.5166 266.8896 -216.1738 266.5947 -217.7158 C268.3926 -218.6709 269.8066 -219.6006 270.7646 -220.2861 C271.0879 -218.7881 271.1074 -217.2881 270.877 -215.8447 Cf0 g266.6094 -210.5781 m267.8779 -211.2832 268.9961 -212.0381 269.9521 -212.7656 C269.0811 -210.8359 267.7148 -209.1406 265.9521 -207.8818 C266.2354 -208.8027 266.4551 -209.7031 266.6094 -210.5781 Cf0 g258.8887 -207.8027 m260.9668 -208.1631 262.8604 -208.791 264.5547 -209.5488 C264.3125 -208.582 263.9961 -207.5859 263.585 -206.5586 C263.2305 -206.4111 262.8643 -206.2744 262.4893 -206.1582 c262.0811 -206.0322 261.6729 -205.9307 261.2646 -205.8486 C260.9043 -206.0967 259.998 -206.7549 258.8887 -207.8027 Cf0 g247.04 -215.332 m247.0322 -215.249 L246.6201 -217.1836 246.7061 -219.126 247.2012 -220.9365 C248.3604 -221.0068 249.4941 -221.1279 250.5986 -221.2881 C250.6855 -219.0781 251.1396 -217.0586 251.8184 -215.248 C250.2803 -215.1484 248.6826 -215.165 247.04 -215.332 Cf0 g250.6094 -223.1162 m249.7178 -222.9785 248.8047 -222.873 247.8779 -222.7959 C248.6465 -224.4736 249.7852 -225.9736 251.2393 -227.1592 C250.8848 -225.7539 250.6797 -224.4063 250.6094 -223.1162 Cf260.8184 -225.9893 m258.4072 -225.0078 255.5557 -224.0693 252.4229 -223.4404 C252.5576 -225.0713 252.9189 -226.8066 253.5645 -228.6396 C254.124 -228.9131 254.7021 -229.1592 255.3164 -229.3486 c255.8896 -229.5254 256.4648 -229.6436 257.0391 -229.7334 C257.9551 -229.0156 259.3975 -227.7588 260.8184 -225.9893 CBb1 (Unnamed gradient 4) 258.9004 -229.8584 90 24.2344 1 0 0 1 0 0 Bg-0.000001 24.2344 28.4873 0.000001 244.6201 -229.8584 Xm-0.000361 8262.7754 28.4873 0.000001 244.6201 -8492.6328 Bc-0.000001 19.3875 28.4873 0.000001 244.6201 -229.8584 Bm0 4.84687 28.4873 0.000001 244.6201 -210.4707 Bm-0.000361 8262.7754 28.4873 0.000001 244.6201 -205.624 Bcf0 BB*Uu*u0 g266.8447 -232.7988 m270.8652 -230.6768 273.8184 -227.1152 275.1602 -222.7734 C275.6758 -221.1113 275.9307 -219.4092 275.9307 -217.7188 c275.9307 -214.9873 275.2656 -212.2822 273.9561 -209.7988 c271.835 -205.7773 268.2734 -202.8232 263.9307 -201.4824 c259.585 -200.1367 254.9775 -200.5654 250.9561 -202.6865 c246.9355 -204.8086 243.9814 -208.3701 242.6396 -212.7119 c241.2949 -217.0576 241.7227 -221.666 243.8447 -225.6865 c245.9658 -229.708 249.5273 -232.6621 253.8701 -234.0049 c258.2148 -235.3486 262.8232 -234.9209 266.8447 -232.7988 cf0 D0 g263.1572 -203.9814 m266.834 -205.1152 269.8477 -207.6152 271.6436 -211.0195 c273.4395 -214.4238 273.8008 -218.3232 272.6611 -221.999 C272.6602 -221.999 L271.5254 -225.6748 269.0273 -228.6895 265.623 -230.4834 c262.2197 -232.2813 258.3203 -232.6445 254.6436 -231.5049 c250.9678 -230.3701 247.9551 -227.8701 246.1582 -224.4658 c244.3633 -221.0615 244 -217.1621 245.1396 -213.4854 c246.2734 -209.8105 248.7725 -206.7959 252.1768 -205 c255.5811 -203.2041 259.4805 -202.8418 263.1572 -203.9814 cf275.1602 -222.7734 m275.1611 -222.7734 L275.1602 -222.7734 LBb1 (Unnamed gradient 4) 258.9004 -234.7734 90 34.0615 1 0 0 1 0 0 Bg-0.000001 34.0615 38.6357 0.000002 239.2949 -234.7734 Xm-0.000361 8263.3506 38.6357 0.000002 239.2949 -8498.125 Bc-0.000001 27.2492 38.6357 0.000002 239.2949 -234.7734 Bm0 6.8123 38.6357 0.000002 239.2949 -207.5244 Bm-0.000361 8263.3506 38.6357 0.000002 239.2949 -200.7119 Bcf0 BB*UUUu*u1 D0 g118.9404 -224.748 m118.9028 -224.8115 118.8687 -224.8818 118.8208 -224.9287 C115.5142 -228.2354 115.5142 -228.2363 V115.2563 -228.4932 114.8457 -228.5459 114.5454 -228.5459 c113.7339 -228.5459 112.4487 -228.1279 111.2764 -226.957 c109.5928 -225.2725 109.394 -223.3213 109.9971 -222.7188 C113.3032 -219.4121 L113.3687 -219.3467 113.4438 -219.2959 113.5244 -219.2539 C117.9775 -214.8018 L116.7749 -214.2461 115.5132 -213.9365 114.2725 -213.9355 c112.4688 -213.9355 110.8271 -214.582 109.6509 -215.7588 C106.3447 -219.0654 L103.4673 -221.9424 104.0283 -227.0127 107.623 -230.6084 c109.5947 -232.582 112.1187 -233.7119 114.5449 -233.7119 c116.3491 -233.7119 117.9902 -233.0654 119.1665 -231.8877 C122.4731 -228.583 122.4741 -228.582 v123.709 -227.3457 124.3101 -225.707 124.3101 -223.9541 c124.3101 -222.7402 124.0083 -221.4736 123.4395 -220.248 C118.9404 -224.748 Lf0 g134.4185 -203.8154 m132.4468 -201.8438 129.9238 -200.7119 127.4966 -200.7119 c125.6924 -200.7109 124.0508 -201.3584 122.874 -202.5361 C119.5688 -205.8408 L117.4766 -207.9326 117.2119 -211.1807 118.5991 -214.1807 C122.584 -210.1943 L122.7183 -210.0605 122.8691 -209.9492 123.019 -209.8369 C123.0703 -209.7002 123.1348 -209.5811 123.2212 -209.4951 C126.5264 -206.1895 L126.7837 -205.9326 127.1953 -205.8779 127.4956 -205.8779 c128.3071 -205.8779 129.5928 -206.2949 130.7651 -207.4688 c132.4482 -209.1514 132.646 -211.1025 132.043 -211.7061 C128.7388 -215.0117 L128.6519 -215.0986 128.5308 -215.1621 128.3931 -215.2148 C128.2827 -215.3623 128.1738 -215.5146 128.0386 -215.6484 C124.0527 -219.6338 L127.0508 -221.0205 130.2983 -220.7549 132.3911 -218.6631 C135.6958 -215.3574 L136.9312 -214.123 137.5332 -212.4824 137.5332 -210.7314 c137.5332 -208.3994 136.4697 -205.8682 134.4185 -203.8154 cf113.6294 -224.6035 m114.7427 -225.7158 116.5562 -225.7188 117.6699 -224.6035 C127.3315 -214.9414 L128.4453 -213.8281 128.4443 -212.0156 127.3315 -210.9023 c126.2173 -209.7871 124.4048 -209.7871 123.291 -210.9023 C113.6294 -220.5645 L112.5156 -221.6777 112.5156 -223.4902 113.6294 -224.6035 cBb1 (Unnamed gradient 4) 121.0205 -231.71 90 33 1 0 0 1 0 2.0016 Bg-0.000001 33 38.0659 0.000002 101.4673 -233.7119 Xm-0.000355 8124.8955 38.0659 0.000002 101.4678 -8358.6074 Bc-0.000001 26.4 38.0659 0.000002 101.4673 -233.7119 Bm0 6.6 38.0659 0.000002 101.4673 -207.3115 Bm-0.000355 8124.8955 38.0659 0.000002 101.4673 -200.7119 Bcf0 BB*UUu*u0 g331.2891 -218.1416 m331.293 -216.1729 332.9004 -214.5713 334.8711 -214.5752 C335.5068 -214.5771 336.0898 -214.5781 V336.1182 -200.9326 L336.1182 -200.8691 336.1035 -200.8076 336.0986 -200.7451 C329.5645 -207.2529 L328.7646 -208.0488 327.4727 -208.0459 326.6768 -207.248 C320.168 -200.7119 L320.1602 -200.7744 320.1475 -200.8359 320.1475 -200.8994 C320.084 -231.6406 L320.0811 -232.7695 320.9961 -233.6855 322.123 -233.6865 C334.0059 -233.7119 L335.1357 -233.7148 336.0508 -232.8027 336.0527 -231.6748 C336.0742 -221.7275 L335.4922 -221.7256 334.8564 -221.7236 Y332.8857 -221.7197 331.2852 -220.1123 331.2891 -218.1416 cf344.5254 -216.6377 m341.2275 -216.6318 L341.2344 -213.335 L341.2354 -212.4873 340.5518 -211.7998 339.7061 -211.7988 c338.8604 -211.7979 338.1729 -212.4824 338.1699 -213.3281 C338.1641 -216.625 L334.8652 -216.6191 L334.0195 -216.6162 333.334 -217.2998 333.3311 -218.1475 c333.3301 -218.9941 334.0146 -219.6807 334.8604 -219.6816 C338.1572 -219.6895 L338.1504 -222.9863 L338.1484 -223.833 338.834 -224.5195 339.6797 -224.5225 c340.5254 -224.5234 341.2129 -223.8398 341.2148 -222.9941 C341.2207 -219.6943 L344.5186 -219.7031 L345.3643 -219.7031 346.0518 -219.0195 346.0547 -218.1738 c346.0566 -217.3281 345.3711 -216.6406 344.5254 -216.6377 CBb1 (Unnamed gradient 4) 333.0693 -233.7119 90 33 1 0 0 1 0 0 Bg-0.000001 33 29.9756 0.000001 318.0811 -233.7119 Xm-0.000364 8336.9473 29.9756 0.000001 318.0811 -8570.6602 Bc-0.000001 26.4 29.9756 0.000001 318.0811 -233.7119 Bm0 6.6 29.9756 0.000001 318.0811 -207.3115 Bm-0.000364 8336.9473 29.9756 0.000001 318.0811 -200.7119 Bcf0 BB*UUUu*u0 g134.8599 -305.4736 m134.3228 -305.4736 133.8872 -305.9092 133.8872 -306.4463 C133.8872 -308.5771 L121.9937 -308.5771 L121.9937 -306.4463 L121.9937 -305.9092 121.5591 -305.4736 121.022 -305.4736 c120.4849 -305.4736 120.0493 -305.9092 120.0493 -306.4463 C120.0493 -308.5771 L108.1558 -308.5771 L108.1558 -306.4463 L108.1558 -305.9092 107.7202 -305.4736 107.1831 -305.4736 c106.646 -305.4736 106.2114 -305.9092 106.2114 -306.4463 C106.2114 -309.5488 L106.2114 -310.0859 106.646 -310.5225 107.1831 -310.5225 c107.2144 -310.5225 107.2407 -310.5068 107.272 -310.5039 C107.3022 -310.5068 107.3286 -310.5225 107.3599 -310.5225 C134.6987 -310.5225 L134.7271 -310.5225 134.7515 -310.5078 134.7798 -310.5049 C134.8071 -310.5078 134.8315 -310.5225 134.8599 -310.5225 c135.397 -310.5225 135.8315 -310.0859 135.8315 -309.5488 C135.8315 -306.4463 L135.8315 -305.9092 135.397 -305.4736 134.8599 -305.4736 cf0 g119.3672 -323.6514 m119.3677 -322.2998 119.3677 -320.2793 119.3677 -319.8643 C115.5811 -319.8643 L116.6099 -320.8936 118.3394 -322.6221 119.3672 -323.6514 Cf0 g124.9336 -312.8945 m117.1079 -312.8945 L116.0713 -312.8945 115.231 -313.7363 115.231 -314.7734 C115.231 -318.3643 L119.4912 -318.3643 L120.25 -318.3643 120.8677 -318.9814 120.8677 -319.7402 C120.8672 -324.1084 L124.9336 -324.1084 L125.9707 -324.1084 126.812 -323.2686 126.812 -322.2314 C126.812 -314.7734 L126.812 -313.7363 125.9707 -312.8945 124.9336 -312.8945 Cf0 g129.4663 -298.8574 m130.4951 -299.8867 132.2246 -301.6152 133.2524 -302.6445 C133.2529 -301.2939 133.2529 -299.2734 133.2529 -298.8574 C129.4663 -298.8574 Lf0 g119.3677 -298.8574 m115.5811 -298.8574 L116.6099 -299.8867 118.3394 -301.6152 119.3672 -302.6445 C119.3677 -301.2939 119.3677 -299.2734 119.3677 -298.8574 Cf0 g120.8677 -298.7324 m120.8672 -303.1025 L124.9336 -303.1025 L125.9707 -303.1025 126.812 -302.2617 126.812 -301.2236 C126.812 -293.7666 L126.812 -292.7295 125.9707 -291.8877 124.9336 -291.8877 C117.1079 -291.8877 L116.0713 -291.8877 115.231 -292.7295 115.231 -293.7666 C115.231 -297.3574 L119.4912 -297.3574 L120.25 -297.3574 120.8677 -297.9736 120.8677 -298.7324 Cf0 g105.481 -302.6445 m105.4814 -301.2939 105.4814 -299.2734 105.4814 -298.8574 C101.6948 -298.8574 L102.7236 -299.8867 104.4531 -301.6152 105.481 -302.6445 Cf0 g138.8188 -291.8877 m130.9932 -291.8877 L129.9565 -291.8877 129.1162 -292.7295 129.1162 -293.7666 C129.1162 -297.3574 L133.3765 -297.3574 L134.1353 -297.3574 134.7529 -297.9736 134.7529 -298.7324 C134.7524 -303.1025 L138.8188 -303.1025 L139.856 -303.1025 140.6973 -302.2617 140.6973 -301.2236 C140.6973 -293.7666 L140.6973 -292.7295 139.856 -291.8877 138.8188 -291.8877 Cf106.9814 -298.7324 m106.981 -303.1025 L111.0474 -303.1025 L112.0845 -303.1025 112.9258 -302.2617 112.9258 -301.2236 C112.9258 -293.7666 L112.9258 -292.7295 112.0845 -291.8877 111.0474 -291.8877 C103.2217 -291.8877 L102.1851 -291.8877 101.3447 -292.7295 101.3447 -293.7666 C101.3447 -297.3574 L105.605 -297.3574 L106.3638 -297.3574 106.9814 -297.9736 106.9814 -298.7324 CBb1 (Unnamed gradient 4) 121.021 -324.1084 90 32.2207 1 0 0 1 0 0 Bg-0.000001 32.2207 43.3525 0.000002 99.3447 -324.1084 Xm-0.000355 8124.896 43.3525 0.000002 99.3452 -8449.0039 Bc-0.000001 25.7766 43.3525 0.000002 99.3447 -324.1084 Bm0 6.44414 43.3525 0.000002 99.3447 -298.332 Bm-0.000355 8124.896 43.3525 0.000002 99.3447 -291.8877 Bcf0 BB*U*u0 g70.8496 -312.4287 m69.666 -312.4287 68.7065 -313.3896 68.7065 -314.5732 C68.7065 -317.9033 L68.7065 -320.5742 66.5342 -322.7451 63.8643 -322.7451 c61.1938 -322.7451 59.021 -320.5742 59.021 -317.9033 C59.021 -314.8203 L54.7349 -314.8203 L54.7349 -317.9033 L54.7349 -322.9365 58.8301 -327.0322 63.8643 -327.0322 c68.8979 -327.0322 72.9927 -322.9365 72.9927 -317.9033 C72.9927 -314.5732 L72.9927 -313.3896 72.0332 -312.4287 70.8496 -312.4287 cfu0 g64.6851 -307.1445 m64.6851 -297.5635 L64.6851 -294.4277 62.145 -291.8877 59.0117 -291.8877 C43.415 -291.8877 L40.2813 -291.8877 37.7422 -294.4277 37.7422 -297.5635 C37.7422 -307.1445 L37.7422 -310.2793 40.2813 -312.8203 43.415 -312.8203 C59.0117 -312.8203 L62.145 -312.8203 64.6851 -310.2793 64.6851 -307.1445 Cf0 D53.2144 -305.0693 m53.2144 -306.1738 52.3188 -307.0693 51.2144 -307.0693 c50.1099 -307.0693 49.2144 -306.1738 49.2144 -305.0693 C49.2144 -299.3389 L49.2144 -298.2354 50.1099 -297.3389 51.2144 -297.3389 c52.3188 -297.3389 53.2144 -298.2354 53.2144 -299.3389 C53.2144 -305.0693 LBb1 (Unnamed gradient 4) 55.3677 -327.0322 90 35.1445 1 0 0 1 0 0 Bg-0.000002 35.1445 39.2505 0.000002 35.7422 -327.0322 Xm-0.000352 8059.2427 39.2505 0.000002 35.7427 -8386.2754 Bc-0.000001 28.1156 39.2505 0.000002 35.7422 -327.0322 Bm0 7.02891 39.2505 0.000002 35.7422 -298.917 Bm-0.000352 8059.2427 39.2505 0.000002 35.7422 -291.8877 Bcf0 BBU*U*uu1 D0 g189.6802 -291.8877 m180.4106 -291.8877 172.8975 -299.4014 172.8975 -308.6699 c172.8975 -317.9395 180.4106 -325.4531 189.6802 -325.4531 c198.9482 -325.4531 206.4629 -317.9395 206.4629 -308.6699 c206.4629 -299.4014 198.9482 -291.8877 189.6802 -291.8877 cf0 D0 g189.6802 -323.5859 m181.457 -323.5859 174.7671 -316.8945 174.7671 -308.6699 c174.7671 -300.4453 181.457 -293.7549 189.6802 -293.7549 c197.9033 -293.7549 204.5947 -300.4453 204.5947 -308.6699 c204.5947 -316.8945 197.9033 -323.5859 189.6802 -323.5859 cfUu1 D0 g189.6802 -295.7549 m182.5483 -295.7549 176.7671 -301.54 176.7671 -308.6699 c176.7671 -315.8018 182.5483 -321.5859 189.6802 -321.5859 c196.8105 -321.5859 202.5947 -315.8018 202.5947 -308.6699 c202.5947 -301.54 196.8105 -295.7549 189.6802 -295.7549 cf0 D195.8643 -308.1631 m195.2441 -308.8291 194.3008 -308.8838 193.625 -308.2939 C193.6143 -308.2803 192.1201 -306.7578 191.207 -305.8291 C191.2148 -307.583 191.2285 -314.7061 Y191.2285 -315.5576 190.5122 -316.2744 189.6626 -316.2744 c189.2593 -316.2744 188.8574 -316.1045 188.5615 -315.8037 c188.2646 -315.5088 188.0962 -315.1113 188.0962 -314.707 c188.1113 -306.1914 188.1123 -305.7354 V187.2788 -306.5947 185.6641 -308.2568 Y185.3716 -308.5498 184.9951 -308.707 184.6035 -308.6992 c184.1836 -308.6943 183.7778 -308.5029 183.4614 -308.1631 c183.1768 -307.8613 183.0308 -307.4502 183.061 -307.0381 c183.0913 -306.6279 183.2886 -306.2549 183.6182 -305.9932 C183.5947 -306.0146 189.4272 -300.3252 Y189.6616 -300.0986 L195.7471 -305.9951 L196.0527 -306.2783 196.2402 -306.6816 196.2529 -307.0996 c196.2676 -307.501 196.1289 -307.876 195.8643 -308.1631 cBb1 (Unnamed gradient 4) 189.6802 -325.4531 90 33.5654 1 0 0 1 0 0 Bg-0.000001 33.5654 37.5659 0.000002 170.8975 -325.4531 Xm-0.000358 8193.5547 37.5659 0.000002 170.8979 -8519.0078 Bc-0.000001 26.8523 37.5659 0.000002 170.8975 -325.4531 Bm0 6.71309 37.5659 0.000002 170.8975 -298.6006 Bm-0.000358 8193.5547 37.5659 0.000002 170.8975 -291.8877 Bcf0 BBU*U*u1 D0 g276.5352 -291.8877 m241.2656 -291.8877 L240.7139 -291.8877 240.2656 -292.3359 240.2656 -292.8877 C240.2656 -324.8867 L240.2656 -325.4404 240.7139 -325.8867 241.2656 -325.8867 c241.8184 -325.8867 242.2656 -325.4404 242.2656 -324.8867 C242.2656 -293.8877 L276.5352 -293.8877 L277.0879 -293.8877 277.5352 -293.4404 277.5352 -292.8877 c277.5352 -292.3359 277.0879 -291.8877 276.5352 -291.8877 Cf0 g272.1191 -295.9717 m270.1914 -295.9717 L268.3066 -295.9717 266.7754 -297.4609 266.7754 -299.2988 C266.7754 -313.3408 L266.7754 -315.1787 268.3066 -316.667 270.1914 -316.667 C272.1191 -316.667 L274.0098 -316.667 275.5361 -315.1787 275.5361 -313.3408 C275.5361 -299.2988 L275.5361 -297.4609 274.0098 -295.9717 272.1191 -295.9717 Cf0 g250.2852 -295.9717 m248.3564 -295.9717 L246.4678 -295.9717 244.9395 -297.4609 244.9395 -299.2988 C244.9395 -306.6807 L244.9395 -308.5166 246.4678 -310.0068 248.3564 -310.0068 C250.2852 -310.0068 L252.1699 -310.0068 253.7012 -308.5166 253.7012 -306.6807 C253.7012 -299.2988 L253.7012 -297.4609 252.1699 -295.9717 250.2852 -295.9717 Cf261.2021 -295.9717 m259.2754 -295.9717 L257.3857 -295.9717 255.8564 -297.4609 255.8564 -299.2988 C255.8564 -319.9971 L255.8564 -321.8359 257.3857 -323.3242 259.2754 -323.3242 C261.2021 -323.3242 L263.0898 -323.3242 264.6191 -321.8359 264.6191 -319.9971 C264.6191 -299.2988 L264.6191 -297.4609 263.0898 -295.9717 261.2021 -295.9717 CBb1 (Unnamed gradient 4) 258.9004 -325.8867 90 33.999 1 0 0 1 0 0 Bg-0.000001 33.999 41.2695 0.000002 238.2656 -325.8867 Xm-0.000361 8262.7754 41.2695 0.000002 238.2656 -8588.6621 Bc-0.000001 27.1992 41.2695 0.000002 238.2656 -325.8867 Bm0 6.7998 41.2695 0.000002 238.2656 -298.6875 Bm-0.000361 8262.7754 41.2695 0.000002 238.2656 -291.8877 Bcf0 BB*U*uu0 g340.4482 -295.0488 m338.4668 -295.0488 L338.4668 -298.2295 L317.0977 -298.2295 L317.0977 -295.0488 L315.6777 -295.0488 L312.9063 -295.0488 310.6563 -297.2959 310.6563 -300.0693 C310.6563 -308.8828 L310.6563 -311.6572 312.9063 -313.9053 315.6777 -313.9053 C317.0977 -313.9053 L317.0977 -307.8232 L338.4668 -307.8232 L338.4668 -313.9053 L340.4482 -313.9053 L343.2207 -313.9053 345.4707 -311.6572 345.4707 -308.8828 C345.4707 -300.0693 L345.4707 -297.2959 343.2207 -295.0488 340.4482 -295.0488 Cf0 D0 g336.0254 -304.999 m335.0762 -304.999 334.3086 -304.2285 334.3086 -303.2793 c334.3086 -302.3311 335.0762 -301.5596 336.0273 -301.5596 c336.9746 -301.5596 337.7441 -302.3311 337.7441 -303.2793 c337.7441 -304.2285 336.9746 -304.999 336.0254 -304.999 cf0 g341.1357 -304.999 m340.1855 -304.999 339.4189 -304.2285 339.4189 -303.2793 c339.4189 -302.3311 340.1855 -301.5596 341.1357 -301.5596 c342.085 -301.5596 342.8535 -302.3311 342.8535 -303.2793 c342.8535 -304.2285 342.085 -304.999 341.1357 -304.999 cfU1 D0 g336.4668 -291.8877 m319.0977 -291.8877 L319.0977 -296.2295 L336.4668 -296.2295 L336.4668 -291.8877 Lfu0 g319.0977 -322.5039 m336.4668 -322.5039 L336.4668 -309.8232 L319.0977 -309.8232 L319.0977 -322.5039 Lf0 D0 g322.8887 -313.8027 m332.6768 -313.8027 L333.0908 -313.8027 333.4268 -314.1396 333.4268 -314.5527 c333.4268 -314.9668 333.0908 -315.3027 332.6768 -315.3027 C322.8887 -315.3027 L322.4736 -315.3027 322.1387 -314.9668 322.1387 -314.5527 c322.1387 -314.1396 322.4736 -313.8027 322.8887 -313.8027 Cf322.8887 -317.0244 m332.6768 -317.0244 L333.0908 -317.0244 333.4268 -317.3613 333.4268 -317.7744 c333.4268 -318.1895 333.0908 -318.5244 332.6768 -318.5244 C322.8887 -318.5244 L322.4736 -318.5244 322.1387 -318.1895 322.1387 -317.7744 c322.1387 -317.3613 322.4736 -317.0244 322.8887 -317.0244 CBb1 (Unnamed gradient 4) 328.0635 -322.5039 90 30.6162 1 0 0 1 0 0 Bg-0.000001 30.6162 38.8145 0.000002 308.6563 -322.5039 Xm-0.000364 8331.9385 38.8145 0.000002 308.6563 -8654.4414 Bc-0.000001 24.493 38.8145 0.000002 308.6563 -322.5039 Bm0 6.12324 38.8145 0.000002 308.6563 -298.0107 Bm-0.000364 8331.9385 38.8145 0.000002 308.6563 -291.8877 Bcf0 BBU*UUu*u1 D0 g63.1777 -116.4678 m63.1777 -114.6611 63.1777 -110.3525 Y63.1777 -109.8057 62.8491 -109.3145 62.3442 -109.1045 c61.8408 -108.8965 61.2603 -109.0127 60.876 -109.3994 C54.52 -115.752 53.812 -116.4619 V48.1694 -116.4619 L49.5107 -117.8027 50.9736 -119.2656 51.7446 -120.0361 C53.0439 -120.0361 58.1582 -120.0361 Y62.6807 -120.0361 66.3604 -123.7158 66.3604 -128.2383 C66.3604 -135.5049 L68.1338 -134.4111 69.3223 -132.457 69.3223 -130.2246 C69.3223 -122.6641 L69.3223 -119.2646 66.5698 -116.498 63.1777 -116.4678 Cf58.1582 -122.0361 m51.8799 -122.0361 50.9165 -122.0361 V50.2085 -121.3271 43.8525 -114.9736 Y43.4683 -114.5879 42.8872 -114.4717 42.3848 -114.6797 c41.8794 -114.8896 41.5503 -115.3809 41.5503 -115.9268 C41.5503 -120.2354 41.5503 -122.041 V38.1587 -122.0732 35.4063 -124.8389 35.4063 -128.2383 C35.4063 -135.7998 L35.4063 -139.2207 38.188 -142.0029 41.6094 -142.0029 C58.1582 -142.0029 L61.5776 -142.0029 64.3604 -139.2207 64.3604 -135.7998 C64.3604 -128.2383 L64.3604 -124.8193 61.5776 -122.0361 58.1582 -122.0361 CBb1 (Unnamed gradient 4) 52.3643 -142.0029 90 33.0005 1 0 0 1 0 0 Bg-0.000001 33.0005 37.916 0.000002 33.4063 -142.0029 Xm-0.000352 8056.2393 37.916 0.000002 33.4067 -8198.2422 Bc-0.000001 26.4004 37.916 0.000002 33.4063 -142.0029 Bm0 6.6001 37.916 0.000002 33.4063 -115.6025 Bm-0.000352 8056.2393 37.916 0.000002 33.4063 -109.0024 Bcf0 BB*U*u0 g332.7236 -132.8525 m332.7236 -135.4229 330.6328 -137.5137 328.0645 -137.5137 c325.4941 -137.5137 323.4033 -135.4229 323.4033 -132.8525 C323.4033 -131.4268 L318.9141 -131.4268 L318.9141 -132.8525 L318.9141 -137.8984 323.0186 -142.0029 328.0645 -142.0029 c333.1104 -142.0029 337.2148 -137.8984 337.2148 -132.8525 C337.2148 -131.4268 L332.7236 -131.4268 L332.7236 -132.8525 Lfu0 g335.7725 -109.0029 m320.3564 -109.0029 L317.2568 -109.0029 314.7461 -111.5137 314.7461 -114.6123 C314.7461 -124.0859 L314.7461 -127.1836 317.2568 -129.6953 320.3564 -129.6953 C335.7725 -129.6953 L338.8691 -129.6953 341.3809 -127.1836 341.3809 -124.0859 C341.3809 -114.6123 L341.3809 -111.5137 338.8691 -109.0029 335.7725 -109.0029 Cf0 D330.1582 -122.0313 m330.1582 -123.1875 329.2207 -124.126 328.0645 -124.126 c326.9063 -124.126 325.9688 -123.1875 325.9688 -122.0313 C325.9688 -116.3691 L325.9688 -115.2119 326.9063 -114.2744 328.0645 -114.2744 c329.2207 -114.2744 330.1582 -115.2119 330.1582 -116.3691 C330.1582 -122.0313 LBb1 (Unnamed gradient 4) 328.0635 -142.0029 90 33 1 0 0 1 0 0 Bg-0.000001 33 30.6348 0.000001 312.7461 -142.0029 Xm-0.000364 8331.9385 30.6348 0.000001 312.7461 -8473.9414 Bc-0.000001 26.4 30.6348 0.000001 312.7461 -142.0029 Bm0 6.6 30.6348 0.000001 312.7461 -115.603 Bm-0.000364 8331.9385 30.6348 0.000001 312.7461 -109.0029 Bcf0 BBU*Uu*u1 D0 g112.1265 -112.6172 m112.2349 -112.5703 112.3105 -112.4688 112.3247 -112.3496 c112.3364 -112.2314 112.2832 -112.1172 112.1841 -112.0479 C111.8325 -111.8066 L108.7446 -110.1348 L108.6294 -110.0557 108.4746 -110.0576 108.3633 -110.1445 c108.25 -110.2295 108.207 -110.3779 108.2544 -110.5117 C109.1909 -114.2969 L109.229 -114.4023 109.3286 -114.4678 109.436 -114.4922 c109.5425 -114.5186 109.6699 -114.4727 109.7485 -114.3965 C110.8027 -113.4365 L111.103 -113.207 111.7563 -112.7715 112.1265 -112.6172 cf0 g116.9673 -114.9639 m116.5449 -114.4102 115.9985 -114.0039 115.3994 -113.749 C115.3442 -114.0811 115.1704 -114.3945 114.8809 -114.6152 c114.4575 -114.9404 113.9043 -114.9766 113.4468 -114.7607 C113.5371 -115.2559 113.3584 -115.7813 112.9326 -116.1074 c112.5073 -116.4336 111.9536 -116.4688 111.5005 -116.2539 C111.5884 -116.749 111.4102 -117.2734 110.9834 -117.5986 c110.6973 -117.8193 110.3477 -117.9063 110.0122 -117.873 C110.1021 -118.5195 110.353 -119.1504 110.7759 -119.7041 C122.061 -134.4463 L128.2554 -129.7051 L116.9673 -114.9639 Lf0 g131.7646 -134.2871 m125.5723 -139.0293 L126.6772 -140.4746 L127.9888 -142.1846 130.4346 -142.5088 132.1455 -141.1982 c133.8555 -139.8896 134.1816 -137.4414 132.8726 -135.7334 C131.7646 -134.2871 Lf0 g129.3096 -131.083 m123.1152 -135.8242 L124.562 -137.709 L130.7515 -132.9688 L129.3096 -131.083 Lf113.7695 -111.0596 m132.7783 -111.0596 L133.3462 -111.0596 133.8062 -110.5986 133.8062 -110.0313 c133.8062 -109.4639 133.3462 -109.0029 132.7783 -109.0029 C113.7695 -109.0029 L113.2021 -109.0029 112.7417 -109.4639 112.7417 -110.0313 c112.7417 -110.5986 113.2021 -111.0596 113.7695 -111.0596 CBb1 (Unnamed gradient 4) 121.021 -142.0029 90 33 1 0 0 1 0 0 Bg-0.000001 33 29.9746 0.000001 106.207 -142.0029 Xm-0.000355 8125.4019 29.9746 0.000001 106.2075 -8267.4043 Bc-0.000001 26.4 29.9746 0.000001 106.207 -142.0029 Bm0 6.6 29.9746 0.000001 106.207 -115.603 Bm-0.000355 8125.4019 29.9746 0.000001 106.207 -109.0029 Bcf0 BB*UU*u0 g195.4229 -140.5068 m195.4229 -141.3301 196.1064 -142.0029 196.9434 -142.0029 C199.7813 -142.0029 L200.6191 -142.0029 201.3018 -141.3301 201.3018 -140.5068 C201.3018 -133.7197 L195.4229 -139.5986 L195.4229 -140.5068 Lfu0 g202.7637 -123.5879 m202.5605 -123.5879 L202.5605 -123.5547 202.5723 -123.5234 202.5723 -123.4912 C202.5723 -113.792 L202.5723 -111.1475 200.4268 -109.0029 197.7813 -109.0029 C193.457 -109.0029 L193.457 -117.2256 L193.457 -117.9287 192.915 -118.5029 192.252 -118.5029 C187.4321 -118.5029 L186.7695 -118.5029 186.229 -117.9287 186.229 -117.2256 C186.229 -109.0029 L181.6963 -109.0029 L179.0522 -109.0029 176.9072 -111.1475 176.9072 -113.792 C176.9072 -123.4912 L176.9072 -123.5234 176.916 -123.5547 176.916 -123.5879 C176.5972 -123.5879 L174.9839 -125.2021 174.9844 -127.8164 176.5972 -129.4287 C186.7598 -139.5918 L188.3716 -141.2051 190.9883 -141.2051 192.6025 -139.5918 C202.7637 -129.4287 L204.377 -127.8164 204.377 -125.2012 202.7637 -123.5879 Cf0 D189.5146 -133.3232 m189.1235 -133.7139 188.4902 -133.7129 188.1001 -133.3223 C180.5142 -125.7217 L180.124 -125.3301 180.1245 -124.6973 180.5156 -124.3066 c180.9067 -123.917 181.5396 -123.917 181.9302 -124.3086 C189.5161 -131.9092 L189.9063 -132.2998 189.9058 -132.9326 189.5146 -133.3232 cBb1 (Unnamed gradient 4) 189.6807 -142.0029 90 33 1 0 0 1 0 0 Bg-0.000001 33 33.3936 0.000001 172.9839 -142.0029 Xm-0.000358 8193.5557 33.3936 0.000001 172.9844 -8335.5586 Bc-0.000001 26.4 33.3936 0.000001 172.9839 -142.0029 Bm0 6.6 33.3936 0.000001 172.9839 -115.603 Bm-0.000358 8193.5557 33.3936 0.000001 172.9839 -109.0029 Bcf0 BBU*U*uu1 D0 g254.7266 -117.3291 m247.9238 -117.3291 242.3896 -122.8633 242.3896 -129.667 c242.3896 -136.4688 247.9238 -142.0029 254.7266 -142.0029 c261.5293 -142.0029 267.0635 -136.4688 267.0635 -129.667 c267.0635 -122.8633 261.5293 -117.3291 254.7266 -117.3291 cf0 D0 g254.7266 -138.2939 m249.9688 -138.2939 246.0986 -134.4238 246.0986 -129.667 c246.0986 -124.9092 249.9688 -121.0381 254.7266 -121.0381 c259.4854 -121.0381 263.3555 -124.9092 263.3555 -129.667 c263.3555 -134.4238 259.4854 -138.2939 254.7266 -138.2939 cfU1 D0 g259.1797 -127.9863 m256.9893 -127.9863 256.4063 -127.9863 V256.4063 -127.4023 256.4063 -125.2109 Y256.4063 -124.207 255.7314 -123.5322 254.7246 -123.5322 c253.7197 -123.5322 253.0439 -124.207 253.0439 -125.2109 C253.0439 -127.4023 253.0439 -127.9863 V252.4609 -127.9863 250.2715 -127.9863 Y249.2676 -127.9863 248.5908 -128.6611 248.5908 -129.665 c248.5908 -130.6709 249.2676 -131.3457 250.2715 -131.3457 C252.4609 -131.3457 253.0439 -131.3457 V253.0439 -131.9297 253.0439 -134.1201 Y253.0439 -135.125 253.7197 -135.7998 254.7246 -135.7998 c255.7314 -135.7998 256.4063 -135.125 256.4063 -134.1201 C256.4063 -131.9297 256.4063 -131.3457 V256.9893 -131.3457 259.1797 -131.3457 Y260.1855 -131.3457 260.8613 -130.6709 260.8613 -129.665 c260.8613 -128.6611 260.1855 -127.9863 259.1797 -127.9863 Cf274.4473 -110.1768 m273.0879 -108.6992 270.7891 -108.6045 269.3135 -109.9648 C262.3691 -117.1465 L264.4629 -118.4287 266.21 -120.2148 267.4395 -122.3428 C274.2393 -115.3115 L275.7148 -113.9502 275.8086 -111.6533 274.4473 -110.1768 cBb1 (Unnamed gradient 4) 258.9004 -142.0029 90 32.9995 1 0 0 1 0 0 Bg-0.000001 32.9995 37.4189 0.000002 240.3896 -142.0029 Xm-0.000361 8262.7754 37.4189 0.000002 240.3896 -8404.7773 Bc-0.000001 26.3996 37.4189 0.000002 240.3896 -142.0029 Bm0 6.5999 37.4189 0.000002 240.3896 -115.6035 Bm-0.000361 8262.7754 37.4189 0.000002 240.3896 -109.0034 Bcf0 BB*UULB%AI5_EndLayer--%AI5_BeginLayer1 1 1 1 0 0 1 4 255 255 79 0 50 Lb(Blogging + Internet2) Ln0 Auu*u0 O0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa0 J 0 j 1 w 4 M []0 d0 XR194.2266 -173.8188 m198.7539 -173.8169 201.7852 -173.8159 V193.9316 -165.9614 L193.9316 -168.9761 193.9316 -173.521 Y193.9316 -173.6831 194.0654 -173.8188 194.2266 -173.8188 Cfu194.2266 -175.9175 m192.9063 -175.9175 191.8311 -174.8433 191.8311 -173.521 C191.8311 -165.7104 L181.2622 -165.7104 L179.0303 -165.7104 177.2207 -167.519 177.2207 -169.7495 C177.2207 -194.6689 L177.2207 -196.9014 179.0303 -198.71 181.2622 -198.71 C198.0977 -198.71 L200.3271 -198.71 202.1396 -196.9014 202.1396 -194.6689 C202.1396 -175.9175 L194.2266 -175.9175 Lf0 D190.5771 -191.0063 m182.3745 -191.0063 L181.7949 -191.0063 181.3247 -190.5356 181.3247 -189.9565 c181.3247 -189.3755 181.7949 -188.9067 182.3745 -188.9067 C190.5771 -188.9067 L191.1563 -188.9067 191.627 -189.3755 191.627 -189.9565 c191.627 -190.5356 191.1563 -191.0063 190.5771 -191.0063 Cf197.123 -186.3599 m182.3745 -186.3599 L181.7949 -186.3599 181.3247 -185.8892 181.3247 -185.3101 c181.3247 -184.73 181.7949 -184.2612 182.3745 -184.2612 C197.123 -184.2612 L197.7021 -184.2612 198.1729 -184.73 198.1729 -185.3101 c198.1729 -185.8892 197.7021 -186.3599 197.123 -186.3599 Cf197.123 -181.7114 m182.3745 -181.7114 L181.7949 -181.7114 181.3247 -181.2407 181.3247 -180.6616 c181.3247 -180.0815 181.7949 -179.6118 182.3745 -179.6118 C197.123 -179.6118 L197.7021 -179.6118 198.1729 -180.0815 198.1729 -180.6616 c198.1729 -181.2407 197.7021 -181.7114 197.123 -181.7114 CfU*UUuu0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa34.0225 -167.1938 m34.0166 -167.2485 34.0142 -167.3042 34.0142 -167.3589 c34.0142 -168.1948 34.6479 -168.9106 35.4971 -168.9956 C38.6631 -169.312 40.1816 -169.4634 V40.6328 -171.5864 44.9316 -191.8135 Y45.0933 -192.5742 45.7646 -193.1172 46.542 -193.1172 C64.5103 -193.1172 L65.4194 -193.1172 66.1567 -192.3809 66.1567 -191.4697 c66.1567 -190.561 65.4194 -189.8247 64.5103 -189.8247 C50.1602 -189.8247 47.8745 -189.8247 V47.3804 -187.4976 43.1523 -167.6021 Y43.0034 -166.9019 42.4185 -166.3774 41.7061 -166.3071 C35.8247 -165.7183 L34.9194 -165.6284 34.1128 -166.2886 34.0225 -167.1938 cfU1 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa46.5732 -172.8618 m46.2534 -173.2163 46.1245 -173.7036 46.2271 -174.1704 C48.8618 -186.1772 L49.0107 -186.8569 49.6128 -187.3403 50.3086 -187.3403 C67.231 -187.3403 L68.0498 -187.3403 68.7129 -186.6782 68.7129 -185.8599 C68.7129 -176.0376 L68.7129 -175.2827 68.145 -174.6479 67.3955 -174.5649 C47.8389 -172.3804 L47.3638 -172.3276 46.8931 -172.5063 46.5732 -172.8618 cf1 Ap0 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa52.0688 -196.373 m52.0688 -197.665 51.0234 -198.71 49.7314 -198.71 c48.4399 -198.71 47.3921 -197.665 47.3921 -196.373 c47.3921 -195.0811 48.4399 -194.0332 49.7314 -194.0332 c51.0234 -194.0332 52.0688 -195.0811 52.0688 -196.373 cf64.4473 -196.373 m64.4473 -197.665 63.4023 -198.71 62.1089 -198.71 c60.8188 -198.71 59.7715 -197.665 59.7715 -196.373 c59.7715 -195.0811 60.8188 -194.0332 62.1089 -194.0332 c63.4023 -194.0332 64.4473 -195.0811 64.4473 -196.373 cfUu*u0 Ap1 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa266.1475 -179.8687 m268.0078 -178.855 269.4023 -177.8999 270.2109 -177.3032 C269.4854 -175.4204 268.335 -173.8149 266.9004 -172.5581 C265.9688 -173.0718 264.8379 -173.6538 263.5352 -174.2505 C264.5811 -175.8579 265.5215 -177.7378 266.1475 -179.8687 Cf262.4629 -172.7319 m263.5215 -172.2593 264.4658 -171.7915 265.2861 -171.3618 C263.585 -170.3081 261.6328 -169.6812 259.5986 -169.564 C260.4727 -170.3872 261.4785 -171.4458 262.4629 -172.7319 Cf264.5645 -180.6831 m263.9766 -178.4731 263.0098 -176.5571 261.9316 -174.9507 C259.2422 -176.0737 255.9902 -177.1597 252.3672 -177.8413 C252.4141 -180.1274 252.8906 -182.186 253.6113 -184.0044 C257.8975 -183.4741 261.6504 -182.1021 264.5645 -180.6831 Cf254.4023 -185.7368 m255.2822 -187.4399 256.3447 -188.8833 257.377 -190.0532 C260.2891 -189.7427 262.8379 -188.8481 264.9746 -187.7583 C265.2354 -185.8862 265.1943 -184.147 264.9482 -182.5356 C262.085 -183.8931 258.499 -185.1714 254.4023 -185.7368 Cf256.6895 -191.8857 m255.2539 -191.9922 253.7451 -191.9639 252.1689 -191.7637 C254.0742 -193.0313 256.3262 -193.752 258.665 -193.7979 C258.085 -193.2939 257.4063 -192.6533 256.6895 -191.8857 Cf252.5693 -185.9321 m250.9639 -186.062 249.2891 -186.0747 247.5566 -185.939 C248.0439 -187.2358 248.7236 -188.4126 249.5693 -189.4282 C251.5605 -189.9468 253.4512 -190.1724 255.2227 -190.1675 C254.2773 -188.9595 253.3477 -187.5435 252.5693 -185.9321 Cf270.7646 -179.1372 m269.8066 -179.8228 268.3926 -180.7515 266.5947 -181.7075 C266.8896 -183.2495 267.0068 -184.9058 266.8848 -186.6704 C268.5879 -185.5981 269.9336 -184.4712 270.877 -183.5776 C271.1074 -182.1343 271.0879 -180.6343 270.7646 -179.1372 Cf265.9521 -191.54 m267.7148 -190.2817 269.0811 -188.5864 269.9521 -186.6577 C268.9961 -187.3843 267.8779 -188.1392 266.6094 -188.8452 C266.4551 -189.7202 266.2354 -190.6196 265.9521 -191.54 Cf261.2646 -193.5732 m261.6729 -193.4932 262.0811 -193.3896 262.4893 -193.2646 c262.8643 -193.1475 263.2305 -193.0117 263.585 -192.8643 C263.9961 -191.8359 264.3125 -190.8403 264.5547 -189.8735 C262.8604 -190.6313 260.9668 -191.2598 258.8887 -191.6191 C259.998 -192.668 260.9043 -193.3262 261.2646 -193.5732 Cf251.8184 -184.1753 m251.1396 -182.3638 250.6855 -180.3452 250.5986 -178.1343 C249.4941 -178.2954 248.3604 -178.4165 247.2012 -178.4858 C246.7061 -180.2974 246.6201 -182.2388 247.0322 -184.1733 C247.04 -184.0913 L248.6826 -184.2583 250.2803 -184.2739 251.8184 -184.1753 Cf251.2393 -172.2632 m249.7852 -173.4487 248.6465 -174.9487 247.8779 -176.6265 C248.8047 -176.5503 249.7178 -176.4438 250.6094 -176.3071 C250.6797 -175.0181 250.8848 -173.6685 251.2393 -172.2632 Cf257.0391 -169.6899 m256.4648 -169.7798 255.8896 -169.897 255.3164 -170.0737 c254.7021 -170.2642 254.124 -170.5103 253.5645 -170.7837 C252.9189 -172.6177 252.5576 -174.3511 252.4229 -175.9819 C255.5557 -175.353 258.4072 -174.4146 260.8184 -173.4341 C259.3975 -171.6636 257.9551 -170.4067 257.0391 -169.6899 Cf*Uu*u253.8701 -165.4175 m249.5273 -166.7603 245.9658 -169.7144 243.8447 -173.7358 c241.7227 -177.7583 241.2949 -182.3657 242.6396 -186.7104 c243.9814 -191.0532 246.9355 -194.6143 250.9561 -196.7354 c254.9775 -198.8574 259.585 -199.2852 263.9307 -197.9404 c268.2734 -196.5996 271.835 -193.6465 273.9561 -189.6245 c275.2656 -187.1411 275.9307 -184.4351 275.9307 -181.7046 c275.9307 -180.0132 275.6758 -178.312 275.1602 -176.6509 C273.8184 -172.3071 270.8652 -168.7466 266.8447 -166.6245 c262.8232 -164.5024 258.2148 -164.0737 253.8701 -165.4175 cf0 D252.1768 -194.4229 m248.7725 -192.627 246.2734 -189.6128 245.1396 -185.938 c244 -182.2603 244.3633 -178.3608 246.1582 -174.9565 c247.9551 -171.5532 250.9678 -169.0532 254.6436 -167.9175 c258.3203 -166.7798 262.2197 -167.1431 265.623 -168.939 c269.0273 -170.7349 271.5254 -173.7476 272.6602 -177.4233 C272.6611 -177.4243 L273.8008 -181.1001 273.4395 -184.9995 271.6436 -188.4038 c269.8477 -191.8066 266.834 -194.3066 263.1572 -195.4414 c259.4805 -196.5811 255.5811 -196.2188 252.1768 -194.4229 cf275.1611 -176.6509 m275.1602 -176.6499 L275.1611 -176.6509 Lf*UUUu*u1 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa113.5244 -180.1685 m113.4438 -180.1274 113.3687 -180.0757 113.3032 -180.0103 C109.9971 -176.7046 L109.394 -176.1011 109.5928 -174.1509 111.2764 -172.4673 c112.4487 -171.2944 113.7339 -170.8765 114.5454 -170.8765 c114.8457 -170.8765 115.2563 -170.9302 115.5142 -171.188 C118.8208 -174.4937 L118.8687 -174.5415 118.9028 -174.6118 118.9404 -174.6763 C123.4395 -179.1753 L124.0083 -177.9487 124.3101 -176.6831 124.3101 -175.4692 c124.3101 -173.7163 123.709 -172.0767 122.4741 -170.8413 c122.4731 -170.8403 119.1665 -167.5347 Y117.9902 -166.3579 116.3491 -165.7104 114.5449 -165.7104 c112.1187 -165.7104 109.5947 -166.8423 107.623 -168.8149 c104.0283 -172.4106 103.4673 -177.48 106.3447 -180.3569 C109.6509 -183.6636 L110.8271 -184.8403 112.4688 -185.4878 114.2725 -185.4878 c115.5132 -185.4868 116.7749 -185.1763 117.9775 -184.6216 C113.5244 -180.1685 Lf135.6958 -184.0649 m132.3911 -180.7593 L130.2983 -178.6675 127.0508 -178.4019 124.0527 -179.7886 C128.0386 -183.7739 L128.1738 -183.9087 128.2827 -184.0601 128.3931 -184.2085 C128.5308 -184.2603 128.6519 -184.3247 128.7388 -184.4116 C132.043 -187.7173 L132.646 -188.3208 132.4482 -190.272 130.7651 -191.9551 c129.5928 -193.127 128.3071 -193.5449 127.4956 -193.5449 c127.1953 -193.5449 126.7837 -193.4902 126.5264 -193.2344 C123.2212 -189.9282 L123.1348 -189.8423 123.0703 -189.7222 123.019 -189.5854 C122.8691 -189.4741 122.7183 -189.3628 122.584 -189.228 C118.5991 -185.2427 L117.2119 -188.2427 117.4766 -191.4893 119.5688 -193.5811 C122.874 -196.8857 L124.0508 -198.0645 125.6924 -198.7109 127.4966 -198.71 c129.9238 -198.71 132.4468 -197.5801 134.4185 -195.6064 c136.4697 -193.5557 137.5332 -191.0229 137.5332 -188.6919 c137.5332 -186.9399 136.9312 -185.3003 135.6958 -184.0649 Cf*U0 D113.6294 -178.8599 m123.291 -188.521 L124.4048 -189.6353 126.2173 -189.6353 127.3315 -188.521 c128.4443 -187.4067 128.4453 -185.5952 127.3315 -184.481 C117.6699 -174.8198 L116.5562 -173.7056 114.7427 -173.7065 113.6294 -174.8198 c112.5156 -175.9341 112.5156 -177.7456 113.6294 -178.8599 Cf/BBAccumRotation (0.785398) XTUu0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa334.8711 -184.8472 m332.9004 -184.8511 331.293 -183.2505 331.2891 -181.2808 c331.2852 -179.3101 332.8857 -177.7026 334.8564 -177.6987 C335.4922 -177.6978 336.0742 -177.6958 V336.0527 -167.7485 L336.0508 -166.6206 335.1357 -165.7085 334.0059 -165.7104 C322.123 -165.7358 L320.9961 -165.7378 320.0811 -166.6538 320.084 -167.7817 C320.1475 -198.5225 L320.1475 -198.5879 320.1602 -198.6475 320.168 -198.71 C326.6768 -192.1758 L327.4727 -191.377 328.7646 -191.373 329.5645 -192.1689 C336.0986 -198.6768 L336.1035 -198.6143 336.1182 -198.5547 336.1182 -198.4893 C336.0898 -184.8442 L335.5068 -184.8462 334.8711 -184.8472 Yf/BBAccumRotation (0.002090) XT0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa344.5186 -179.7212 m341.2207 -179.728 L341.2148 -176.4302 L341.2129 -175.5835 340.5254 -174.8999 339.6797 -174.9009 c338.834 -174.9028 338.1484 -175.5903 338.1504 -176.436 C338.1572 -179.7339 L334.8604 -179.7417 L334.0146 -179.7427 333.3301 -180.4302 333.3311 -181.2759 c333.334 -182.1226 334.0195 -182.8062 334.8652 -182.8042 C338.1641 -182.7974 L338.1699 -186.0952 L338.1729 -186.9409 338.8604 -187.6255 339.7061 -187.6235 c340.5518 -187.6226 341.2354 -186.9351 341.2344 -186.0884 C341.2275 -182.7915 L344.5254 -182.7847 L345.3711 -182.7827 346.0566 -182.0952 346.0547 -181.2505 c346.0518 -180.4038 345.3643 -179.7192 344.5186 -179.7212 CfUUuu134.8599 -271.252 m134.8315 -271.252 134.8071 -271.2656 134.7798 -271.2686 C134.7515 -271.2656 134.7271 -271.252 134.6987 -271.252 C107.3599 -271.252 L107.3286 -271.252 107.3022 -271.2676 107.272 -271.2695 C107.2407 -271.2676 107.2144 -271.252 107.1831 -271.252 c106.646 -271.252 106.2114 -271.6885 106.2114 -272.2246 C106.2114 -275.3271 L106.2114 -275.8643 106.646 -276.3008 107.1831 -276.3008 c107.7202 -276.3008 108.1558 -275.8643 108.1558 -275.3271 C108.1558 -273.1982 L120.0493 -273.1982 L120.0493 -275.3271 L120.0493 -275.8643 120.4849 -276.3008 121.022 -276.3008 c121.5591 -276.3008 121.9937 -275.8643 121.9937 -275.3271 C121.9937 -273.1982 L133.8872 -273.1982 L133.8872 -275.3271 L133.8872 -275.8643 134.3228 -276.3008 134.8599 -276.3008 c135.397 -276.3008 135.8315 -275.8643 135.8315 -275.3271 C135.8315 -272.2246 L135.8315 -271.6885 135.397 -271.252 134.8599 -271.252 cfu*u1 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa124.9336 -257.665 m120.8672 -257.665 L120.8677 -262.0352 L120.8677 -262.7939 120.25 -263.4102 119.4912 -263.4102 C115.231 -263.4102 L115.231 -267 L115.231 -268.0371 116.0713 -268.8789 117.1079 -268.8789 C124.9336 -268.8789 L125.9707 -268.8789 126.812 -268.0371 126.812 -267 C126.812 -259.5439 L126.812 -258.5059 125.9707 -257.665 124.9336 -257.665 Cf119.3672 -258.123 m118.3394 -259.1523 116.6099 -260.8809 115.5811 -261.9102 C119.3677 -261.9102 L119.3677 -261.4941 119.3677 -259.4736 119.3672 -258.123 Cf*UUuu*u111.0474 -278.6729 m106.981 -278.6729 L106.9814 -283.041 L106.9814 -283.8008 106.3638 -284.418 105.605 -284.418 C101.3447 -284.418 L101.3447 -288.0068 L101.3447 -289.0439 102.1851 -289.8857 103.2217 -289.8857 C111.0474 -289.8857 L112.0845 -289.8857 112.9258 -289.0439 112.9258 -288.0068 C112.9258 -280.5508 L112.9258 -279.5137 112.0845 -278.6729 111.0474 -278.6729 Cf105.481 -279.1309 m104.4531 -280.1582 102.7236 -281.8887 101.6948 -282.918 C105.4814 -282.918 L105.4814 -282.502 105.4814 -280.4814 105.481 -279.1309 Cf*UUu*u124.9336 -278.6729 m120.8672 -278.6729 L120.8677 -283.041 L120.8677 -283.8008 120.25 -284.418 119.4912 -284.418 C115.231 -284.418 L115.231 -288.0068 L115.231 -289.0439 116.0713 -289.8857 117.1079 -289.8857 C124.9336 -289.8857 L125.9707 -289.8857 126.812 -289.0439 126.812 -288.0068 C126.812 -280.5508 L126.812 -279.5137 125.9707 -278.6729 124.9336 -278.6729 Cf119.3672 -279.1309 m118.3394 -280.1582 116.6099 -281.8887 115.5811 -282.918 C119.3677 -282.918 L119.3677 -282.502 119.3677 -280.4814 119.3672 -279.1309 Cf*UUu*u138.8188 -278.6729 m134.7524 -278.6729 L134.7529 -283.041 L134.7529 -283.8008 134.1353 -284.418 133.3765 -284.418 C129.1162 -284.418 L129.1162 -288.0068 L129.1162 -289.0439 129.9565 -289.8857 130.9932 -289.8857 C138.8188 -289.8857 L139.856 -289.8857 140.6973 -289.0439 140.6973 -288.0068 C140.6973 -280.5508 L140.6973 -279.5137 139.856 -278.6729 138.8188 -278.6729 Cf133.2524 -279.1309 m132.2246 -280.1582 130.4951 -281.8887 129.4663 -282.918 C133.2529 -282.918 L133.2529 -282.502 133.2529 -280.4814 133.2524 -279.1309 Cf*UUUUu0 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa63.8643 -254.7432 m58.8301 -254.7432 54.7349 -258.8379 54.7349 -263.8711 C54.7349 -266.9531 L59.0117 -266.9531 L59.0146 -266.9531 59.0181 -266.9531 59.021 -266.9531 C59.021 -263.8711 L59.021 -261.2012 61.1938 -259.0293 63.8643 -259.0293 c66.5342 -259.0293 68.7065 -261.2012 68.7065 -263.8711 C68.7065 -267.2021 L68.7065 -268.3857 69.666 -269.3447 70.8496 -269.3447 c72.0332 -269.3447 72.9927 -268.3857 72.9927 -267.2021 C72.9927 -263.8711 L72.9927 -258.8379 68.8979 -254.7432 63.8643 -254.7432 cfu*u1 D0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa59.0117 -268.9531 m43.415 -268.9531 L40.2813 -268.9531 37.7422 -271.4941 37.7422 -274.6289 C37.7422 -284.2109 L37.7422 -287.3457 40.2813 -289.8857 43.415 -289.8857 C59.0117 -289.8857 L62.145 -289.8857 64.6851 -287.3457 64.6851 -284.2109 C64.6851 -274.6289 L64.6851 -271.4941 62.145 -268.9531 59.0117 -268.9531 Cf0 D53.2144 -282.4355 m53.2144 -283.54 52.3188 -284.4355 51.2144 -284.4355 c50.1099 -284.4355 49.2144 -283.54 49.2144 -282.4355 C49.2144 -276.7061 L49.2144 -275.6016 50.1099 -274.7061 51.2144 -274.7061 c52.3188 -274.7061 53.2144 -275.6016 53.2144 -276.7061 C53.2144 -282.4355 Lf*UUUuu*u1 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa189.6802 -256.3223 m180.4106 -256.3223 172.8975 -263.835 172.8975 -273.1035 c172.8975 -282.373 180.4106 -289.8857 189.6802 -289.8857 c198.9482 -289.8857 206.4629 -282.373 206.4629 -273.1035 c206.4629 -263.835 198.9482 -256.3223 189.6802 -256.3223 cf0 D189.6802 -288.0186 m181.457 -288.0186 174.7671 -281.3281 174.7671 -273.1035 c174.7671 -264.8789 181.457 -258.1895 189.6802 -258.1895 c197.9033 -258.1895 204.5947 -264.8789 204.5947 -273.1035 c204.5947 -281.3281 197.9033 -288.0186 189.6802 -288.0186 cf*UUu*u1 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa189.6802 -260.1895 m182.5483 -260.1895 176.7671 -265.9727 176.7671 -273.1035 c176.7671 -280.2354 182.5483 -286.0186 189.6802 -286.0186 c196.8105 -286.0186 202.5947 -280.2354 202.5947 -273.1035 c202.5947 -265.9727 196.8105 -260.1895 189.6802 -260.1895 cf0 D195.7471 -275.7793 m189.6616 -281.6758 L189.4272 -281.4482 L183.5947 -275.7607 183.6182 -275.7813 V183.2886 -275.5186 183.0913 -275.1465 183.061 -274.7354 c183.0308 -274.3232 183.1768 -273.9141 183.4614 -273.6104 c183.7778 -273.2715 184.1836 -273.0811 184.6035 -273.0742 c184.9951 -273.0684 185.3716 -273.2236 185.6641 -273.5176 C187.2788 -275.1807 188.1123 -276.04 V188.1113 -275.582 188.0962 -267.0684 188.0962 -267.0664 c188.0962 -266.6641 188.2646 -266.2646 188.5615 -265.9697 c188.8574 -265.6699 189.2593 -265.499 189.6626 -265.499 c190.5122 -265.499 191.2285 -266.2158 191.2285 -267.0684 C191.2148 -274.1904 191.207 -275.9443 V192.1201 -275.0156 193.6143 -273.4941 193.625 -273.4814 C194.3008 -272.8896 195.2441 -272.9443 195.8643 -273.6104 c196.1289 -273.8975 196.2676 -274.2725 196.2529 -274.6738 c196.2402 -275.0938 196.0527 -275.4961 195.7471 -275.7793 Cf*UUUu0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa276.5352 -287.8857 m242.2656 -287.8857 L242.2656 -256.8867 L242.2656 -256.335 241.8184 -255.8867 241.2656 -255.8867 c240.7139 -255.8867 240.2656 -256.335 240.2656 -256.8867 C240.2656 -288.8857 L240.2656 -289.4395 240.7139 -289.8857 241.2656 -289.8857 C276.5352 -289.8857 L277.0879 -289.8857 277.5352 -289.4395 277.5352 -288.8857 c277.5352 -288.334 277.0879 -287.8857 276.5352 -287.8857 Cf1 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa272.1191 -265.1064 m270.1914 -265.1064 L268.3066 -265.1064 266.7754 -266.5947 266.7754 -268.4336 C266.7754 -282.4766 L266.7754 -284.3145 268.3066 -285.8018 270.1914 -285.8018 C272.1191 -285.8018 L274.0098 -285.8018 275.5361 -284.3145 275.5361 -282.4766 C275.5361 -268.4336 L275.5361 -266.5947 274.0098 -265.1064 272.1191 -265.1064 Cf0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa261.2021 -258.4512 m259.2754 -258.4512 L257.3857 -258.4512 255.8564 -259.9395 255.8564 -261.7773 C255.8564 -282.4766 L255.8564 -284.3145 257.3857 -285.8018 259.2754 -285.8018 C261.2021 -285.8018 L263.0898 -285.8018 264.6191 -284.3145 264.6191 -282.4766 C264.6191 -261.7773 L264.6191 -259.9395 263.0898 -258.4512 261.2021 -258.4512 Cf0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa250.2852 -271.7686 m248.3564 -271.7686 L246.4678 -271.7686 244.9395 -273.2568 244.9395 -275.0938 C244.9395 -282.4766 L244.9395 -284.3145 246.4678 -285.8018 248.3564 -285.8018 C250.2852 -285.8018 L252.1699 -285.8018 253.7012 -284.3145 253.7012 -282.4766 C253.7012 -275.0938 L253.7012 -273.2568 252.1699 -271.7686 250.2852 -271.7686 CfUuu*u340.4482 -267.8691 m338.4668 -267.8691 L338.4668 -273.9521 L317.0977 -273.9521 L317.0977 -267.8691 L315.6777 -267.8691 L312.9063 -267.8691 310.6563 -270.1172 310.6563 -272.8906 C310.6563 -281.7051 L310.6563 -284.4785 312.9063 -286.7266 315.6777 -286.7266 C317.0977 -286.7266 L317.0977 -283.5439 L338.4668 -283.5439 L338.4668 -286.7266 L340.4482 -286.7266 L343.2207 -286.7266 345.4707 -284.4785 345.4707 -281.7051 C345.4707 -272.8906 L345.4707 -270.1172 343.2207 -267.8691 340.4482 -267.8691 Cf0 D336.0273 -280.2148 m335.0762 -280.2148 334.3086 -279.4434 334.3086 -278.4941 c334.3086 -277.5469 335.0762 -276.7754 336.0254 -276.7754 c336.9746 -276.7754 337.7441 -277.5469 337.7441 -278.4941 c337.7441 -279.4434 336.9746 -280.2148 336.0273 -280.2148 cf341.1357 -280.2148 m340.1855 -280.2148 339.4189 -279.4434 339.4189 -278.4941 c339.4189 -277.5469 340.1855 -276.7754 341.1357 -276.7754 c342.085 -276.7754 342.8535 -277.5469 342.8535 -278.4941 c342.8535 -279.4434 342.085 -280.2148 341.1357 -280.2148 cf*UU0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa319.0977 -285.5439 m319.0977 -287.127 319.0977 -288.3027 319.0977 -289.8857 C322.0449 -289.8857 333.5195 -289.8857 336.4668 -289.8857 C336.4668 -288.3027 336.4668 -287.127 336.4668 -285.5439 C333.5195 -285.5439 322.0449 -285.5439 319.0977 -285.5439 Cf*u1 D319.0977 -259.2695 m319.0977 -271.9521 L336.4668 -271.9521 L336.4668 -259.2695 L319.0977 -259.2695 Lf0 D332.6768 -267.9707 m322.8887 -267.9707 L322.4736 -267.9707 322.1387 -267.6357 322.1387 -267.2207 c322.1387 -266.8066 322.4736 -266.4707 322.8887 -266.4707 C332.6768 -266.4707 L333.0908 -266.4707 333.4268 -266.8066 333.4268 -267.2207 c333.4268 -267.6357 333.0908 -267.9707 332.6768 -267.9707 Cf332.6768 -264.749 m322.8887 -264.749 L322.4736 -264.749 322.1387 -264.4141 322.1387 -263.999 c322.1387 -263.585 322.4736 -263.249 322.8887 -263.249 C332.6768 -263.249 L333.0908 -263.249 333.4268 -263.585 333.4268 -263.999 c333.4268 -264.4141 333.0908 -264.749 332.6768 -264.749 Cf*UUUu66.3604 -80.4976 m66.3604 -87.7642 L66.3604 -92.2866 62.6807 -95.9663 58.1582 -95.9663 C53.0439 -95.9663 51.7446 -95.9663 V50.9736 -96.7368 49.5107 -98.1997 48.1694 -99.5405 C53.812 -99.5405 L54.52 -100.2505 60.876 -106.603 Y61.2603 -106.9897 61.8408 -107.106 62.3442 -106.8979 c62.8491 -106.688 63.1777 -106.1968 63.1777 -105.6499 C63.1777 -101.3413 63.1777 -99.5347 V66.5698 -99.5044 69.3223 -96.7378 69.3223 -93.3384 C69.3223 -85.7778 L69.3223 -83.5454 68.1338 -81.5913 66.3604 -80.4976 Cf1 D58.1582 -73.9995 m61.5776 -73.9995 64.3604 -76.7817 64.3604 -80.2026 C64.3604 -87.7642 L64.3604 -91.1831 61.5776 -93.9663 58.1582 -93.9663 C51.8799 -93.9663 50.9165 -93.9663 V50.2085 -94.6753 43.8525 -101.0288 Y43.4683 -101.4146 42.8872 -101.5308 42.3848 -101.3228 c41.8794 -101.1128 41.5503 -100.6216 41.5503 -100.0757 C41.5503 -95.7671 41.5503 -93.9614 V38.1587 -93.9292 35.4063 -91.1636 35.4063 -87.7642 C35.4063 -80.2026 L35.4063 -76.7817 38.188 -73.9995 41.6094 -73.9995 C58.1582 -73.9995 Lf0 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa66.3604 -80.4976 m66.3604 -87.7642 L66.3604 -92.2866 62.6807 -95.9663 58.1582 -95.9663 C53.0439 -95.9663 51.7446 -95.9663 V50.9736 -96.7368 49.5107 -98.1997 48.1694 -99.5405 C53.812 -99.5405 L54.52 -100.2505 60.876 -106.603 Y61.2603 -106.9897 61.8408 -107.106 62.3442 -106.8979 c62.8491 -106.688 63.1777 -106.1968 63.1777 -105.6499 C63.1777 -101.3413 63.1777 -99.5347 V66.5698 -99.5044 69.3223 -96.7378 69.3223 -93.3384 C69.3223 -85.7778 L69.3223 -83.5454 68.1338 -81.5913 66.3604 -80.4976 Cf1 D0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa58.1582 -73.9995 m61.5776 -73.9995 64.3604 -76.7817 64.3604 -80.2026 C64.3604 -87.7642 L64.3604 -91.1831 61.5776 -93.9663 58.1582 -93.9663 C51.8799 -93.9663 50.9165 -93.9663 V50.2085 -94.6753 43.8525 -101.0288 Y43.4683 -101.4146 42.8872 -101.5308 42.3848 -101.3228 c41.8794 -101.1128 41.5503 -100.6216 41.5503 -100.0757 C41.5503 -95.7671 41.5503 -93.9614 V38.1587 -93.9292 35.4063 -91.1636 35.4063 -87.7642 C35.4063 -80.2026 L35.4063 -76.7817 38.188 -73.9995 41.6094 -73.9995 C58.1582 -73.9995 LfUuu0 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa318.9141 -83.1509 m318.9141 -84.5767 L323.4033 -84.5767 L323.4033 -83.1509 L323.4033 -80.5806 325.4941 -78.4897 328.0645 -78.4897 c330.6328 -78.4897 332.7236 -80.5806 332.7236 -83.1509 C332.7236 -84.5767 L337.2148 -84.5767 L337.2148 -83.1509 L337.2148 -78.105 333.1104 -74.0005 328.0645 -74.0005 c323.0186 -74.0005 318.9141 -78.105 318.9141 -83.1509 CfUu*u1 D0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa335.7725 -86.3081 m320.3564 -86.3081 L317.2568 -86.3081 314.7461 -88.8198 314.7461 -91.9175 C314.7461 -101.3911 L314.7461 -104.4897 317.2568 -107.0005 320.3564 -107.0005 C335.7725 -107.0005 L338.8691 -107.0005 341.3809 -104.4897 341.3809 -101.3911 C341.3809 -91.9175 L341.3809 -88.8198 338.8691 -86.3081 335.7725 -86.3081 Cf0 D330.1582 -99.6343 m330.1582 -100.7915 329.2207 -101.729 328.0645 -101.729 c326.9063 -101.729 325.9688 -100.7915 325.9688 -99.6343 C325.9688 -93.9722 L325.9688 -92.8159 326.9063 -91.8774 328.0645 -91.8774 c329.2207 -91.8774 330.1582 -92.8159 330.1582 -93.9722 C330.1582 -99.6343 Lf*UUUuuu*u1 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa112.1265 -103.3862 m111.7563 -103.2319 111.103 -102.7964 110.8027 -102.5669 C109.7485 -101.6069 L109.6699 -101.5308 109.5425 -101.4849 109.436 -101.5112 c109.3286 -101.5356 109.229 -101.6011 109.1909 -101.7065 C108.2544 -105.4917 L108.207 -105.6255 108.25 -105.7739 108.3633 -105.8589 c108.4746 -105.9458 108.6294 -105.9478 108.7446 -105.8687 C111.8325 -104.1968 L111.8325 -104.1968 L112.1841 -103.9556 L112.2832 -103.8862 112.3364 -103.772 112.3247 -103.6538 c112.3105 -103.5347 112.2349 -103.4331 112.1265 -103.3862 cf*UUU*u0.666667 0.196078 0 0 0.262745 0.65098 0.866667 Xa110.7759 -96.2993 m110.353 -96.853 110.1021 -97.4839 110.0122 -98.1304 C110.3477 -98.0972 110.6973 -98.1841 110.9834 -98.4048 c111.4102 -98.73 111.5884 -99.2544 111.5005 -99.7495 C111.9536 -99.5347 112.5073 -99.5698 112.9326 -99.896 c113.3584 -100.2222 113.5371 -100.7476 113.4468 -101.2427 C113.9043 -101.0269 114.4575 -101.063 114.8809 -101.3882 c115.1704 -101.6089 115.3442 -101.9224 115.3994 -102.2544 C115.9985 -101.9995 116.5449 -101.5933 116.9673 -101.0396 C128.2554 -86.2983 L122.061 -81.5571 L110.7759 -96.2993 Lf123.1152 -80.1792 m129.3096 -84.9204 L130.7515 -83.0347 L124.562 -78.2944 L123.1152 -80.1792 Lf132.1455 -74.8052 m130.4346 -73.4946 127.9888 -73.8188 126.6772 -75.5288 C125.5723 -76.9741 L131.7646 -81.7163 L132.8726 -80.27 L134.1816 -78.562 133.8555 -76.1138 132.1455 -74.8052 cf*Uu0 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa113.7695 -104.9438 m113.2021 -104.9438 112.7417 -105.4048 112.7417 -105.9722 c112.7417 -106.5396 113.2021 -107.0005 113.7695 -107.0005 C132.7783 -107.0005 L133.3462 -107.0005 133.8062 -106.5396 133.8062 -105.9722 c133.8062 -105.4048 133.3462 -104.9438 132.7783 -104.9438 C113.7695 -104.9438 LfUUu201.3018 -82.2837 m201.3018 -75.4966 L201.3018 -74.6733 200.6191 -74.0005 199.7813 -74.0005 C196.9434 -74.0005 L196.1064 -74.0005 195.4229 -74.6733 195.4229 -75.4966 C195.4229 -76.4048 L201.3018 -82.2837 Lfu*u1 D0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa202.7637 -86.5747 m192.6025 -76.4116 L190.9883 -74.7983 188.3716 -74.7983 186.7598 -76.4116 C176.5972 -86.5747 L174.9844 -88.187 174.9839 -90.8013 176.5972 -92.4155 C176.916 -92.4155 L176.916 -92.4487 176.9072 -92.48 176.9072 -92.5122 C176.9072 -102.2114 L176.9072 -104.856 179.0522 -107.0005 181.6963 -107.0005 C186.229 -107.0005 L186.229 -98.7778 L186.229 -98.0747 186.7695 -97.5005 187.4321 -97.5005 C192.252 -97.5005 L192.915 -97.5005 193.457 -98.0747 193.457 -98.7778 C193.457 -107.0005 L197.7813 -107.0005 L200.4268 -107.0005 202.5723 -104.856 202.5723 -102.2114 C202.5723 -92.5122 L202.5723 -92.48 202.5605 -92.4487 202.5605 -92.4155 C202.7637 -92.4155 L204.377 -90.8022 204.377 -88.187 202.7637 -86.5747 Cf0 D189.5161 -84.0942 m181.9302 -91.6948 L181.5396 -92.0864 180.9067 -92.0864 180.5156 -91.6968 c180.1245 -91.3062 180.124 -90.6733 180.5142 -90.2817 C188.1001 -82.6812 L188.4902 -82.2905 189.1235 -82.2896 189.5146 -82.6802 c189.9058 -83.0708 189.9063 -83.7036 189.5161 -84.0942 Cf*UUU*u1 D0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa254.7266 -74.0015 m247.9238 -74.0015 242.3896 -79.5347 242.3896 -86.3374 c242.3896 -93.1401 247.9238 -98.6743 254.7266 -98.6743 c261.5293 -98.6743 267.0635 -93.1401 267.0635 -86.3374 c267.0635 -79.5347 261.5293 -74.0015 254.7266 -74.0015 cf0 D254.7266 -94.9653 m249.9688 -94.9653 246.0986 -91.0952 246.0986 -86.3374 c246.0986 -81.5796 249.9688 -77.7095 254.7266 -77.7095 c259.4854 -77.7095 263.3555 -81.5796 263.3555 -86.3374 c263.3555 -91.0952 259.4854 -94.9653 254.7266 -94.9653 cf*U0.831372 0.513725 0.223529 0.027451 0.207843 0.439216 0.6 Xa253.0439 -81.8843 m253.0439 -84.0747 253.0439 -84.6577 V252.4609 -84.6577 250.2715 -84.6577 Y249.2676 -84.6577 248.5908 -85.3335 248.5908 -86.3394 c248.5908 -87.3433 249.2676 -88.0181 250.2715 -88.0181 C252.4609 -88.0181 253.0439 -88.0181 V253.0439 -88.6011 253.0439 -90.7935 Y253.0439 -91.7974 253.7197 -92.4722 254.7246 -92.4722 c255.7314 -92.4722 256.4063 -91.7974 256.4063 -90.7935 C256.4063 -88.6011 256.4063 -88.0181 V256.9893 -88.0181 259.1797 -88.0181 Y260.1855 -88.0181 260.8613 -87.3433 260.8613 -86.3394 c260.8613 -85.3335 260.1855 -84.6577 259.1797 -84.6577 C256.9893 -84.6577 256.4063 -84.6577 V256.4063 -84.0747 256.4063 -81.8843 Y256.4063 -80.8794 255.7314 -80.2036 254.7246 -80.2036 c253.7197 -80.2036 253.0439 -80.8794 253.0439 -81.8843 Cf0.733333 0.517647 0.47451 0.219608 0.286275 0.376471 0.407843 Xa274.2393 -100.6929 m267.4395 -93.6616 L266.21 -95.7896 264.4629 -97.5747 262.3691 -98.8579 C269.3135 -106.0396 L270.7891 -107.3989 273.0879 -107.3052 274.4473 -105.8276 c275.8086 -104.3511 275.7148 -102.0532 274.2393 -100.6929 CfLB%AI5_EndLayer--%%PageTrailergsave annotatepage grestore showpage%%TrailerAdobe_Illustrator_AI5 /terminate get exec
-Adobe_shading_AI8 /terminate get exec
-Adobe_ColorImage_AI6 /terminate get exec
-AGM_Gradient /terminate get exec
-Adobe_cshow /terminate get exec
-Adobe_level2_AI5 /terminate get exec
-%%EOF

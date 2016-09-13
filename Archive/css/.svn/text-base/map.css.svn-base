@@ -1,5 +1,0 @@
-div#google_map {
-  /*margin-top: 100px;*/
-  margin-top: 20px;
-  height: 500px;
-}
